@@ -1,0 +1,636 @@
+Major Group,Minor Group,Broad Group,Detailed Occupation,Occupation Name
+,11-1000,,,top executives
+,11-2000,,,advertising marketing promotions public relations and sales managers
+,,11-2020,,marketing and sales managers
+,,,11-2032,public relations managers
+,,,11-2033,fundraising managers
+,11-3000,,,operations specialties managers
+,,11-3010,,administrative services and facilities managers
+,11-9000,,,other management occupations
+,,,11-9031,education and childcare administrators preschool and daycare
+,,,11-9032,education administrators kindergarten through secondary
+,,,11-9033,education administrators postsecondary
+,,,11-9039,other education administrators
+,,,11-9071,gambling managers
+,,,11-9072,entertainment and recreation managers except gambling
+,,11-9170,,personal service managers
+,,11-9190,,miscellaneous managers
+,13-1000,,,business operations specialists
+,,13-1020,,buyers and purchasing agents
+,,,13-1031,claims adjusters examiners and investigators
+,,,13-1032,insurance appraisers auto damage
+,,,13-1071,human resources specialists
+,,,13-1074,farm labor contractors
+,,,13-1075,labor relations specialists
+,,13-1080,,logisticians and project management specialists
+,,13-1190,,miscellaneous business operations specialists
+,13-2000,,,financial specialists
+,,,13-2022,appraisers of personal and business property
+,,,13-2023,appraisers and assessors of real estate
+,,13-2050,,financial analysts and advisors
+,,,13-2054,financial risk specialists
+,,,13-2071,credit counselors
+,,,13-2072,loan officers
+,,13-2080,,tax examiners collectors and preparers and revenue agents
+,,13-2090,,miscellaneous financial specialists
+,15-1200,,,computer occupations
+,,15-1210,,computer and information analysts
+,,,15-1231,computer network support specialists
+,,,15-1232,computer user support specialists
+,,15-1240,,database and network administrators and architects
+,,,15-1242,database administrators
+,,,15-1243,database architects
+,,15-1250,,software and web developers programmers and testers
+,,15-1290,,miscellaneous computer occupations
+,15-2000,,,mathematical science occupations
+,,15-2050,,data scientists
+,,,15-2051,data scientists
+,,15-2090,,miscellaneous mathematical science occupations
+,17-1000,,,architects surveyors and cartographers
+,,17-1010,,architects except naval
+,,,17-1021,cartographers and photogrammetrists
+,,,17-1022,surveyors
+,17-2000,,,engineers
+,,,17-2071,electrical engineers
+,,,17-2072,electronics engineers except computer
+,,,17-2111,health and safety engineers except mining safety engineers and inspectors
+,,,17-2112,industrial engineers
+,,17-2190,,miscellaneous engineers
+,17-3000,,,drafters engineering technicians and mapping technicians
+,,17-3010,,drafters
+,,,17-3012,electrical and electronics drafters
+,,,17-3013,mechanical drafters
+,,17-3020,,engineering technologists and technicians except drafters
+,,,17-3021,aerospace engineering and operations technologists and technicians
+,,,17-3022,civil engineering technologists and technicians
+,,,17-3024,electromechanical and mechatronics technologists and technicians
+,,,17-3025,environmental engineering technologists and technicians
+,,,17-3026,industrial engineering technologists and technicians
+,,,17-3027,mechanical engineering technologists and technicians
+,,,17-3028,calibration technologists and technicians
+,19-1000,,,life scientists
+,,,19-1011,animal scientists
+,,,19-1012,food scientists and technologists
+,,,19-1013,soil and plant scientists
+,,,19-1021,biochemists and biophysicists
+,,,19-1022,microbiologists
+,,,19-1023,zoologists and wildlife biologists
+,,,19-1029,other biological scientists
+,,,19-1031,conservation scientists
+,,,19-1032,foresters
+,,,19-1041,epidemiologists
+,,,19-1042,medical scientists except epidemiologists
+,,19-1090,,miscellaneous life scientists
+,19-2000,,,physical scientists
+,,,19-2011,astronomers
+,,,19-2012,physicists
+,,,19-2031,chemists
+,,,19-2032,materials scientists
+,,19-2040,,environmental scientists and geoscientists
+,,,19-2042,geoscientists except hydrologists and geographers
+,,,19-2043,hydrologists
+,,19-2090,,miscellaneous physical scientists
+,19-3000,,,social scientists and related workers
+,,19-3030,,psychologists
+,,,19-3032,industrialorganizational psychologists
+,,,19-3091,anthropologists and archeologists
+,,,19-3092,geographers
+,,,19-3093,historians
+,,,19-3094,political scientists
+,,,19-3099,other social scientists and related workers
+,19-4000,,,life physical and social science technicians
+,,,19-4012,agricultural technicians
+,,,19-4013,food science technicians
+,,,19-4042,environmental science and protection technicians including health
+,,,19-4043,geological technicians except hydrologic technicians
+,,,19-4044,hydrologic technicians
+,,19-4070,,forest and conservation technicians
+,,,19-4071,forest and conservation technicians
+,,19-4090,,miscellaneous life physical and social science technicians
+,,,19-4092,forensic science technicians
+,,,19-5011,occupational health and safety specialists
+,,,19-5012,occupational health and safety technicians
+,21-1000,,,other counselors social workers and community and social service specialists
+,,21-1010,,counselors
+,,21-1020,,social workers
+,,21-1090,,miscellaneous community and social service specialists
+,,,21-1091,health education specialists
+,,,21-1094,community health workers
+,21-2000,,,religious workers
+,,21-2090,,miscellaneous religious workers
+,23-1000,,,lawyers judges and related workers
+,,23-1010,,lawyers and judicial law clerks
+,,,23-1021,administrative law judges adjudicators and hearing officers
+,,,23-1022,arbitrators mediators and conciliators
+,,,23-1023,judges magistrate judges and magistrates
+,23-2000,,,legal support workers
+,,23-2090,,miscellaneous legal support workers
+,,25-1010,,business teachers postsecondary
+,,,25-1011,business teachers postsecondary
+,,25-1020,,math and computer science teachers postsecondary
+,,,25-1021,computer science teachers postsecondary
+,,,25-1022,mathematical science teachers postsecondary
+,,25-1030,,engineering and architecture teachers postsecondary
+,,,25-1031,architecture teachers postsecondary
+,,,25-1032,engineering teachers postsecondary
+,,25-1040,,life sciences teachers postsecondary
+,,,25-1041,agricultural sciences teachers postsecondary
+,,,25-1042,biological science teachers postsecondary
+,,,25-1043,forestry and conservation science teachers postsecondary
+,,25-1050,,physical sciences teachers postsecondary
+,,,25-1051,atmospheric earth marine and space sciences teachers postsecondary
+,,,25-1052,chemistry teachers postsecondary
+,,,25-1053,environmental science teachers postsecondary
+,,,25-1054,physics teachers postsecondary
+,,25-1060,,social sciences teachers postsecondary
+,,,25-1061,anthropology and archeology teachers postsecondary
+,,,25-1062,area ethnic and cultural studies teachers postsecondary
+,,,25-1063,economics teachers postsecondary
+,,,25-1064,geography teachers postsecondary
+,,,25-1065,political science teachers postsecondary
+,,,25-1066,psychology teachers postsecondary
+,,,25-1067,sociology teachers postsecondary
+,,,25-1069,other social sciences teachers postsecondary
+,,25-1070,,health teachers postsecondary
+,,,25-1071,health specialties teachers postsecondary
+,,,25-1072,nursing instructors and teachers postsecondary
+,,25-1080,,education and library science teachers postsecondary
+,,,25-1081,education teachers postsecondary
+,,,25-1082,library science teachers postsecondary
+,,25-1110,,law criminal justice and social work teachers postsecondary
+,,,25-1111,criminal justice and law enforcement teachers postsecondary
+,,,25-1112,law teachers postsecondary
+,,,25-1113,social work teachers postsecondary
+,,25-1120,,arts communications history and humanities teachers postsecondary
+,,,25-1121,art drama and music teachers postsecondary
+,,,25-1122,communications teachers postsecondary
+,,,25-1123,english language and literature teachers postsecondary
+,,,25-1124,foreign language and literature teachers postsecondary
+,,,25-1125,history teachers postsecondary
+,,,25-1126,philosophy and religion teachers postsecondary
+,,25-1190,,miscellaneous postsecondary teachers
+,,,25-1192,family and consumer sciences teachers postsecondary
+,,,25-1193,recreation and fitness studies teachers postsecondary
+,,,25-1194,careertechnical education teachers postsecondary
+,,,25-1199,other postsecondary teachers
+,25-2000,,,preschool elementary middle secondary and special education teachers
+,,,25-2011,preschool teachers except special education
+,,,25-2012,kindergarten teachers except special education
+,,,25-2021,elementary school teachers except special education
+,,,25-2022,middle school teachers except special and careertechnical education
+,,,25-2023,careertechnical education teachers middle school
+,,,25-2031,secondary school teachers except special and careertechnical education
+,,,25-2032,careertechnical education teachers secondary school
+,,,25-2051,special education teachers preschool
+,,,25-2055,special education teachers kindergarten
+,,,25-2056,special education teachers elementary school
+,,,25-2057,special education teachers middle school
+,,,25-2058,special education teachers secondary school
+,,,25-2059,other special education teachers
+,,25-3010,,adult basic education adult secondary education and english as a second language instructors
+,,,25-3011,adult basic education adult secondary education and english as a second language instructors
+,,25-3020,,selfenrichment teachers
+,,,25-3021,selfenrichment teachers
+,,25-3030,,substitute teachers shortterm
+,,,25-3031,substitute teachers shortterm
+,,25-3090,,miscellaneous teachers and instructors
+,25-4000,,,librarians curators and archivists
+,,,25-4011,archivists
+,,,25-4012,curators
+,,,25-4013,museum technicians and conservators
+,25-9000,,,other educational instruction and library occupations
+,,25-9020,,farm and home management educators
+,,,25-9021,farm and home management educators
+,,25-9030,,instructional coordinators
+,,,25-9031,instructional coordinators
+,,,25-9042,teaching assistants preschool elementary middle and secondary school except special education
+,,,25-9043,teaching assistants special education
+,,,25-9044,teaching assistants postsecondary
+,,,25-9049,other teaching assistants
+,,25-9090,,miscellaneous educational instruction and library workers
+,27-1000,,,art and design workers
+,,,27-1011,art directors
+,,,27-1012,craft artists
+,,,27-1013,fine artists including painters sculptors and illustrators
+,,,27-1014,special effects artists and animators
+,,,27-1019,other artists and related workers
+,,27-1020,,designers
+,,,27-1027,set and exhibit designers
+,27-2000,,,entertainers and performers sports and related workers
+,,27-2010,,actors producers and directors
+,,27-2020,,athletes coaches umpires and related workers
+,,,27-2031,dancers
+,,,27-2032,choreographers
+,,27-2040,,musicians singers and related workers
+,,27-2090,,miscellaneous entertainers and performers sports and related workers
+,27-3000,,,media and communication workers
+,,27-3040,,writers and editors
+,,27-3090,,miscellaneous media and communication workers
+,27-4000,,,media and communication equipment workers
+,,,27-4011,audio and video technicians
+,,,27-4012,broadcast technicians
+,,,27-4014,sound engineering technicians
+,,,27-4015,lighting technicians
+,,,27-4031,camera operators television video and film
+,,,27-4032,film and video editors
+,,27-4090,,miscellaneous media and communication equipment workers
+,29-1000,,,healthcare diagnosing or treating practitioners
+,,,29-1021,dentists general
+,,,29-1022,oral and maxillofacial surgeons
+,,,29-1023,orthodontists
+,,,29-1024,prosthodontists
+,,,29-1029,other dentists specialists
+,,29-1120,,therapists
+,,29-1210,,physicians
+,,,29-1211,anesthesiologists
+,,,29-1212,cardiologists
+,,,29-1213,dermatologists
+,,,29-1215,family medicine physicians
+,,,29-1216,general internal medicine physicians
+,,,29-1217,neurologists
+,,,29-1218,obstetricians and gynecologists
+,,,29-1221,pediatricians general
+,,,29-1222,physicians pathologists
+,,,29-1223,psychiatrists
+,,,29-1241,ophthalmologists except pediatric
+,,,29-1242,orthopedic surgeons except pediatric
+,,,29-1243,pediatric surgeons
+,,,29-1249,other surgeons
+,,29-1290,,miscellaneous healthcare diagnosing or treating practitioners
+,29-2000,,,health technologists and technicians
+,,,29-2011,medical and clinical laboratory technologists
+,,,29-2012,medical and clinical laboratory technicians
+,,29-2030,,diagnostic related technologists and technicians
+,,,29-2033,nuclear medicine technologists
+,,,29-2036,medical dosimetrists
+,,29-2040,,emergency medical technicians and paramedics
+,,29-2050,,health practitioner support technologists and technicians
+,,,29-2051,dietetic technicians
+,,,29-2057,ophthalmic medical technicians
+,,,29-2091,orthotists and prosthetists
+,,,29-2092,hearing aid specialists
+,,,29-2099,other health technologists and technicians
+,,29-9020,,health information technologists and medical registrars
+,,,29-9021,health information technologists and medical registrars
+,,29-9090,,miscellaneous health practitioners and technical workers
+,,,29-9091,athletic trainers
+,,,29-9092,genetic counselors
+,,,29-9093,surgical assistants
+,,,29-9099,other healthcare practitioners and technical workers
+,31-1100,,,home health and personal care aides and nursing assistants orderlies and psychiatric aides
+,,31-1120,,home health and personal care aides
+,,31-1130,,nursing assistants orderlies and psychiatric aides
+,,,31-1132,orderlies
+,,,31-1133,psychiatric aides
+,31-2000,,,occupational therapy and physical therapist assistants and aides
+,,,31-2011,occupational therapy assistants
+,,,31-2012,occupational therapy aides
+,,,31-2021,physical therapist assistants
+,,,31-2022,physical therapist aides
+,31-9000,,,other healthcare support occupations
+,,31-9090,,miscellaneous healthcare support occupations
+,,,31-9093,medical equipment preparers
+,33-1000,,,supervisors of protective service workers
+,,33-1010,,firstline supervisors of law enforcement workers
+,,33-1090,,miscellaneous firstline supervisors protective service workers
+,33-2000,,,firefighting and prevention workers
+,,,33-2021,fire inspectors and investigators
+,,,33-2022,forest fire inspectors and prevention specialists
+,33-3000,,,law enforcement workers
+,,33-3010,,bailiffs correctional officers and jailers
+,,,33-3051,police and sheriffs patrol officers
+,,,33-3052,transit and railroad police
+,,,33-9031,gambling surveillance officers and gambling investigators
+,,,33-9032,security guards
+,,33-9090,,miscellaneous protective service workers
+,,,33-9092,other lifeguards ski patrol and recreational protective service workers
+,35-1000,,,supervisors of food preparation and serving workers
+,,35-1010,,supervisors of food preparation and serving workers
+,35-2000,,,cooks and food preparation workers
+,,,35-2011,cooks fast food
+,,,35-2012,cooks institution and cafeteria
+,,,35-2013,cooks private household
+,,,35-2014,cooks restaurant
+,,,35-2015,cooks short order
+,,,35-2019,other cooks
+,35-3000,,,food and beverage serving workers
+,,35-9090,,miscellaneous food preparation and serving related workers
+,37-1000,,,supervisors of building and grounds cleaning and maintenance workers
+,,37-1010,,firstline supervisors of building and grounds cleaning and maintenance workers
+,37-2000,,,building cleaning and pest control workers
+,,37-2010,,building cleaning workers
+,,,37-2011,janitors and cleaners except maids and housekeeping cleaners
+,,,37-2019,other building cleaning workers
+,37-3000,,,grounds maintenance workers
+,,37-3010,,grounds maintenance workers
+,,,37-3012,pesticide handlers sprayers and applicators vegetation
+,,39-1010,,firstline supervisors of entertainment and recreation workers
+,,,39-1013,firstline supervisors of gambling services workers
+,,,39-1014,firstline supervisors of entertainment and recreation workers except gambling services
+,,39-1020,,firstline supervisors of personal service workers
+,,,39-1022,firstline supervisors of personal service workers
+,39-2000,,,animal care and service workers
+,39-3000,,,entertainment attendants and related workers
+,,,39-3011,gambling dealers
+,,,39-3012,gambling and sports book writers and runners
+,,,39-3019,other gambling service workers
+,,39-3020,,motion picture projectionists
+,,,39-3021,motion picture projectionists
+,,39-3090,,miscellaneous entertainment attendants and related workers
+,,,39-3091,amusement and recreation attendants
+,,,39-3092,costume attendants
+,,,39-3093,locker room coatroom and dressing room attendants
+,39-4000,,,funeral service workers
+,,39-4010,,embalmers and crematory operators
+,,,39-4011,embalmers
+,,,39-4012,crematory operators
+,,39-4020,,funeral attendants
+,,,39-4021,funeral attendants
+,39-5000,,,personal appearance workers
+,,39-5010,,barbers hairdressers hairstylists and cosmetologists
+,,39-5090,,miscellaneous personal appearance workers
+,,,39-5091,makeup artists theatrical and performance
+,,,39-5093,shampooers
+,,,39-6011,baggage porters and bellhops
+,,,39-6012,concierges
+,,,39-7011,tour guides and escorts
+,,,39-7012,travel guides
+,,39-9030,,recreation and fitness workers
+,,39-9090,,miscellaneous personal care and service workers
+,41-1000,,,supervisors of sales workers
+,,41-1010,,firstline supervisors of sales workers
+,41-2000,,,retail sales workers
+,,,41-2012,gambling change persons and booth cashiers
+,,41-2020,,counter and rental clerks and parts salespersons
+,41-3000,,,sales representatives services
+,,41-3090,,miscellaneous sales representatives services
+,,,41-4011,sales representatives wholesale and manufacturing technical and scientific products
+,,,41-4012,sales representatives wholesale and manufacturing except technical and scientific products
+,,,41-9011,demonstrators and product promoters
+,,,41-9012,models
+,,,41-9021,real estate brokers
+,,,41-9022,real estate sales agents
+,,41-9090,,miscellaneous sales and related workers
+,43-1000,,,supervisors of office and administrative support workers
+,43-2000,,,communications equipment operators
+,,43-2090,,miscellaneous communications equipment operators
+,43-3000,,,financial clerks
+,,43-3090,,miscellaneous financial clerks
+,43-4000,,,information and record clerks
+,,43-4190,,miscellaneous information and record clerks
+,43-5000,,,material recording scheduling dispatching and distributing workers
+,,43-5030,,dispatchers
+,,43-5050,,postal service workers
+,43-6000,,,secretaries and administrative assistants
+,,43-6010,,secretaries and administrative assistants
+,,43-9020,,data entry and information processing workers
+,,43-9190,,miscellaneous office and administrative support workers
+,45-1000,,,supervisors of farming fishing and forestry workers
+,45-2000,,,agricultural workers
+,,,45-2091,agricultural equipment operators
+,,,45-2092,farmworkers and laborers crop nursery and greenhouse
+,,,45-2093,farmworkers farm ranch and aquacultural animals
+,,,45-2099,other agricultural workers
+,45-4000,,,forest conservation and logging workers
+,,,45-4021,fallers
+,,,45-4022,logging equipment operators
+,,,45-4023,log graders and scalers
+,,,45-4029,other logging workers
+,47-1000,,,supervisors of construction and extraction workers
+,47-2000,,,construction trades workers
+,,,47-2021,brickmasons and blockmasons
+,,,47-2022,stonemasons
+,,,47-2041,carpet installers
+,,,47-2042,floor layers except carpet wood and hard tiles
+,,,47-2043,floor sanders and finishers
+,,,47-2044,tile and stone setters
+,,,47-2051,cement masons and concrete finishers
+,,,47-2053,terrazzo workers and finishers
+,,,47-2071,paving surfacing and tamping equipment operators
+,,,47-2072,pile driver operators
+,,,47-2073,other operating engineers and construction equipment operators
+,,,47-2081,drywall and ceiling tile installers
+,,,47-2082,tapers
+,,,47-2131,insulation workers floor ceiling and wall
+,,,47-2132,insulation workers mechanical
+,,,47-2141,painters construction and maintenance
+,,,47-2142,paperhangers
+,,47-2150,,pipelayers plumbers pipefitters and steamfitters
+,,,47-3011,helpersbrickmasons blockmasons stonemasons and tile and marble setters
+,,,47-3012,helperscarpenters
+,,,47-3013,helperselectricians
+,,,47-3014,helperspainters paperhangers plasterers and stucco masons
+,,,47-3015,helperspipelayers plumbers pipefitters and steamfitters
+,,,47-3016,helpersroofers
+,,,47-3019,other helpers construction trades
+,47-4000,,,other construction and related workers
+,,,47-4091,segmental pavers
+,,,47-4099,other construction and related workers
+,47-5000,,,extraction workers
+,,,47-5011,derrick operators oil and gas
+,,,47-5012,rotary drill operators oil and gas
+,,,47-5013,service unit operators oil and gas
+,,47-5020,,surface mining machine operators and earth drillers
+,,,47-5041,continuous mining machine operators
+,,,47-5043,roof bolters mining
+,,,47-5044,loading and moving machine operators underground mining
+,,,47-5049,other underground mining machine operators
+,,47-5050,,rock splitters quarry
+,,,47-5051,rock splitters quarry
+,,47-5080,,helpersextraction workers
+,,,47-5081,helpersextraction workers
+,,47-5090,,miscellaneous extraction workers
+,49-1000,,,supervisors of installation maintenance and repair workers
+,49-2000,,,electrical and electronic equipment mechanics installers and repairers
+,,,49-2021,radio cellular and tower equipment installers and repairers
+,,,49-2022,telecommunications equipment installers and repairers except line installers
+,,49-2090,,miscellaneous electrical and electronic equipment mechanics installers and repairers
+,,,49-2094,electrical and electronics repairers commercial and industrial equipment
+,,,49-2095,electrical and electronics repairers powerhouse substation and relay
+,49-3000,,,vehicle and mobile equipment mechanics installers and repairers
+,,49-3020,,automotive technicians and repairers
+,,,49-3041,farm equipment mechanics and service technicians
+,,,49-3042,mobile heavy equipment mechanics except engines
+,,,49-3043,rail car repairers
+,,,49-3051,motorboat mechanics and service technicians
+,,,49-3052,motorcycle mechanics
+,,,49-3053,other outdoor power equipment and small engine mechanics
+,,,49-3091,bicycle repairers
+,,,49-3092,recreational vehicle service technicians
+,,,49-3093,tire repairers and changers
+,49-9000,,,other installation maintenance and repair occupations
+,,,49-9011,mechanical door repairers
+,,,49-9012,control and valve installers and repairers except mechanical door
+,,49-9040,,industrial machinery installation repair and maintenance workers
+,,,49-9041,industrial machinery mechanics
+,,,49-9045,refractory materials repairers except brickmasons
+,,49-9050,,line installers and repairers
+,,,49-9061,camera and photographic equipment repairers
+,,,49-9062,medical equipment repairers
+,,,49-9063,musical instrument repairers and tuners
+,,,49-9064,watch and clock repairers
+,,,49-9069,other precision instrument and equipment repairers
+,,49-9090,,miscellaneous installation maintenance and repair workers
+,,,49-9097,signal and track switch repairers
+,51-1000,,,supervisors of production workers
+,51-2000,,,assemblers and fabricators
+,,,51-2021,coil winders tapers and finishers
+,,,51-2022,electrical and electronic equipment assemblers
+,,,51-2023,electromechanical equipment assemblers
+,,51-2050,,fiberglass laminators and fabricators
+,,,51-2051,fiberglass laminators and fabricators
+,,51-2060,,timing device assemblers and adjusters
+,,,51-2061,timing device assemblers and adjusters
+,,51-2090,,miscellaneous assemblers and fabricators
+,,,51-2092,team assemblers
+,51-3000,,,food processing workers
+,,,51-3021,butchers and meat cutters
+,,,51-3022,meat poultry and fish cutters and trimmers
+,,,51-3023,slaughterers and meat packers
+,,51-3090,,miscellaneous food processing workers
+,51-4000,,,metal workers and plastic workers
+,,,51-4021,extruding and drawing machine setters operators and tenders metal and plastic
+,,,51-4022,forging machine setters operators and tenders metal and plastic
+,,,51-4023,rolling machine setters operators and tenders metal and plastic
+,,51-4030,,machine tool cutting setters operators and tenders metal and plastic
+,,,51-4032,drilling and boring machine tool setters operators and tenders metal and plastic
+,,,51-4034,lathe and turning machine tool setters operators and tenders metal and plastic
+,,,51-4035,milling and planing machine setters operators and tenders metal and plastic
+,,,51-4051,metalrefining furnace operators and tenders
+,,,51-4052,pourers and casters metal
+,,,51-4061,model makers metal and plastic
+,,,51-4062,patternmakers metal and plastic
+,,,51-4071,foundry mold and coremakers
+,,,51-4072,molding coremaking and casting machine setters operators and tenders metal and plastic
+,,51-4080,,multiple machine tool setters operators and tenders metal and plastic
+,,,51-4081,multiple machine tool setters operators and tenders metal and plastic
+,,,51-4121,welders cutters solderers and brazers
+,,,51-4122,welding soldering and brazing machine setters operators and tenders
+,,51-4190,,miscellaneous metal workers and plastic workers
+,,,51-4191,heat treating equipment setters operators and tenders metal and plastic
+,,,51-4192,layout workers metal and plastic
+,,,51-4193,plating machine setters operators and tenders metal and plastic
+,,,51-4194,tool grinders filers and sharpeners
+,51-5100,,,printing workers
+,,51-5110,,printing workers
+,51-6000,,,textile apparel and furnishings workers
+,,,51-6041,shoe and leather workers and repairers
+,,,51-6042,shoe machine operators and tenders
+,,,51-6051,sewers hand
+,,,51-6052,tailors dressmakers and custom sewers
+,,,51-6061,textile bleaching and dyeing machine operators and tenders
+,,,51-6062,textile cutting machine setters operators and tenders
+,,,51-6063,textile knitting and weaving machine setters operators and tenders
+,,,51-6064,textile winding twisting and drawing out machine setters operators and tenders
+,,51-6090,,miscellaneous textile apparel and furnishings workers
+,,,51-6091,extruding and forming machine setters operators and tenders synthetic and glass fibers
+,,,51-6092,fabric and apparel patternmakers
+,51-7000,,,woodworkers
+,,51-7030,,model makers and patternmakers wood
+,,,51-7031,model makers wood
+,,,51-7032,patternmakers wood
+,,51-7040,,woodworking machine setters operators and tenders
+,,51-7090,,miscellaneous woodworkers
+,51-8000,,,plant and system operators
+,,,51-8011,nuclear power reactor operators
+,,,51-8012,power distributors and dispatchers
+,,,51-8013,power plant operators
+,,,51-8091,chemical plant and system operators
+,,,51-8092,gas plant operators
+,,,51-8093,petroleum pump system operators refinery operators and gaugers
+,,,51-8099,other plant and system operators
+,51-9000,,,other production occupations
+,,,51-9011,chemical equipment operators and tenders
+,,,51-9012,separating filtering clarifying precipitating and still machine setters operators and tenders
+,,,51-9021,crushing grinding and polishing machine setters operators and tenders
+,,,51-9022,grinding and polishing workers hand
+,,,51-9023,mixing and blending machine setters operators and tenders
+,,,51-9031,cutters and trimmers hand
+,,,51-9032,cutting and slicing machine setters operators and tenders
+,,,51-9081,dental laboratory technicians
+,,,51-9082,medical appliance technicians
+,,,51-9083,ophthalmic laboratory technicians
+,,,51-9123,painting coating and decorating workers
+,,,51-9124,coating painting and spraying machine setters operators and tenders
+,,51-9140,,semiconductor processing technicians
+,,,51-9141,semiconductor processing technicians
+,,,51-9161,computer numerically controlled tool operators
+,,,51-9162,computer numerically controlled tool programmers
+,,51-9190,,miscellaneous production workers
+,,,51-9192,cleaning washing and metal pickling equipment operators and tenders
+,,,51-9193,cooling and freezing equipment operators and tenders
+,,53-1040,,firstline supervisors of transportation and material moving workers
+,,,53-1041,aircraft cargo handling supervisors
+,,,53-1042,firstline supervisors of helpers laborers and material movers hand
+,,,53-1043,firstline supervisors of materialmoving machine and vehicle operators
+,,,53-1044,firstline supervisors of passenger attendants
+,,,53-1049,other firstline supervisors of transportation workers
+,53-2000,,,air transportation workers
+,,,53-2011,airline pilots copilots and flight engineers
+,,,53-2012,commercial pilots
+,,,53-2021,air traffic controllers
+,,,53-2022,airfield operations specialists
+,53-3000,,,motor vehicle operators
+,,,53-3031,driversales workers
+,,,53-3032,heavy and tractortrailer truck drivers
+,,,53-3033,light truck drivers
+,,53-3050,,passenger vehicle drivers
+,,53-3090,,miscellaneous motor vehicle operators
+,53-4000,,,rail transportation workers
+,,,53-4011,locomotive engineers
+,,,53-4013,rail yard engineers dinkey operators and hostlers
+,,53-4020,,railroad brake signal and switch operators and locomotive firers
+,,,53-4022,railroad brake signal and switch operators and locomotive firers
+,,53-4040,,subway and streetcar operators
+,,,53-4041,subway and streetcar operators
+,,53-4090,,miscellaneous rail transportation workers
+,53-5000,,,water transportation workers
+,,,53-5021,captains mates and pilots of water vessels
+,,,53-5022,motorboat operators
+,,53-6010,,bridge and lock tenders
+,,,53-6011,bridge and lock tenders
+,,,53-6031,automotive and watercraft service attendants
+,,,53-6032,aircraft service attendants
+,,53-6040,,traffic technicians
+,,,53-6041,traffic technicians
+,,53-6090,,miscellaneous transportation workers
+,53-7000,,,material moving workers
+,,53-7010,,conveyor operators and tenders
+,,,53-7011,conveyor operators and tenders
+,,53-7030,,dredge operators
+,,,53-7031,dredge operators
+,,53-7040,,hoist and winch operators
+,,,53-7041,hoist and winch operators
+,,53-7060,,laborers and material movers
+,,,53-7071,gas compressor and gas pumping station operators
+,,,53-7072,pump operators except wellhead pumpers
+,,,53-7073,wellhead pumpers
+,,53-7120,,tank car truck and ship loaders
+,,,53-7121,tank car truck and ship loaders
+,,53-7190,,miscellaneous material moving workers
+55-0000,,,,military specific occupations
+,55-1000,,,military officer special and tactical operations leaders
+,,55-1010,,military officer special and tactical operations leaders
+,,,55-1011,air crew officers
+,,,55-1012,aircraft launch and recovery officers
+,,,55-1013,armored assault vehicle officers
+,,,55-1014,artillery and missile officers
+,,,55-1015,command and control center officers
+,,,55-1016,infantry officers
+,,,55-1017,special forces officers
+,,,55-1019,other military officer special and tactical operations leaders
+,55-2000,,,firstline enlisted military supervisors
+,,55-2010,,firstline enlisted military supervisors
+,,,55-2011,firstline supervisors of air crew members
+,,,55-2012,firstline supervisors of weapons specialistscrew members
+,,,55-2013,other firstline supervisors of tactical operations specialists
+,55-3000,,,military enlisted tactical operations and airweapons specialists and crew members
+,,55-3010,,military enlisted tactical operations and airweapons specialists and crew members
+,,,55-3011,air crew members
+,,,55-3012,aircraft launch and recovery specialists
+,,,55-3013,armored assault vehicle crew members
+,,,55-3014,artillery and missile crew members
+,,,55-3015,command and control center specialists
+,,,55-3016,infantry
+,,,55-3018,special forces
+,,,55-3019,other military enlisted tactical operations and airweapons specialists and crew members

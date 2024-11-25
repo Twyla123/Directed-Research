@@ -1,0 +1,6 @@
+,,,,
+Income_Category,Number_of_Occupations,Average_Women_Median_Earnings,Min_Women_Median_Earnings,Max_Women_Median_Earnings
+Low,63,26831.97,0,35354
+Medium-Low,63,39298.13,35364,44088
+Medium-High,63,52704.78,44128,61570
+High,63,85026.73,62162,206401

@@ -1,0 +1,877 @@
+,Occupation Name,Exposure Score,Exposure Score * 100,Occupational Category,Women_Percentage_in_Group_Estimate,Women_Percentage_in_Group_MOE3,Women_Earnings_as_Percentage_of_Men_Estimate,Women_Median_Earnings_Estimate,Similarity Score
+0,Audiovisual Equipment Installers and Repairers,0.0002103045938945023,0.02103045938945023,Audiovisual equipment installers and repairers,3.7,2.2,(X),55980.0,1.0000000000000002
+1,Automotive Glass Installers and Repairers,0.0002053068623959957,0.02053068623959957,Automotive glass installers and repairers,3.0,2.3,(X),34300.0,1.0
+2,"Helpers--Installation, Maintenance, and Repair Workers",0.0002053017760775311,0.02053017760775311,Other installation maintenance and repair workers,4.8,1.1,85.1,39800.0,0.8483538553303421
+3,Machine Feeders and Offbearers,0.0002035782433059796,0.020357824330597962,Machine feeders and offbearers,46.1,6.4,75,32088.0,1.0000000000000002
+4,"Packers and Packagers, Hand",0.0002034347200386431,0.02034347200386431,Packers and packagers hand,55.8,1.5,93,30831.0,1.0000000000000002
+5,"Rotary Drill Operators, Oil and Gas",0.0002023952555107521,0.02023952555107521,Derrick rotary drill and service unit operators oil and gas,0.8,1.2,-,-,0.7793069106494891
+6,Helpers--Extraction Workers,0.0001997099576932662,0.019970995769326618,Other extraction workers,5.1,2.8,(X),65873,0.6978625971985957
+7,Farm Equipment Mechanics and Service Technicians,0.0001996921039867647,0.01996921039867647,Automotive service technicians and mechanics,1.6,0.3,91.9,43097,0.5889463138837495
+8,Motorcycle Mechanics,0.0001994122411329523,0.01994122411329523,Automotive service technicians and mechanics,1.6,0.3,91.9,43097,0.2961659782523698
+9,"Pourers and Casters, Metal",0.0001993453220595641,0.01993453220595641,Metal furnace operators tenders pourers and casters,11.6,4.2,(X),41226,0.7878447313201383
+10,Avionics Technicians,0.0001977785103773943,0.019777851037739432,Avionics technicians,6.6,3.8,(X),54856,1.0000000000000002
+11,Signal and Track Switch Repairers,0.0001970210704094052,0.01970210704094052,Control and valve installers and repairers,5.7,2.6,(X),50414,0.15836308150550843
+12,"Coil Winders, Tapers, and Finishers",0.000194308805168164,0.0194308805168164,Furniture finishers,13.1,7.9,(X),38378,0.26939247528990057
+13,"Grinding and Polishing Workers, Hand",0.0001904909650865374,0.019049096508653742,Crushing grinding polishing mixing and blending workers,10.4,2.1,(X),41344,0.5310459281043537
+14,"Electrical and Electronics Installers and Repairers, Transportation Equipment",0.0001898072045020465,0.018980720450204647,Electrical and electronics installers and repairers transportation equipment,0.0,17.8,-,-,1.0000000000000002
+15,"Pump Operators, Except Wellhead Pumpers",0.0001894995428280323,0.01894995428280323,Office machine operators except computer,54.6,6.7,(X),31554,0.2165114794613378
+16,"Control and Valve Installers and Repairers, Except Mechanical Door",0.0001889425264137399,0.01889425264137399,Control and valve installers and repairers,5.7,2.6,(X),50414,0.7604851635361258
+17,Foundry Mold and Coremakers,0.0001877585108061829,0.01877585108061829,Molders and molding machine setters operators and tenders metal and plastic,13.9,3.3,(X),36238,0.043881189047234766
+18,Hoist and Winch Operators,0.0001874355343421634,0.01874355343421634,Conveyor dredge and hoist and winch operators,4.1,2.2,(X),28992,0.7342638438271176
+19,Musical Instrument Repairers and Tuners,0.000187055232031228,0.018705523203122798,Precision instrument and equipment repairers,11.0,2.4,(X),46099,0.4339433634078929
+20,Timing Device Assemblers and Adjusters,0.0001869942246016645,0.01869942246016645,Other assemblers and fabricators,34.6,0.9,87.6,37117,0.2709247144223384
+21,Camera and Photographic Equipment Repairers,0.0001863547400264871,0.01863547400264871,Audiovisual equipment installers and repairers,3.7,2.2,(X),55980,0.34101050442608993
+22,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.0001856719171477286,0.01856719171477286,Crushing grinding polishing mixing and blending workers,10.4,2.1,(X),41344,0.6084468941761096
+23,Craft Artists,0.0001853087563170271,0.01853087563170271,Artists and related workers,41.0,2.2,68.5,42772,0.43119447830804225
+24,Helpers--Electricians,0.0001847337812598964,0.01847337812598964,Electricians,2.0,0.3,82.9,50310,0.7739982853733887
+25,Podiatrists,0.000184492282549196,0.0184492282549196,Podiatrists,23.8,6.6,(X),161157,1.0
+26,Locksmiths and Safe Repairers,0.0001842879963733437,0.01842879963733437,Locksmiths and safe repairers,3.5,2.2,(X),32015,1.0000000000000002
+27,"Paper Goods Machine Setters, Operators, and Tenders",0.0001835484044827315,0.01835484044827315,Paper goods machine setters operators and tenders,16.5,6.4,(X),32048,1.0000000000000002
+28,"Electric Motor, Power Tool, and Related Repairers",0.0001835381903353753,0.01835381903353753,Electric motor power tool and related repairers,4.4,3.2,(X),29200,1.0
+29,Upholsterers,0.0001835168612723849,0.01835168612723849,Upholsterers,23.3,5.8,(X),30689,1.0
+30,"Mixing and Blending Machine Setters, Operators, and Tenders",0.0001833034641383371,0.018330346413833708,Textile machine setters operators and tenders,44.0,9.6,(X),31595,0.5223131768354532
+31,"Radio, Cellular, and Tower Equipment Installers and Repairers",0.0001833021407700932,0.01833021407700932,Radio and telecommunications equipment installers and repairers,6.3,1.3,73.7,45547,0.6254460438297839
+32,"Sawing Machine Setters, Operators, and Tenders, Wood",0.0001826861322604318,0.01826861322604318,Sawing machine setters operators and tenders wood,7.8,3.7,(X),41195,1.0000000000000002
+33,Wellhead Pumpers,0.0001826044608252877,0.01826044608252877,Total,43.5,0.1,82,51400,0.0
+34,Cabinetmakers and Bench Carpenters,0.0001825486553688729,0.01825486553688729,Cabinetmakers and bench carpenters,7.7,2.3,(X),27887,1.0
+35,Sheet Metal Workers,0.0001825476554806379,0.018254765548063788,Sheet metal workers,4.0,1.0,(X),42055,1.0
+36,Elevator and Escalator Installers and Repairers,0.000182367891961261,0.018236789196126098,Elevator and escalator installers and repairers,1.2,1.1,(X),35354,1.0000000000000002
+37,Cargo and Freight Agents,0.0001819807865353138,0.01819807865353138,Cargo and freight agents,45.5,6.6,68,41851,1.0
+38,Bicycle Repairers,0.0001817212861546442,0.01817212861546442,Home appliance repairers,5.2,2.5,(X),51113,0.21848254985863977
+39,Electricians,0.0001816457638927475,0.01816457638927475,Electricians,2.0,0.3,82.9,50310,1.0
+40,"Tool Grinders, Filers, and Sharpeners",0.0001813034521718487,0.01813034521718487,Tool and die makers,2.7,1.3,(X),38423,0.20938584173270264
+41,Pipelayers,0.0001812886335619499,0.018128863356194992,Pipelayers,1.2,0.8,(X),50949,1.0
+42,Landscaping and Groundskeeping Workers,0.0001811149769374618,0.01811149769374618,Landscaping and groundskeeping workers,5.6,0.5,87,29617,1.0
+43,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",0.0001801019264948274,0.01801019264948274,Aircraft structure surfaces rigging and systems assemblers,20.1,9.4,(X),54013,1.0
+44,"Plumbers, Pipefitters, and Steamfitters",0.0001798118435930604,0.017981184359306037,Plumbers pipefitters and steamfitters,1.4,0.3,(X),54722,1.0
+45,"Molders, Shapers, and Casters, Except Metal and Plastic",0.0001798051990847383,0.01798051990847383,Molders shapers and casters except metal and plastic,13.6,3.3,(X),35364,1.0
+46,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",0.0001797206301474056,0.01797206301474056,Woodworking machine setters operators and tenders except sawing,18.8,4.6,(X),35965,1.0000000000000002
+47,"Paving, Surfacing, and Tamping Equipment Operators",0.0001787453433399049,0.017874534333990492,Construction equipment operators,2.6,0.5,85.7,46865,0.284763534130595
+48,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",0.0001782518515879091,0.017825185158790908,Postal service mail sorters processors and processing machine operators,44.9,4.0,92.1,50992,1.0
+49,"Coin, Vending, and Amusement Machine Servicers and Repairers",0.0001782481969762654,0.01782481969762654,Coin vending and amusement machine servicers and repairers,7.6,2.8,(X),32476,1.0
+50,Tire Repairers and Changers,0.0001782460452655628,0.01782460452655628,Tire builders,5.4,3.3,(X),57568,0.42337831777777596
+51,Bridge and Lock Tenders,0.0001781198917144817,0.017811989171448172,Other production equipment operators and tenders,9.7,6.0,(X),36584,0.17506923054859516
+52,Non-Destructive Testing Specialists,0.0001778678019261639,0.01778678019261639,Other financial specialists,56.0,2.7,64.2,67224,0.16976162133524936
+53,Data Entry Keyers,0.0001776735341607065,0.01776735341607065,Data entry keyers,75.1,1.7,90.3,38204,1.0000000000000002
+54,"Insulation Workers, Floor, Ceiling, and Wall",0.0001774497545983154,0.01774497545983154,Insulation workers,3.4,2.7,(X),30753,0.526602974909169
+55,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",0.0001773377023493887,0.01773377023493887,Extruding forming pressing and compacting machine setters operators and tenders,18.7,5.0,(X),32503,0.5705193779147445
+56,Motorboat Mechanics and Service Technicians,0.0001770983737426637,0.01770983737426637,Automotive service technicians and mechanics,1.6,0.3,91.9,43097,0.5997073427551154
+57,Nanotechnology Engineering Technologists and Technicians,0.0001770741908936444,0.017707419089364438,Electrical and electronic engineering technologists and technicians,10.0,2.4,(X),49612,0.526166484709798
+58,"Shipping, Receiving, and Inventory Clerks",0.0001768326078695911,0.017683260786959108,Shipping receiving and inventory clerks,33.4,1.4,87.3,36061,1.0000000000000002
+59,Water and Wastewater Treatment Plant and System Operators,0.0001765049503626172,0.01765049503626172,Water and wastewater treatment plant and system operators,3.8,1.0,(X),58317,1.0
+60,Outdoor Power Equipment and Other Small Engine Mechanics,0.000176482064026365,0.0176482064026365,Small engine mechanics,1.6,1.5,(X),60846,0.6852373546066443
+61,Travel Agents,0.0001763505513421746,0.01763505513421746,Travel agents,77.9,3.6,100.6,46567,0.9999999999999999
+62,"Dispatchers, Except Police, Fire, and Ambulance",0.0001763228099109592,0.01763228099109592,Dispatchers except police fire and ambulance,54.2,2.7,79.6,41487,1.0000000000000002
+63,"Computer, Automated Teller, and Office Machine Repairers",0.0001762626654093873,0.017626266540938733,Computer automated teller and office machine repairers,9.2,1.7,87.1,44035,1.0
+64,Weatherization Installers and Technicians,0.0001760208244638801,0.01760208244638801,Drywall installers ceiling tile installers and tapers,3.8,1.3,(X),33424,0.2837272213514176
+65,Machinists,0.0001758048034431395,0.017580480344313948,Machinists,4.2,0.6,66.8,36639,1.0
+66,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.0001755952999672562,0.01755952999672562,Other production equipment operators and tenders,9.7,6.0,(X),36584,0.35249791580784573
+67,Shampooers,0.0001754539367154727,0.01754539367154727,Total,43.5,0.1,82,51400,0.0
+68,Broadcast Technicians,0.0001753717551537095,0.01753717551537095,Broadcast sound and lighting technicians,8.6,1.8,(X),56296,0.586087409497589
+69,Rail Car Repairers,0.0001753619377053233,0.01753619377053233,Other rail transportation workers,10.2,4.8,(X),82202,0.4115883818198938
+70,Maids and Housekeeping Cleaners,0.0001748408663041949,0.01748408663041949,Maids and housekeeping cleaners,82.5,0.8,84.9,27215,1.0000000000000002
+71,Photonics Technicians,0.0001745579908121863,0.01745579908121863,Dietetic technicians and ophthalmic medical technicians,79.3,4.2,(X),34290,0.2627629127089599
+72,Computer Numerically Controlled Tool Operators,0.0001744610775496599,0.01744610775496599,Computer numerically controlled tool operators and programmers,10.1,2.4,77.1,40620,0.8796548142153714
+73,"Potters, Manufacturing",0.0001743730405220069,0.017437304052200692,Sales representatives wholesale and manufacturing,26.4,0.9,80.9,66587,0.3400401451743534
+74,Mechanical Door Repairers,0.0001743533913814912,0.01743533913814912,Mechanical engineers,9.3,0.8,95.2,93962,0.4948551322019526
+75,"Model Makers, Metal and Plastic",0.0001742883796531611,0.01742883796531611,Model makers and patternmakers metal and plastic,26.9,13.2,(X),35517,0.8692075026359405
+76,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.0001737726460432235,0.01737726460432235,Mail clerks and mail machine operators except postal service,48.7,4.8,87.7,35025,1.0000000000000002
+77,Nuclear Medicine Technologists,0.0001737511027896153,0.01737511027896153,Nuclear medicine technologists and medical dosimetrists,46.1,4.9,87.2,99444,0.7439948406403711
+78,Carpenters,0.0001736091931100753,0.017360919311007528,Carpenters,1.9,0.3,69.8,32484,1.0
+79,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",0.0001733554675134628,0.01733554675134628,Plumbers pipefitters and steamfitters,1.4,0.3,(X),54722,0.8045211073021314
+80,"Patternmakers, Metal and Plastic",0.0001729785028957349,0.01729785028957349,Model makers and patternmakers metal and plastic,26.9,13.2,(X),35517,0.723216852724812
+81,Hazardous Materials Removal Workers,0.0001729386596992118,0.01729386596992118,Hazardous materials removal workers,26.0,7.2,(X),38333,1.0
+82,Online Merchants,0.0001729318001623811,0.01729318001623811,Total,43.5,0.1,82,51400,0.0
+83,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0.0001729238628947879,0.017292386289478788,Cutting punching and press machine setters operators and tenders metal and plastic,15.0,2.4,78.8,34254,1.0
+84,Electromechanical Equipment Assemblers,0.0001726870230367885,0.01726870230367885,Electrical electronics and electromechanical assemblers,43.2,2.5,86.1,35661,0.6657201518671526
+85,Crane and Tower Operators,0.0001726803488551399,0.01726803488551399,Crane and tower operators,1.6,1.0,(X),48781,1.0000000000000002
+86,Electro-Mechanical and Mechatronics Technologists and Technicians,0.0001724244275328357,0.01724244275328357,Mechanical engineers,9.3,0.8,95.2,93962,0.36024090561919714
+87,"Sewers, Hand",0.0001723273836568493,0.01723273836568493,Tailors dressmakers and sewers,66.3,4.9,89.1,35415,0.4170190535432641
+88,Court Reporters and Simultaneous Captioners,0.0001717675704583709,0.017176757045837092,Court reporters and simultaneous captioners,89.0,3.5,(X),70078,1.0000000000000002
+89,Riggers,0.0001717081810686683,0.01717081810686683,Riggers,6.8,6.4,(X),59729,1.0
+90,Tellers,0.0001715953408264776,0.01715953408264776,Tellers,85.9,1.6,92.7,33404,1.0
+91,Robotics Technicians,0.0001715734706891338,0.017157347068913382,Dietetic technicians and ophthalmic medical technicians,79.3,4.2,(X),34290,0.2627629127089599
+92,Floor Sanders and Finishers,0.0001714504680884217,0.01714504680884217,Carpet floor and tile installers and finishers,3.7,1.5,(X),34855,0.5091533694739717
+93,Print Binding and Finishing Workers,0.0001713375336659044,0.01713375336659044,Print binding and finishing workers,28.6,8.7,(X),35741,1.0000000000000004
+94,"Mobile Heavy Equipment Mechanics, Except Engines",0.0001713269576857942,0.017132695768579422,Heavy vehicle and mobile equipment service technicians and mechanics,1.2,0.4,(X),35116,0.6297122681761425
+95,Metal-Refining Furnace Operators and Tenders,0.0001712789534670903,0.01712789534670903,Metal furnace operators tenders pourers and casters,11.6,4.2,(X),41226,0.5675820146201591
+96,Media Technical Directors/Managers,0.0001711944707987619,0.017119447079876192,Technical writers,56.1,3.8,93.9,82147,0.36094229685894974
+97,Tool and Die Makers,0.000171115248800887,0.0171115248800887,Tool and die makers,2.7,1.3,(X),38423,1.0
+98,Sound Engineering Technicians,0.0001710745353525113,0.01710745353525113,Broadcast sound and lighting technicians,8.6,1.8,(X),56296,0.5133183962938886
+99,Fast Food and Counter Workers,0.0001709417940738781,0.017094179407387812,Fast food and counter workers,62.0,2.3,90.3,24846,1.0
+100,Cartographers and Photogrammetrists,0.0001708173138526724,0.01708173138526724,Surveyors cartographers and photogrammetrists,17.8,3.7,(X),69524,0.8311063069611383
+101,Graphic Designers,0.000170733465118194,0.0170733465118194,Graphic designers,51.5,1.9,88.8,55657,1.0000000000000002
+102,Engine and Other Machine Assemblers,0.0001706253725483463,0.017062537254834628,Engine and other machine assemblers,13.7,7.8,(X),37116,1.0000000000000002
+103,"Cooks, Institution and Cafeteria",0.0001705828727749904,0.01705828727749904,Cooks,38.1,1.0,86.2,26278,0.5121840113236087
+104,Prepress Technicians and Workers,0.0001705788617312507,0.01705788617312507,Prepress technicians and workers,37.0,6.2,(X),44088,1.0000000000000002
+105,Gambling Surveillance Officers and Gambling Investigators,0.0001705385554549112,0.01705385554549112,Security guards and gambling surveillance officers,22.2,1.0,90,36032,0.6755899735032838
+106,Word Processors and Typists,0.0001705270029630137,0.01705270029630137,Word processors and typists,85.8,4.4,(X),38796,1.0000000000000004
+107,"Pressers, Textile, Garment, and Related Materials",0.0001701890506330514,0.01701890506330514,Pressers textile garment and related materials,41.8,5.9,(X),28988,1.0
+108,Statistical Assistants,0.0001699584342164683,0.016995843421646832,Statistical assistants,51.1,5.1,92.4,59542,1.0
+109,Loan Interviewers and Clerks,0.0001699528288846227,0.01699528288846227,Loan interviewers and clerks,77.8,1.8,94.6,52955,1.0
+110,Survey Researchers,0.0001697658540077348,0.01697658540077348,Survey researchers,68.1,22.1,(X),61570,1.0000000000000002
+111,"Roustabouts, Oil and Gas",0.0001697569750367145,0.01697569750367145,Roustabouts oil and gas,3.1,4.9,-,-,1.0000000000000004
+112,Etchers and Engravers,0.0001697364934213275,0.01697364934213275,Etchers and engravers,36.4,11.8,(X),47922,1.0000000000000002
+113,Glaziers,0.0001697109455248897,0.01697109455248897,Glaziers,1.6,1.4,(X),37593,1.0
+114,"Office Clerks, General",0.0001697020939942451,0.01697020939942451,Office clerks general,82.2,0.8,93.8,40659,1.0
+115,Millwrights,0.0001696819738533926,0.01696819738533926,Millwrights,2.8,1.8,(X),62763,1.0
+116,Automotive Service Technicians and Mechanics,0.000169548684005536,0.0169548684005536,Automotive service technicians and mechanics,1.6,0.3,91.9,43097,1.0000000000000002
+117,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0.0001695369130916854,0.01695369130916854,Forming machine setters operators and tenders metal and plastic,14.5,4.3,(X),43043,0.5443867313138571
+118,Shoe and Leather Workers and Repairers,0.0001694148903534527,0.01694148903534527,Shoe and leather workers,39.5,9.1,(X),26817,0.9188954586913175
+119,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0.0001693224693636069,0.01693224693636069,Doortodoor sales workers news and street vendors and related workers,40.4,5.2,74.1,33846,0.6468790818067267
+120,Medical Appliance Technicians,0.0001692829007671932,0.01692829007671932,Dental and ophthalmic laboratory technicians and medical appliance technicians,56.1,3.1,74.1,37570,0.6649404918184473
+121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0.0001689320313826473,0.01689320313826473,Textile machine setters operators and tenders,44.0,9.6,(X),31595,0.4591346200613118
+122,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0001688740657615496,0.016887406576154958,Grinding lapping polishing and buffing machine tool setters operators and tenders metal and plastic,10.6,2.9,(X),31515,1.0000000000000002
+123,Desktop Publishers,0.0001688348986698373,0.01688348986698373,Desktop publishers,38.2,25.5,(X),50724,1.0000000000000002
+124,Ophthalmic Laboratory Technicians,0.0001687990874890025,0.01687990874890025,Dental and ophthalmic laboratory technicians and medical appliance technicians,56.1,3.1,74.1,37570,0.6951487175040254
+125,New Accounts Clerks,0.0001687513197178711,0.01687513197178711,New accounts clerks,69.9,11.6,(X),40597,1.0
+126,"Dentists, General",0.0001686991107112257,0.016869911071122567,Dentists,32.0,2.8,79,158308,0.7686606773152654
+127,Medical Dosimetrists,0.0001686125045740496,0.01686125045740496,Nuclear medicine technologists and medical dosimetrists,46.1,4.9,87.2,99444,0.6553143068464895
+128,Acupuncturists,0.0001685423720345846,0.01685423720345846,Acupuncturists,65.5,7.3,(X),62294,1.0
+129,Writers and Authors,0.0001683926375529985,0.01683926375529985,Writers and authors,55.5,2.1,95.2,67291,1.0
+130,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0001682292199057367,0.01682292199057367,Other machine tool setters operators and tenders metal and plastic,12.0,5.9,(X),32669,0.7300804100961609
+131,Motorboat Operators,0.0001682216892540952,0.016822168925409522,Telephone operators,61.1,8.9,(X),35736,0.1873151668501102
+132,Telecommunications Line Installers and Repairers,0.0001680462820667269,0.016804628206672688,Telecommunications line installers and repairers,3.2,1.3,(X),57167,1.0000000000000002
+133,"Hotel, Motel, and Resort Desk Clerks",0.0001680375835781265,0.01680375835781265,Hotel motel and resort desk clerks,58.8,4.2,87.5,27806,1.0000000000000002
+134,Endoscopy Technicians,0.0001679081653431556,0.01679081653431556,Dietetic technicians and ophthalmic medical technicians,79.3,4.2,(X),34290,0.25154632508345554
+135,Atmospheric and Space Scientists,0.0001678953156829275,0.01678953156829275,Atmospheric and space scientists,14.8,4.6,(X),83784,1.0
+136,Actors,0.0001678564768482738,0.01678564768482738,Actors,41.1,8.0,(X),49659,1.0
+137,Postal Service Mail Carriers,0.0001676969418828212,0.01676969418828212,Postal service mail carriers,37.5,1.6,87.5,56680,1.0
+138,Histotechnologists,0.0001676272906769018,0.01676272906769018,Total,43.5,0.1,82,51400,0.0
+139,"Maintenance and Repair Workers, General",0.0001673762398544107,0.01673762398544107,Maintenance and repair workers general,4.0,0.5,77.2,40931,1.0000000000000002
+140,"Hairdressers, Hairstylists, and Cosmetologists",0.0001673057232169021,0.016730572321690212,Hairdressers hairstylists and cosmetologists,89.0,0.9,81.3,34470,1.0000000000000002
+141,"Explosives Workers, Ordnance Handling Experts, and Blasters",0.0001672971778458143,0.016729717784581433,Explosives workers ordnance handling experts and blasters,3.2,2.9,(X),49495,1.0000000000000002
+142,Commercial Divers,0.0001671975071249172,0.01671975071249172,Commercial divers,16.0,13.6,(X),31786,1.0
+143,"Model Makers, Wood",0.0001669986748294385,0.01669986748294385,Model makers and patternmakers metal and plastic,26.9,13.2,(X),35517,0.5606875502767998
+144,Recycling and Reclamation Workers,0.0001667046578673213,0.01667046578673213,Other metal workers and plastic workers,21.1,1.4,81.7,37372,0.21323509917437863
+145,"Airline Pilots, Copilots, and Flight Engineers",0.0001666787504032714,0.01666787504032714,Aircraft pilots and flight engineers,5.6,1.1,(X),94593,0.5960769896239114
+146,Dishwashers,0.0001666490376364752,0.016664903763647522,Dishwashers,21.5,2.6,90.9,23978,1.0
+147,"Layout Workers, Metal and Plastic",0.000166588894118145,0.016658889411814502,Other metal workers and plastic workers,21.1,1.4,81.7,37372,0.6306376223437682
+148,Special Effects Artists and Animators,0.0001663851207631713,0.016638512076317127,Artists and related workers,41.0,2.2,68.5,42772,0.3302325105771785
+149,Watch and Clock Repairers,0.0001661121082636129,0.01661121082636129,Control and valve installers and repairers,5.7,2.6,(X),50414,0.17976536216677183
+150,"Cooks, Fast Food",0.0001660468935774844,0.01660468935774844,Fast food and counter workers,62.0,2.3,90.3,24846,0.6047537661262324
+151,Interior Designers,0.0001660178903998914,0.01660178903998914,Interior designers,79.5,2.7,107.9,63763,1.0000000000000002
+152,"Poets, Lyricists and Creative Writers",0.0001659868837162029,0.01659868837162029,Technical writers,56.1,3.8,93.9,82147,0.3159241491412577
+153,Food Preparation Workers,0.000165700419953733,0.0165700419953733,Food preparation workers,58.7,1.9,92,26250,1.0000000000000002
+154,Surveyors,0.0001655253701181664,0.01655253701181664,Surveyors cartographers and photogrammetrists,17.8,3.7,(X),69524,0.5561135734087223
+155,Commercial and Industrial Designers,0.0001652605339927367,0.01652605339927367,Commercial and industrial designers,23.6,6.4,(X),77891,1.0
+156,Gem and Diamond Workers,0.00016489112347561,0.016489112347560998,Other metal workers and plastic workers,21.1,1.4,81.7,37372,0.20822745729546902
+157,Mechanical Drafters,0.0001646483577901553,0.01646483577901553,Other drafters,17.6,2.4,88.4,56194,0.6047025536380206
+158,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",0.0001646162046419138,0.01646162046419138,Welding soldering and brazing workers,5.3,0.8,82.8,40787,0.8095825500347887
+159,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.0001646004270401097,0.01646004270401097,Sales representatives wholesale and manufacturing,26.4,0.9,80.9,66587,0.7386467012656545
+160,Customs Brokers,0.0001645843681929723,0.01645843681929723,Real estate brokers and sales agents,51.4,1.1,81.1,68174,0.3534892945833641
+161,Police Identification and Records Officers,0.0001645199392550735,0.01645199392550735,Police officers,13.9,0.9,83.1,64004,0.6159665198908453
+162,Anesthesiologists,0.0001643799685968706,0.01643799685968706,Total,43.5,0.1,82,51400,0.0
+163,Cleaners of Vehicles and Equipment,0.0001643725835145846,0.016437258351458463,Cleaners of vehicles and equipment,17.9,1.7,92.8,30598,1.0000000000000002
+164,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",0.000164334680022489,0.016433468002248902,Physical therapists,57.8,1.7,88.4,82476,0.2918633166070174
+165,Boilermakers,0.0001640509945307154,0.01640509945307154,Boilermakers,2.0,2.5,-,-,1.0
+166,Bill and Account Collectors,0.0001636861650563136,0.016368616505631362,Bill and account collectors,73.4,2.8,94.4,42284,1.0
+167,Music Directors and Composers,0.0001636088815858006,0.01636088815858006,Music directors and composers,24.0,4.7,(X),53399,1.0
+168,Firefighters,0.0001636038677700666,0.016360386777006658,Firefighters,5.0,0.8,89.5,70174,1.0
+169,Urologists,0.0001634027788617477,0.016340277886174773,Total,43.5,0.1,82,51400,0.0
+170,Sailors and Marine Oilers,0.0001633804284761201,0.01633804284761201,Sailors and marine oilers,8.6,3.9,(X),58512,1.0
+171,Couriers and Messengers,0.0001633445289288445,0.01633445289288445,Couriers and messengers,19.8,1.4,76.1,31434,1.0000000000000002
+172,Retail Salespersons,0.0001633129157366136,0.016331291573661363,Retail salespersons,37.4,0.7,71.7,34094,1.0
+173,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",0.0001632351061303455,0.01632351061303455,Forming machine setters operators and tenders metal and plastic,14.5,4.3,(X),43043,0.6327815073786586
+174,Aircraft Mechanics and Service Technicians,0.0001632140201888258,0.016321402018882582,Aircraft mechanics and service technicians,4.3,1.1,(X),54569,1.0
+175,Microbiologists,0.000163179721490362,0.0163179721490362,Total,43.5,0.1,82,51400,0.0
+176,Audio and Video Technicians,0.0001631480720672073,0.016314807206720728,Television video and film camera operators and editors,19.2,2.5,103.7,64202,0.2773832048703081
+177,Geographic Information Systems Technologists and Technicians,0.0001630369229135054,0.01630369229135054,Computer and information systems managers,27.1,0.9,86.4,113908,0.5085013611761802
+178,Intelligence Analysts,0.0001630077021094118,0.01630077021094118,Management analysts,43.2,1.0,85.4,90607,0.3570408815920544
+179,"Stone Cutters and Carvers, Manufacturing",0.0001630031292529019,0.01630031292529019,Jewelers and precious stone and metal workers,35.9,4.7,76.5,35888,0.26553974929024565
+180,Political Scientists,0.0001629660030324576,0.01629660030324576,Medical scientists,56.8,2.5,92.6,81833,0.4184731440104337
+181,Reinforcing Iron and Rebar Workers,0.0001627724932659366,0.016277249326593662,Reinforcing iron and rebar workers,0.0,4.4,-,-,1.0000000000000002
+182,Astronomers,0.000162634356792198,0.016263435679219798,Astronomers and physicists,16.6,4.4,(X),102606,0.697078617559136
+183,"Tank Car, Truck, and Ship Loaders",0.000162608574428512,0.0162608574428512,Ship engineers,3.8,4.4,(X),81250,0.3655010263289771
+184,Semiconductor Processing Technicians,0.0001625855380797729,0.01625855380797729,Food processing workers all other,31.1,2.4,83.1,37864,0.30803744404169053
+185,Medical Secretaries and Administrative Assistants,0.0001624856864818017,0.016248568648180167,Medical secretaries and administrative assistants,91.5,1.8,(X),40972,1.0000000000000002
+186,Physicists,0.0001621973997492561,0.01621973997492561,Astronomers and physicists,16.6,4.4,(X),102606,0.697078617559136
+187,"Cooks, Restaurant",0.0001621593480811447,0.016215934808114472,Cooks,38.1,1.0,86.2,26278,0.6686940433428977
+188,Aircraft Cargo Handling Supervisors,0.0001621038008334503,0.016210380083345032,Cargo and freight agents,45.5,6.6,68,41851,0.3473950683729139
+189,Sociologists,0.0001618193327155783,0.016181933271557827,Sociologists,77.7,11.0,(X),86460,1.0
+190,Credit Counselors,0.0001616146504428023,0.01616146504428023,Credit counselors and loan officers,52.4,1.8,65.4,62044,0.7114045686655784
+191,"Earth Drillers, Except Oil and Gas",0.0001615699619206873,0.016156996192068732,Earth drillers except oil and gas,1.1,1.1,(X),32335,1.0000000000000002
+192,Architectural and Civil Drafters,0.0001615276520962218,0.01615276520962218,Architectural and civil drafters,17.3,3.1,94.3,61212,1.0000000000000004
+193,Phlebotomists,0.0001614695426506514,0.01614695426506514,Phlebotomists,83.1,2.3,89.1,37723,1.0
+194,Photographers,0.0001613592742203879,0.01613592742203879,Photographers,41.5,3.0,79.6,41408,1.0
+195,Tile and Stone Setters,0.0001613332631690593,0.01613332631690593,Jewelers and precious stone and metal workers,35.9,4.7,76.5,35888,0.3454746553168484
+196,Cytogenetic Technologists,0.0001610956878192694,0.01610956878192694,Surgical technologists,75.3,3.0,84.5,50748,0.306544404379008
+197,"Geoscientists, Except Hydrologists and Geographers",0.0001610465202197022,0.01610465202197022,Geoscientists and hydrologists except geographers,20.9,2.9,100.5,92644,1.0000000000000002
+198,Log Graders and Scalers,0.000160955611886292,0.0160955611886292,Graders and sorters agricultural products,65.4,5.7,72.8,30267,0.3139756679625599
+199,Pharmacy Technicians,0.000160856579076165,0.0160856579076165,Pharmacy technicians,75.9,1.6,92.1,38225,1.0000000000000002
+200,Remote Sensing Technicians,0.0001606967712689425,0.01606967712689425,Dietetic technicians and ophthalmic medical technicians,79.3,4.2,(X),34290,0.19670880211346992
+201,"Bookkeeping, Accounting, and Auditing Clerks",0.0001606310500915151,0.01606310500915151,Bookkeeping accounting and auditing clerks,86.4,0.8,90.9,46557,1.0
+202,Real Estate Brokers,0.0001605928735286948,0.016059287352869482,Real estate brokers and sales agents,51.4,1.1,81.1,68174,0.8369246938639676
+203,Civil Engineering Technologists and Technicians,0.000160524886905232,0.0160524886905232,Electrical and electronic engineering technologists and technicians,10.0,2.4,(X),49612,0.5611319381174303
+204,Parts Salespersons,0.0001602344183913089,0.01602344183913089,Parts salespersons,15.0,2.2,89.7,40616,1.0000000000000002
+205,Cooling and Freezing Equipment Operators and Tenders,0.0001602343354395174,0.01602343354395174,Other production equipment operators and tenders,9.7,6.0,(X),36584,0.41929537664458943
+206,"Electronic Equipment Installers and Repairers, Motor Vehicles",0.0001600229178023812,0.01600229178023812,Electronic equipment installers and repairers motor vehicles,2.8,3.2,(X),23323,1.0000000000000002
+207,Cement Masons and Concrete Finishers,0.0001599877360694691,0.01599877360694691,Cement masons concrete finishers and terrazzo workers,1.3,1.0,(X),33804,0.8637682446475415
+208,"Interviewers, Except Eligibility and Loan",0.0001599478341174862,0.01599478341174862,Interviewers except eligibility and loan,78.1,2.2,96.2,37468,1.0000000000000002
+209,Barbers,0.0001599447650369627,0.01599447650369627,Barbers,18.8,2.6,88.6,28297,1.0
+210,"Patternmakers, Wood",0.0001599342117802467,0.01599342117802467,Sawing machine setters operators and tenders wood,7.8,3.7,(X),41195,0.3616941820191168
+211,"Maintenance Workers, Machinery",0.0001599095720337765,0.01599095720337765,Maintenance workers machinery,2.0,1.4,(X),73073,1.0
+212,Biostatisticians,0.0001598695627728503,0.015986956277285032,Total,43.5,0.1,82,51400,0.0
+213,Tax Preparers,0.0001597737637946166,0.01597737637946166,Tax preparers,58.9,3.9,76.2,58976,1.0
+214,Electrical and Electronic Engineering Technologists and Technicians,0.0001595863030782383,0.01595863030782383,Electrical and electronic engineering technologists and technicians,10.0,2.4,(X),49612,1.0
+215,Segmental Pavers,0.0001595353792364007,0.01595353792364007,Total,43.5,0.1,82,51400,0.0
+216,Drywall and Ceiling Tile Installers,0.0001595276948186424,0.015952769481864238,Drywall installers ceiling tile installers and tapers,3.8,1.3,(X),33424,0.8727509305296782
+217,Dental Laboratory Technicians,0.0001594199477489807,0.01594199477489807,Dental and ophthalmic laboratory technicians and medical appliance technicians,56.1,3.1,74.1,37570,0.6897026583032589
+218,"Cutting and Slicing Machine Setters, Operators, and Tenders",0.0001594145703068406,0.01594145703068406,Cutting punching and press machine setters operators and tenders metal and plastic,15.0,2.4,78.8,34254,0.5677397321443118
+219,Fishing and Hunting Workers,0.0001593326679639781,0.01593326679639781,Fishing and hunting workers,4.3,2.7,(X),41622,1.0000000000000004
+220,Choreographers,0.000159038473670976,0.0159038473670976,Dancers and choreographers,71.2,10.2,(X),52434,0.697078617559136
+221,Locomotive Engineers,0.0001589232512541584,0.01589232512541584,Locomotive engineers and operators,2.6,1.7,(X),58599,0.9014057245183782
+222,Continuous Mining Machine Operators,0.0001588560302835019,0.01588560302835019,Underground mining machine operators,1.5,0.9,(X),61857,0.5388238793285465
+223,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0001587492417001267,0.01587492417001267,Other machine tool setters operators and tenders metal and plastic,12.0,5.9,(X),32669,0.7300804100961609
+224,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0.0001585831125454972,0.01585831125454972,Heating air conditioning and refrigeration mechanics and installers,1.2,0.3,(X),41929,1.0
+225,Manufactured Building and Mobile Home Installers,0.000158484601270374,0.0158484601270374,Manufactured building and mobile home installers,0.0,8.0,-,-,1.0
+226,Jewelers and Precious Stone and Metal Workers,0.0001583412854586435,0.01583412854586435,Jewelers and precious stone and metal workers,35.9,4.7,76.5,35888,1.0000000000000002
+227,Furniture Finishers,0.0001582931487797915,0.01582931487797915,Furniture finishers,13.1,7.9,(X),38378,1.0
+228,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",0.0001581877018013115,0.01581877018013115,Locomotive engineers and operators,2.6,1.7,(X),58599,0.40154579667185164
+229,Bakers,0.0001578374179023941,0.015783741790239413,Bakers,57.1,2.7,87.9,31289,1.0
+230,Travel Guides,0.0001575159600961324,0.01575159600961324,Tour and travel guides,39.9,8.3,(X),39603,0.7821142346417642
+231,"Welders, Cutters, Solderers, and Brazers",0.0001573363032886689,0.01573363032886689,Molders and molding machine setters operators and tenders metal and plastic,13.9,3.3,(X),36238,0.03941350627713285
+232,Nurse Anesthetists,0.0001573173672751534,0.01573173672751534,Nurse anesthetists,54.8,4.9,94.6,197523,1.0000000000000002
+233,Manicurists and Pedicurists,0.0001572061005987665,0.015720610059876648,Manicurists and pedicurists,76.9,1.9,86.1,28284,1.0000000000000002
+234,Medical and Clinical Laboratory Technicians,0.0001571468847927967,0.01571468847927967,Clinical laboratory technologists and technicians,70.2,1.6,91.2,52635,0.7929524160856645
+235,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",0.0001570195345859139,0.015701953458591388,Molders and molding machine setters operators and tenders metal and plastic,13.9,3.3,(X),36238,0.034106472251950064
+236,Editors,0.0001569287849983902,0.01569287849983902,Editors,57.2,2.7,95.7,67529,1.0
+237,Computer Systems Analysts,0.000156850074362209,0.0156850074362209,Computer systems analysts,40.1,1.2,89.1,82464,1.0000000000000004
+238,Insurance Claims and Policy Processing Clerks,0.0001568494088593465,0.01568494088593465,Insurance claims and policy processing clerks,82.1,1.8,81,42396,1.0
+239,Dental Assistants,0.0001566385917212424,0.01566385917212424,Dental assistants,93.1,1.1,79.1,37080,1.0
+240,Construction and Building Inspectors,0.0001564473037628122,0.01564473037628122,Construction and building inspectors,8.5,1.6,76.8,50749,1.0000000000000002
+241,"Geological Technicians, Except Hydrologic Technicians",0.0001564079603606246,0.01564079603606246,Dietetic technicians and ophthalmic medical technicians,79.3,4.2,(X),34290,0.31731380100677536
+242,"Nursing Instructors and Teachers, Postsecondary",0.0001563368948037139,0.01563368948037139,Other teachers and instructors,53.8,1.5,78.1,49175,0.6159040469625306
+243,Anthropologists and Archeologists,0.0001562915237613105,0.01562915237613105,Molders and molding machine setters operators and tenders metal and plastic,13.9,3.3,(X),36238,0.05351612466019237
+244,Food Service Managers,0.0001561904891067865,0.015619048910678649,Food service managers,46.1,1.1,77,41433,1.0
+245,Biologists,0.00015610457529593,0.015610457529592999,Total,43.5,0.1,82,51400,0.0
+246,Demonstrators and Product Promoters,0.0001560980404557635,0.01560980404557635,Models demonstrators and product promoters,64.2,7.9,(X),40143,0.865276519857138
+247,"Energy Engineers, Except Wind and Solar",0.0001559704027104265,0.01559704027104265,Solar photovoltaic installers,2.2,2.6,-,-,0.291545366119459
+248,Solar Thermal Installers and Technicians,0.0001559188074314267,0.015591880743142671,Solar photovoltaic installers,2.2,2.6,-,-,0.4902321394591557
+249,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.0001559125126976091,0.01559125126976091,Textile machine setters operators and tenders,44.0,9.6,(X),31595,0.3679390228114848
+250,Transportation Security Screeners,0.0001558796637143862,0.01558796637143862,Transportation security screeners,36.2,5.0,88.6,45231,1.0
+251,Merchandise Displayers and Window Trimmers,0.0001558410333480675,0.015584103334806752,Merchandise displayers and window trimmers,58.9,7.1,(X),35946,1.0000000000000002
+252,"Farmworkers, Farm, Ranch, and Aquacultural Animals",0.0001556512271904767,0.01556512271904767,Buyers and purchasing agents farm products,28.9,9.4,(X),60689,0.1715468251554849
+253,Light Truck Drivers,0.0001554568913002425,0.015545689130024251,Driversales workers and truck drivers,5.7,0.3,69.3,37058,0.5263916554528447
+254,Floral Designers,0.0001552283063276218,0.01552283063276218,Floral designers,87.2,3.8,(X),35201,1.0000000000000002
+255,Forest and Conservation Technicians,0.0001551455495578908,0.01551455495578908,Forest and conservation workers,18.0,5.2,(X),34028,0.8743349419988174
+256,Photographic Process Workers and Processing Machine Operators,0.0001551032854718987,0.01551032854718987,Photographic process workers and processing machine operators,36.3,5.0,(X),57232,1.0
+257,Food Batchmakers,0.0001550015127880201,0.01550015127880201,Food batchmakers,58.4,4.2,75.9,32834,1.0
+258,Exercise Trainers and Group Fitness Instructors,0.0001549388433067489,0.01549388433067489,Exercise trainers and group fitness instructors,46.3,3.2,95.9,40103,1.0
+259,Medical Equipment Repairers,0.0001549163689838412,0.01549163689838412,Audiovisual equipment installers and repairers,3.7,2.2,(X),55980,0.4663890349820021
+260,Credit Analysts,0.000154903803369561,0.0154903803369561,Credit analysts,49.7,4.4,90.4,64683,1.0000000000000002
+261,Pile Driver Operators,0.0001548100358603593,0.01548100358603593,Telephone operators,61.1,8.9,(X),35736,0.1356378200259121
+262,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",0.0001547989134571763,0.015479891345717629,Forming machine setters operators and tenders metal and plastic,14.5,4.3,(X),43043,0.7133317526688008
+263,Hearing Aid Specialists,0.000154787602308749,0.0154787602308749,Other financial specialists,56.0,2.7,64.2,67224,0.20435422441861778
+264,Logging Equipment Operators,0.0001546897956075213,0.015468979560752131,Logging workers,2.6,1.2,(X),29128,0.7080880572881726
+265,Electrical Power-Line Installers and Repairers,0.0001546264838522237,0.015462648385222369,Telecommunications line installers and repairers,3.2,1.3,(X),57167,0.567916513327573
+266,"Insurance Appraisers, Auto Damage",0.0001545957335432772,0.015459573354327719,Insurance underwriters,60.1,2.5,88,71420,0.28029867889418236
+267,Speech-Language Pathologists,0.0001545552027758979,0.01545552027758979,Speechlanguage pathologists,94.3,1.1,87.9,72470,0.3901304702521127
+268,Dental Hygienists,0.0001544887124813107,0.01544887124813107,Dental hygienists,92.2,1.6,(X),68169,1.0
+269,Medical Transcriptionists,0.0001543905105950149,0.015439051059501491,Medical transcriptionists,84.7,5.4,(X),33063,1.0
+270,Environmental Restoration Planners,0.0001543596755577389,0.015435967555773889,Environmental engineers,31.8,4.7,85.1,87249,0.4148671694826864
+271,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",0.0001541912607359314,0.01541912607359314,Brickmasons blockmasons and stonemasons,0.9,0.6,(X),25968,0.6990604394743802
+272,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.0001541356753937618,0.015413567539376179,Extruding forming pressing and compacting machine setters operators and tenders,18.7,5.0,(X),32503,1.0000000000000002
+273,Fashion Designers,0.0001540994157043855,0.01540994157043855,Fashion designers,82.6,5.6,(X),56181,1.0000000000000002
+274,Railroad Conductors and Yardmasters,0.000153930722601831,0.0153930722601831,Railroad conductors and yardmasters,9.2,3.5,(X),52058,1.0000000000000004
+275,Patient Representatives,0.0001538809121757308,0.015388091217573079,Customer service representatives,67.0,0.7,87.8,40097,0.35634920121109503
+276,Nuclear Monitoring Technicians,0.000153735198494367,0.0153735198494367,Nuclear technicians,20.3,9.1,(X),92280,0.6859752994113933
+277,Prosthodontists,0.0001537315983757875,0.01537315983757875,Total,43.5,0.1,82,51400,0.0
+278,Film and Video Editors,0.0001536706290161765,0.015367062901617651,Television video and film camera operators and editors,19.2,2.5,103.7,64202,0.7462261392998046
+279,"Captains, Mates, and Pilots of Water Vessels",0.0001536016956249661,0.015360169562496612,Ship and boat captains and operators,7.0,3.2,(X),80712,0.2596203771344313
+280,Chiropractors,0.0001535819048587038,0.01535819048587038,Chiropractors,28.3,3.8,70.3,64268,1.0
+281,Bailiffs,0.0001531886075169759,0.01531886075169759,Bailiffs,30.7,5.9,(X),60858,1.0
+282,Nanosystems Engineers,0.0001531714169583233,0.01531714169583233,Sales engineers,9.7,2.0,(X),113766,0.30253970534307184
+283,Bioengineers and Biomedical Engineers,0.0001531258268641396,0.01531258268641396,Bioengineers and biomedical engineers,19.4,4.8,(X),103865,1.0
+284,Reservation and Transportation Ticket Agents and Travel Clerks,0.0001531188513882026,0.015311885138820262,Reservation and transportation ticket agents and travel clerks,49.9,2.8,83.2,41464,1.0
+285,Cashiers,0.0001530479268672808,0.01530479268672808,Cashiers,68.2,0.9,87,26362,1.0
+286,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",0.0001528059815079618,0.015280598150796179,Miscellaneous plant and system operators,6.6,2.2,(X),90059,0.343880914204494
+287,Stonemasons,0.0001527373585372093,0.015273735853720929,Brickmasons blockmasons and stonemasons,0.9,0.6,(X),25968,0.5774328561868511
+288,Embalmers,0.0001527248861238358,0.015272488612383579,Embalmers crematory operators and funeral attendants,32.3,9.3,(X),31977,0.5189305063098576
+289,Baristas,0.0001527170869970033,0.015271708699700329,Total,43.5,0.1,82,51400,0.0
+290,Laundry and Dry-Cleaning Workers,0.0001526254180791781,0.015262541807917812,Laundry and drycleaning workers,64.3,3.4,84,26862,0.44710041672867534
+291,Geographers,0.0001523592575952273,0.015235925759522729,Geoscientists and hydrologists except geographers,20.9,2.9,100.5,92644,0.5316054210531366
+292,"Insulation Workers, Mechanical",0.0001523410659865871,0.01523410659865871,Insulation workers,3.4,2.7,(X),30753,0.7828316273013045
+293,Terrazzo Workers and Finishers,0.0001523102082328325,0.015231020823283248,Cement masons concrete finishers and terrazzo workers,1.3,1.0,(X),33804,0.6410116270782802
+294,Correctional Officers and Jailers,0.0001522989613459294,0.015229896134592939,Correctional officers and jailers,27.0,1.7,82.7,49947,1.0000000000000002
+295,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",0.0001522183959172482,0.015221839591724821,Other protective service workers,36.7,4.9,74.4,34628,0.5561069735510609
+296,Automotive Body and Related Repairers,0.0001521919069936463,0.01521919069936463,Automotive body and related repairers,2.4,1.1,(X),33088,1.0
+297,Forest and Conservation Workers,0.0001519565508819885,0.015195655088198852,Forest and conservation workers,18.0,5.2,(X),34028,1.0
+298,Highway Maintenance Workers,0.0001519153748068673,0.01519153748068673,Highway maintenance workers,1.4,0.7,(X),39089,1.0
+299,Fence Erectors,0.0001518626635918895,0.01518626635918895,Fence erectors,2.6,2.2,(X),24784,1.0000000000000002
+300,Fire Inspectors and Investigators,0.000151852514123859,0.0151852514123859,Fire inspectors,10.3,3.1,(X),72702,0.7996519148550065
+301,Home Appliance Repairers,0.0001515460415367648,0.01515460415367648,Home appliance repairers,5.2,2.5,(X),51113,1.0
+302,"English Language and Literature Teachers, Postsecondary",0.000151534898410707,0.015153489841070702,Postsecondary teachers,48.1,0.8,84.8,75212,0.460238659804032
+303,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",0.0001514800275860183,0.01514800275860183,Molders and molding machine setters operators and tenders metal and plastic,13.9,3.3,(X),36238,0.7136543870654811
+304,Adhesive Bonding Machine Operators and Tenders,0.0001512720243639439,0.01512720243639439,Adhesive bonding machine operators and tenders,29.9,9.4,(X),36524,1.0000000000000002
+305,Electrical and Electronics Drafters,0.0001512503632046989,0.01512503632046989,Electrical and electronics engineers,8.2,0.8,91.2,103023,0.7146042299742541
+306,"Switchboard Operators, Including Answering Service",0.0001511575434577872,0.01511575434577872,Switchboard operators including answering service,75.3,9.8,(X),39214,1.0
+307,Industrial Engineering Technologists and Technicians,0.0001511301324849915,0.015113013248499152,Electrical and electronic engineering technologists and technicians,10.0,2.4,(X),49612,0.5929585557079153
+308,Conveyor Operators and Tenders,0.000151095871095906,0.015109587109590601,Conveyor dredge and hoist and winch operators,4.1,2.2,(X),28992,0.49874616575099184
+309,"Telecommunications Equipment Installers and Repairers, Except Line Installers",0.0001510352619309474,0.01510352619309474,Telecommunications line installers and repairers,3.2,1.3,(X),57167,0.8582730111842312
+310,Paperhangers,0.000150876081816538,0.015087608181653802,Painters and paperhangers,7.3,1.0,78.7,31832,0.7072585194684986
+311,Food Scientists and Technologists,0.000150867856494342,0.015086785649434201,Agricultural and food scientists,31.8,4.7,86,74307,0.6707809271595985
+312,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0.0001508374258421853,0.015083742584218528,Maids and housekeeping cleaners,82.5,0.8,84.9,27215,0.8331473476712783
+313,Animal Trainers,0.0001507663526938769,0.01507663526938769,Animal trainers,58.0,4.7,76.7,31347,1.0000000000000002
+314,Ship Engineers,0.0001504982277716426,0.015049822777164261,Ship engineers,3.8,4.4,(X),81250,1.0000000000000002
+315,Orderlies,0.0001501609584969118,0.015016095849691179,Orderlies and psychiatric aides,39.8,4.7,96.8,35344,0.6315687684444211
+316,Statisticians,0.0001501227174655928,0.01501227174655928,Statisticians,48.7,3.8,95.6,92952,1.0
+317,Printing Press Operators,0.0001499202099203634,0.01499202099203634,Printing press operators,19.8,2.2,69.3,31649,1.0000000000000004
+318,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",0.0001499073955314455,0.01499073955314455,Transportation inspectors,14.1,3.4,(X),50419,0.5123848829824706
+319,Gas Plant Operators,0.0001496920185174293,0.014969201851742931,Miscellaneous plant and system operators,6.6,2.2,(X),90059,0.4445116826964399
+320,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",0.0001496888156961858,0.01496888156961858,Elementary and middle school teachers,79.4,0.5,92.1,57590,0.551291222950907
+321,Cardiovascular Technologists and Technicians,0.0001496813720346755,0.014968137203467551,Cardiovascular technologists and technicians,62.4,4.5,61.3,51279,1.0000000000000002
+322,Orthotists and Prosthetists,0.0001496116665013106,0.01496116665013106,Molders and molding machine setters operators and tenders metal and plastic,13.9,3.3,(X),36238,0.05351612466019237
+323,Remote Sensing Scientists and Technologists,0.0001495198466803017,0.01495198466803017,Medical scientists,56.8,2.5,92.6,81833,0.2957768951174286
+324,Curators,0.0001494312589655491,0.014943125896554908,Archivists curators and museum technicians,54.8,3.7,90.8,60163,0.5477585294269421
+325,"Opticians, Dispensing",0.0001494009989156237,0.01494009989156237,Opticians dispensing,68.4,3.5,80.4,42558,1.0000000000000002
+326,"Painting, Coating, and Decorating Workers",0.0001493588240628016,0.01493588240628016,Painting workers,9.1,1.5,89.9,41332,0.585672433833963
+327,Heavy and Tractor-Trailer Truck Drivers,0.0001493565781206767,0.01493565781206767,Industrial truck and tractor operators,9.2,0.7,91.5,37411,0.509743305245842
+328,"Career/Technical Education Teachers, Middle School",0.0001493304854370418,0.014933048543704181,Elementary and middle school teachers,79.4,0.5,92.1,57590,0.5530111032179542
+329,Rail-Track Laying and Maintenance Equipment Operators,0.0001492501893557875,0.01492501893557875,Railtrack laying and maintenance equipment operators,0.7,1.1,-,-,0.6117369503583869
+330,"Geography Teachers, Postsecondary",0.0001490075804585813,0.014900758045858132,Postsecondary teachers,48.1,0.8,84.8,75212,0.6395063613048434
+331,Psychiatric Technicians,0.0001489833342538355,0.014898333425383551,Psychiatric technicians,73.1,3.3,87.1,36858,1.0
+332,Surgical Assistants,0.0001488595459937341,0.01488595459937341,Surgical technologists,75.3,3.0,84.5,50748,0.6837338882597135
+333,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",0.0001488553094570949,0.01488553094570949,Textile machine setters operators and tenders,44.0,9.6,(X),31595,0.5761226995659052
+334,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.0001487584721275104,0.01487584721275104,Secretaries and administrative assistants except legal medical and executive,93.0,0.4,85.4,43062,1.0000000000000002
+335,"Psychology Teachers, Postsecondary",0.0001487439081311829,0.01487439081311829,Postsecondary teachers,48.1,0.8,84.8,75212,0.6395063613048435
+336,Respiratory Therapists,0.0001486716186543254,0.01486716186543254,Respiratory therapists,62.4,2.7,87.7,71223,1.0
+337,Range Managers,0.0001486715029666447,0.01486715029666447,Sales managers,30.9,1.2,71.1,86475,0.2851425599976537
+338,"Career/Technical Education Teachers, Secondary School",0.0001485969749693716,0.01485969749693716,Secondary school teachers,56.2,0.9,92.5,61448,0.6830933376977575
+339,"Roof Bolters, Mining",0.000148512781372469,0.0148512781372469,Mining and geological engineers including mining safety engineers,8.2,4.7,(X),96420,0.31887969862352955
+340,Biomass Plant Technicians,0.0001484383271785807,0.01484383271785807,Miscellaneous plant and system operators,6.6,2.2,(X),90059,0.2946803033577988
+341,Physical Therapist Aides,0.0001481539230332251,0.01481539230332251,Physical therapist assistants and aides,63.8,3.5,98.1,50768,0.9107756314743344
+342,Optometrists,0.0001479975394287259,0.01479975394287259,Optometrists,41.8,4.1,87.8,123300,1.0
+343,Gas Compressor and Gas Pumping Station Operators,0.0001479088830451995,0.01479088830451995,Pumping station operators,2.7,1.9,(X),61796,0.6053401387228036
+344,Neuropsychologists,0.0001478949585197298,0.01478949585197298,Total,43.5,0.1,82,51400,0.0
+345,Computer Network Support Specialists,0.0001477161188567899,0.01477161188567899,Computer support specialists,24.6,1.0,94.3,63051,0.8103472109743671
+346,Agricultural Engineers,0.0001476255731745025,0.014762557317450251,Agricultural engineers,0.8,1.3,-,-,1.0
+347,"Refractory Materials Repairers, Except Brickmasons",0.0001476252580847161,0.014762525808471611,Materials engineers,15.3,3.0,95.9,91945,0.37811924107057776
+348,Detectives and Criminal Investigators,0.0001474595852732336,0.014745958527323359,Detectives and criminal investigators,26.8,2.2,85.7,82150,1.0000000000000002
+349,"Fine Artists, Including Painters, Sculptors, and Illustrators",0.000147297705641422,0.014729770564142201,Painters and paperhangers,7.3,1.0,78.7,31832,0.28393819278356414
+350,Human Resources Specialists,0.0001472887285286442,0.01472887285286442,Human resources workers,74.4,0.9,88,67046,0.8353106958621939
+351,Fabric and Apparel Patternmakers,0.0001472790296647461,0.014727902966474611,Other textile apparel and furnishings workers,37.9,8.9,(X),42610,0.3276145180650614
+352,Neurodiagnostic Technologists,0.000147225398112983,0.0147225398112983,Surgical technologists,75.3,3.0,84.5,50748,0.306544404379008
+353,Traffic Technicians,0.0001469061464795008,0.014690614647950078,Air traffic controllers and airfield operations specialists,20.4,4.3,(X),102283,0.3834926191102
+354,Medical Equipment Preparers,0.0001466441444907105,0.01466441444907105,Tax preparers,58.9,3.9,76.2,58976,0.5148553416083913
+355,"News Analysts, Reporters, and Journalists",0.0001465095871473389,0.01465095871473389,News analysts reporters and journalists,45.1,3.5,98.2,67336,1.0000000000000002
+356,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0001464963551167697,0.014649635511676971,Other machine tool setters operators and tenders metal and plastic,12.0,5.9,(X),32669,0.8133026697718561
+357,Structural Metal Fabricators and Fitters,0.0001464342593667283,0.01464342593667283,Structural metal fabricators and fitters,2.6,1.5,(X),45714,1.0000000000000002
+358,Solar Sales Representatives and Assessors,0.0001463001694504259,0.014630016945042588,Sales representatives wholesale and manufacturing,26.4,0.9,80.9,66587,0.43736723251353654
+359,Animal Scientists,0.0001462228881813527,0.01462228881813527,Animal trainers,58.0,4.7,76.7,31347,0.4999871411073704
+360,Museum Technicians and Conservators,0.0001461587879482909,0.014615878794829089,Archivists curators and museum technicians,54.8,3.7,90.8,60163,0.4665296703521294
+361,Fiberglass Laminators and Fabricators,0.0001459879258784189,0.014598792587841889,Other assemblers and fabricators,34.6,0.9,87.6,37117,0.3741630382492956
+362,Pest Control Workers,0.0001459621017630048,0.014596210176300481,Pest control workers,7.0,2.1,(X),40791,1.0
+363,Software Quality Assurance Analysts and Testers,0.0001458766087723963,0.014587660877239629,Software quality assurance analysts and testers,47.4,3.4,91.6,82827,1.0
+364,Psychiatrists,0.0001458152953639663,0.01458152953639663,Total,43.5,0.1,82,51400,0.0
+365,Pharmacy Aides,0.0001458037777571818,0.014580377775718181,Pharmacy aides,73.1,6.5,(X),38750,1.0
+366,Clinical and Counseling Psychologists,0.0001455047840874793,0.01455047840874793,Clinical and counseling psychologists,65.8,6.9,(X),104725,1.0000000000000002
+367,"Architects, Except Landscape and Naval",0.0001454911281541138,0.014549112815411379,Architects except landscape and naval,25.4,1.6,78.5,86431,1.0000000000000002
+368,Insurance Underwriters,0.0001454859792211983,0.014548597922119828,Insurance underwriters,60.1,2.5,88,71420,1.0
+369,Clinical Neuropsychologists,0.0001453176115189471,0.014531761151894711,Clinical laboratory technologists and technicians,70.2,1.6,91.2,52635,0.3595731843841885
+370,Stockers and Order Fillers,0.0001453085718823753,0.014530857188237531,Stockers and order fillers,35.1,0.9,95.5,32106,1.0000000000000004
+371,Advertising Sales Agents,0.0001449913345296439,0.014499133452964389,Advertising sales agents,47.5,3.1,90.4,72974,1.0
+372,Interpreters and Translators,0.0001449458603322867,0.01449458603322867,Interpreters and translators,70.5,3.7,85,44206,1.0000000000000002
+373,Medical and Clinical Laboratory Technologists,0.0001447491774099643,0.01447491774099643,Clinical laboratory technologists and technicians,70.2,1.6,91.2,52635,0.8396136970459421
+374,Fuel Cell Engineers,0.000144557643670502,0.0144557643670502,Sales engineers,9.7,2.0,(X),113766,0.22724469600242259
+375,Library Technicians,0.000144519716583723,0.014451971658372302,Library technicians,73.6,7.3,(X),33480,1.0
+376,Septic Tank Servicers and Sewer Pipe Cleaners,0.0001441412146927796,0.014414121469277959,Septic tank servicers and sewer pipe cleaners,3.2,3.0,(X),45216,1.0000000000000002
+377,Forensic Science Technicians,0.0001440861391366854,0.01440861391366854,Agricultural and food science technicians,34.2,4.3,87,48415,0.4307852455862402
+378,Geodetic Surveyors,0.0001440682134994985,0.01440682134994985,Surveyors cartographers and photogrammetrists,17.8,3.7,(X),69524,0.3739598238800674
+379,Biomass Power Plant Managers,0.0001440429529289733,0.014404295292897329,Power plant operators distributors and dispatchers,7.8,1.9,(X),113352,0.44184346719808154
+380,Radiation Therapists,0.0001438236286997,0.01438236286997,Radiation therapists,72.2,6.9,(X),81293,1.0
+381,Occupational Health and Safety Specialists,0.0001437223282970902,0.014372232829709019,Occupational health and safety specialists and technicians,33.2,3.0,89.9,68057,0.9391143892881398
+382,Producers and Directors,0.0001436573213499594,0.014365732134995939,Producers and directors,38.0,2.2,94.4,78363,1.0000000000000002
+383,Manufacturing Engineers,0.0001436025991416292,0.014360259914162921,Sales representatives wholesale and manufacturing,26.4,0.9,80.9,66587,0.4448719343255187
+384,Commercial Pilots,0.0001435696349785583,0.01435696349785583,Commercial divers,16.0,13.6,(X),31786,0.45543119271853566
+385,Brokerage Clerks,0.0001434791854806691,0.01434791854806691,Brokerage clerks,71.7,11.7,(X),47374,1.0000000000000002
+386,"Cutters and Trimmers, Hand",0.0001434755591575254,0.014347555915752541,Tree trimmers and pruners,3.8,1.7,(X),47500,0.3224311959481028
+387,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",0.0001433474368264068,0.01433474368264068,Electrical and electronics repairers industrial and utility,3.7,3.3,(X),39622,0.6828772328456291
+388,Marriage and Family Therapists,0.0001430569018228392,0.01430569018228392,Marriage and family therapists,75.7,5.7,(X),62162,1.0000000000000002
+389,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",0.0001430135450345305,0.014301354503453049,Weighers measurers checkers and samplers recordkeeping,43.5,3.9,78,38743,1.0
+390,"Tailors, Dressmakers, and Custom Sewers",0.0001427959624972909,0.014279596249729092,Tailors dressmakers and sewers,66.3,4.9,89.1,35415,0.8529096320412797
+391,Parking Enforcement Workers,0.0001427532349907947,0.01427532349907947,Parking enforcement workers,29.6,11.0,(X),46356,1.0
+392,Biological Technicians,0.000142637681143339,0.014263768114333901,Biological technicians,53.3,5.6,96.9,56593,1.0000000000000002
+393,Naturopathic Physicians,0.0001425599396398061,0.01425599396398061,Other physicians,39.8,1.1,(X),206401,0.5095165334671027
+394,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",0.0001424247670201116,0.014242476702011161,Food and tobacco roasting baking and drying machine operators and tenders,22.1,8.0,(X),37050,1.0
+395,Computer Numerically Controlled Tool Programmers,0.0001421901257270104,0.014219012572701039,Computer numerically controlled tool operators and programmers,10.1,2.4,77.1,40620,0.9639110876945995
+396,"Loading and Moving Machine Operators, Underground Mining",0.0001421850945116582,0.01421850945116582,Underground mining machine operators,1.5,0.9,(X),61857,0.7404325294093356
+397,Food Science Technicians,0.0001421821988141976,0.01421821988141976,Agricultural and food science technicians,34.2,4.3,87,48415,0.8212973522657758
+398,"First-Line Supervisors of Mechanics, Installers, and Repairers",0.0001421387386277551,0.014213873862775511,Firstline supervisors of mechanics installers and repairers,7.4,1.0,85.5,61551,0.7277107661916028
+399,Chemical Equipment Operators and Tenders,0.0001420948381881404,0.01420948381881404,Chemical processing machine setters operators and tenders,13.0,2.0,71.5,42215,0.6210880424059599
+400,"Elementary School Teachers, Except Special Education",0.0001419028615195728,0.014190286151957278,Special education teachers,85.3,1.2,95.8,58527,0.6703710647976218
+401,Industrial Ecologists,0.0001418483776026202,0.01418483776026202,Industrial production managers,23.4,1.4,89.5,81724,0.3648941075657721
+402,"Education Administrators, Postsecondary",0.0001418349328890099,0.01418349328890099,Education and childcare administrators,64.4,0.9,80.1,73150,0.6482854489811587
+403,Database Architects,0.0001418326894541027,0.01418326894541027,Database administrators and architects,28.8,2.3,68.1,78027,0.8227410774467445
+404,Aerospace Engineering and Operations Technologists and Technicians,0.0001414160771620597,0.01414160771620597,Electrical and electronic engineering technologists and technicians,10.0,2.4,(X),49612,0.5047787105090469
+405,Tire Builders,0.0001412894381205814,0.014128943812058141,Tire builders,5.4,3.3,(X),57568,1.0
+406,Personal Care Aides,0.0001410834956749157,0.01410834956749157,Personal care aides,79.4,0.9,91.5,31605,1.0
+407,Tree Trimmers and Pruners,0.0001408268503744887,0.01408268503744887,Tree trimmers and pruners,3.8,1.7,(X),47500,1.0
+408,Water Resource Specialists,0.0001406931472017666,0.014069314720176659,Water and wastewater treatment plant and system operators,3.8,1.0,(X),58317,0.25274720643862675
+409,Licensed Practical and Licensed Vocational Nurses,0.0001403562969631338,0.014035629696313381,Licensed practical and licensed vocational nurses,88.5,1.1,92.3,50039,1.0000000000000002
+410,"Glass Blowers, Molders, Benders, and Finishers",0.0001402592380962724,0.014025923809627241,Automotive glass installers and repairers,3.0,2.3,(X),34300,0.27359515272100343
+411,Power Distributors and Dispatchers,0.0001400978386099498,0.01400978386099498,Power plant operators distributors and dispatchers,7.8,1.9,(X),113352,0.8647477402684048
+412,Procurement Clerks,0.0001400807999474385,0.014008079994743851,Procurement clerks,51.7,5.2,89.5,57749,1.0000000000000002
+413,Proofreaders and Copy Markers,0.0001398688179204745,0.013986881792047452,Proofreaders and copy markers,77.4,7.4,(X),42373,1.0000000000000002
+414,Exercise Physiologists,0.0001398075940495177,0.01398075940495177,Exercise physiologists,53.4,12.4,(X),46671,1.0000000000000002
+415,Carpet Installers,0.0001394930279610185,0.013949302796101851,Carpet floor and tile installers and finishers,3.7,1.5,(X),34855,0.583475385044047
+416,First-Line Supervisors of Construction Trades and Extraction Workers,0.0001394407078117093,0.01394407078117093,Firstline supervisors of construction trades and extraction workers,3.8,0.5,78.7,52112,0.8084621299700978
+417,Stationary Engineers and Boiler Operators,0.00013930679527474,0.013930679527474,Stationary engineers and boiler operators,3.4,1.1,(X),67368,1.0
+418,Automotive Engineering Technicians,0.0001392546498633845,0.013925464986338449,Automotive service technicians and mechanics,1.6,0.3,91.9,43097,0.5552668200246155
+419,Tapers,0.0001389947867242791,0.01389947867242791,Drywall installers ceiling tile installers and tapers,3.8,1.3,(X),33424,0.4128533025918462
+420,Skincare Specialists,0.0001389618952381657,0.01389618952381657,Skincare specialists,97.0,2.2,(X),39295,1.0000000000000002
+421,Aviation Inspectors,0.0001389423231256005,0.01389423231256005,Transportation inspectors,14.1,3.4,(X),50419,0.4294669245204261
+422,Amusement and Recreation Attendants,0.0001389291777599254,0.013892917775992539,Recreation workers,68.3,2.8,82.4,35189,0.5272325146081389
+423,Training and Development Managers,0.0001388256725572654,0.01388256725572654,Training and development managers,59.0,3.3,85.1,78068,1.0
+424,Health Informatics Specialists,0.0001387903396845727,0.01387903396845727,Environmental scientists and specialists including health,41.2,4.8,96.9,73856,0.3760932111099716
+425,Billing and Posting Clerks,0.0001386579895499051,0.01386579895499051,Billing and posting clerks,86.8,1.1,81.5,41328,1.0000000000000002
+426,Brickmasons and Blockmasons,0.0001386368329929797,0.01386368329929797,Brickmasons blockmasons and stonemasons,0.9,0.6,(X),25968,0.8164381768363698
+427,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.0001385628358973681,0.013856283589736808,Sales representatives wholesale and manufacturing,26.4,0.9,80.9,66587,0.7146942810458979
+428,Structural Iron and Steel Workers,0.0001385589224072678,0.01385589224072678,Structural iron and steel workers,1.8,1.1,(X),58690,1.0000000000000002
+429,Accountants and Auditors,0.000138514711535683,0.013851471153568301,Accountants and auditors,58.0,0.8,81.4,74083,1.0
+430,"Inspectors, Testers, Sorters, Samplers, and Weighers",0.0001384026106081061,0.01384026106081061,Inspectors testers sorters samplers and weighers,37.0,1.1,73.6,40573,1.0
+431,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0.0001384005493574744,0.013840054935747439,Furnace kiln oven drier and kettle operators and tenders,20.4,7.4,(X),36413,1.0000000000000002
+432,Data Warehousing Specialists,0.0001382257742034009,0.013822577420340088,Data entry keyers,75.1,1.7,90.3,38204,0.33271533504043743
+433,"Teaching Assistants, Postsecondary",0.0001381944001300457,0.01381944001300457,Teaching assistants,82.4,0.9,79.4,26511,0.8732205623144493
+434,"Library Assistants, Clerical",0.0001381828542837621,0.013818285428376209,Library assistants clerical,76.9,4.0,82.3,36641,1.0
+435,"Production, Planning, and Expediting Clerks",0.0001378213503259377,0.013782135032593769,Production planning and expediting clerks,50.9,1.9,73.2,50161,1.0000000000000002
+436,Cytotechnologists,0.0001377247882706461,0.013772478827064609,Total,43.5,0.1,82,51400,0.0
+437,Radiologists,0.0001377006841208015,0.01377006841208015,Radiologists,21.2,6.1,(X),"250,000+",1.0
+438,Librarians and Media Collections Specialists,0.0001376921230671776,0.01376921230671776,Librarians and media collections specialists,78.0,1.9,97.7,59444,1.0000000000000002
+439,Customer Service Representatives,0.0001375300950786257,0.013753009507862572,Customer service representatives,67.0,0.7,87.8,40097,1.0
+440,Social and Human Service Assistants,0.0001374041277582623,0.013740412775826228,Social and human service assistants,77.0,1.8,92,43698,1.0000000000000004
+441,Oral and Maxillofacial Surgeons,0.0001372444012435802,0.013724440124358021,Surgeons,21.0,3.2,-,"250,000+",0.5512819488143993
+442,Ophthalmic Medical Technologists,0.0001371922377380296,0.01371922377380296,Dietetic technicians and ophthalmic medical technicians,79.3,4.2,(X),34290,0.5245157724572685
+443,Parking Attendants,0.0001369695672965893,0.013696956729658932,Parking attendants,9.1,3.2,(X),27471,1.0
+444,Food Cooking Machine Operators and Tenders,0.0001367743319415948,0.013677433194159481,Food cooking machine operators and tenders,24.1,8.8,(X),28413,1.0
+445,Recreational Vehicle Service Technicians,0.0001365783559278934,0.01365783559278934,Recreational therapists,78.3,6.7,(X),44525,0.4771942689402922
+446,Bus and Truck Mechanics and Diesel Engine Specialists,0.0001365340019266259,0.01365340019266259,Bus and truck mechanics and diesel engine specialists,1.1,0.4,(X),41547,1.0000000000000002
+447,"Textile Cutting Machine Setters, Operators, and Tenders",0.0001363151231451535,0.01363151231451535,Textile machine setters operators and tenders,44.0,9.6,(X),31595,0.8469526941169991
+448,Gambling Cage Workers,0.0001362552289719713,0.01362552289719713,Gambling cage workers,67.2,10.9,(X),32494,1.0000000000000004
+449,"Rail Yard Engineers, Dinkey Operators, and Hostlers",0.00013625022397193,0.013625022397193001,Other rail transportation workers,10.2,4.8,(X),82202,0.2798396034715459
+450,"Service Unit Operators, Oil and Gas",0.0001362145495957361,0.01362145495957361,Derrick rotary drill and service unit operators oil and gas,0.8,1.2,-,-,0.7145276662051798
+451,Self-Enrichment Teachers,0.0001356605143736241,0.013566051437362411,Postsecondary teachers,48.1,0.8,84.8,75212,0.25416835685504546
+452,Occupational Therapists,0.0001356315521311483,0.01356315521311483,Occupational therapists,86.3,2.0,81.8,76619,1.0
+453,"Derrick Operators, Oil and Gas",0.0001355366460209473,0.01355366460209473,Derrick rotary drill and service unit operators oil and gas,0.8,1.2,-,-,0.6687741038426428
+454,Microsystems Engineers,0.0001355293272720893,0.013552932727208929,Sales engineers,9.7,2.0,(X),113766,0.30253970534307184
+455,Coaches and Scouts,0.0001354368214621567,0.01354368214621567,Coaches and scouts,36.3,2.3,89.6,50726,1.0000000000000002
+456,Magnetic Resonance Imaging Technologists,0.0001352305763545239,0.013523057635452392,Magnetic resonance imaging technologists,55.0,3.6,87.6,78825,1.0
+457,Logistics Analysts,0.0001346703513508935,0.013467035135089352,Management analysts,43.2,1.0,85.4,90607,0.3570408815920544
+458,Search Marketing Strategists,0.0001345458387645621,0.01345458387645621,Marketing managers,61.1,1.2,80.9,85327,0.44205074234529723
+459,Climate Change Policy Analysts,0.0001345249696265712,0.013452496962657119,Insurance claims and policy processing clerks,82.1,1.8,81,42396,0.25949540632893775
+460,Geneticists,0.0001344985776359004,0.01344985776359004,Total,43.5,0.1,82,51400,0.0
+461,"Floor Layers, Except Carpet, Wood, and Hard Tiles",0.0001344831577571315,0.013448315775713149,Carpet floor and tile installers and finishers,3.7,1.5,(X),34855,0.3790365142780131
+462,Coroners,0.0001341960320803524,0.01341960320803524,Total,43.5,0.1,82,51400,0.0
+463,Urban and Regional Planners,0.0001341792121105506,0.013417921211055058,Urban and regional planners,44.6,4.8,84.9,75641,1.0000000000000002
+464,Airfield Operations Specialists,0.0001339379815259654,0.01339379815259654,Air traffic controllers and airfield operations specialists,20.4,4.3,(X),102283,0.653693032339326
+465,Radiologic Technologists and Technicians,0.0001339355005141897,0.01339355005141897,Radiologic technologists and technicians,65.3,1.9,85.9,62137,1.0000000000000002
+466,Receptionists and Information Clerks,0.0001338522419889947,0.013385224198899471,Receptionists and information clerks,89.3,0.6,86.6,34147,1.0
+467,Advanced Practice Psychiatric Nurses,0.0001338254264545905,0.013382542645459052,Psychiatric technicians,73.1,3.3,87.1,36858,0.40112802210732434
+468,Loan Officers,0.0001337821989486844,0.01337821989486844,Credit counselors and loan officers,52.4,1.8,65.4,62044,0.6878305869797307
+469,"Environmental Scientists and Specialists, Including Health",0.0001335965777587251,0.013359657775872509,Environmental scientists and specialists including health,41.2,4.8,96.9,73856,1.0
+470,Nuclear Technicians,0.0001335645280405807,0.013356452804058071,Nuclear technicians,20.3,9.1,(X),92280,1.0000000000000002
+471,Freight Forwarders,0.0001334332327206764,0.013343323272067642,Cargo and freight agents,45.5,6.6,68,41851,0.38642161306841794
+472,Information Security Analysts,0.0001333375600545004,0.013333756005450038,Information security analysts,16.8,1.5,92.6,106640,1.0
+473,"Locker Room, Coatroom, and Dressing Room Attendants",0.0001332418067010777,0.01332418067010777,Dining room and cafeteria attendants and bartender helpers,52.1,4.3,83.5,23785,0.39460045952087436
+474,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",0.0001331212588628408,0.013312125886284078,Special education teachers,85.3,1.2,95.8,58527,0.22498917941729474
+475,Business Intelligence Analysts,0.0001329723537772655,0.01329723537772655,Business operations specialists all other,56.3,1.7,74.4,62437,0.31744875864940536
+476,Operations Research Analysts,0.0001328315908701875,0.013283159087018749,Operations research analysts,49.7,2.1,87.3,84185,1.0000000000000002
+477,Hydrologists,0.000132697394671439,0.0132697394671439,Geoscientists and hydrologists except geographers,20.9,2.9,100.5,92644,0.5316054210531366
+478,"Physicians, Pathologists",0.0001325154563304443,0.013251545633044431,Other physicians,39.8,1.1,(X),206401,0.539394812761552
+479,Agricultural Equipment Operators,0.0001324452066833037,0.01324452066833037,Agricultural engineers,0.8,1.3,-,-,0.5590200395545406
+480,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",0.0001322933959030258,0.013229339590302579,Textile machine setters operators and tenders,44.0,9.6,(X),31595,0.6991424947357718
+481,Mechanical Engineers,0.0001321948808690863,0.013219488086908631,Mechanical engineers,9.3,0.8,95.2,93962,1.0000000000000002
+482,Computer and Information Systems Managers,0.0001318234355442758,0.01318234355442758,Computer and information systems managers,27.1,0.9,86.4,113908,1.0000000000000002
+483,Power Plant Operators,0.0001317950935253149,0.013179509352531489,Power plant operators distributors and dispatchers,7.8,1.9,(X),113352,0.6711066095124298
+484,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0.0001317126961638621,0.01317126961638621,Firstline supervisors of landscaping lawn service and groundskeeping workers,8.0,1.5,93.6,46521,0.8356137844766509
+485,Appraisers and Assessors of Real Estate,0.0001314080866521455,0.013140808665214549,Property appraisers and assessors,34.1,3.0,77.7,62466,0.5747947247729626
+486,Construction Laborers,0.0001313668459897763,0.01313668459897763,Construction laborers,3.5,0.3,87.1,35888,1.0000000000000002
+487,Human Factors Engineers and Ergonomists,0.0001313271390393485,0.013132713903934848,Human resources workers,74.4,0.9,88,67046,0.2932439369134843
+488,Marketing Managers,0.0001311490035291364,0.01311490035291364,Marketing managers,61.1,1.2,80.9,85327,1.0
+489,"Special Education Teachers, Preschool",0.0001311233466102387,0.013112334661023869,Special education teachers,85.3,1.2,95.8,58527,0.806149729690536
+490,Audiologists,0.0001307559856325311,0.013075598563253112,Audiologists,85.2,4.6,(X),86087,1.0
+491,Surveying and Mapping Technicians,0.0001306113142776122,0.013061131427761219,Surveying and mapping technicians,8.5,2.1,(X),46909,1.0
+492,Computer Programmers,0.0001306030423635021,0.01306030423635021,Computer programmers,17.6,1.4,91.1,95305,1.0
+493,Roofers,0.000130264178057907,0.013026417805790702,Roofers,2.7,0.9,(X),26437,1.0
+494,"Title Examiners, Abstractors, and Searchers",0.0001299515544114284,0.012995155441142839,Title examiners abstractors and searchers,75.8,3.0,62.7,52229,1.0
+495,Materials Engineers,0.0001299445124175205,0.01299445124175205,Materials engineers,15.3,3.0,95.9,91945,1.0
+496,"Ushers, Lobby Attendants, and Ticket Takers",0.0001299170806822854,0.01299170806822854,Ushers lobby attendants and ticket takers,55.5,12.0,(X),35054,1.0
+497,Chemical Engineers,0.0001296959226406363,0.012969592264063629,Chemical engineers,19.5,2.3,98.4,112291,1.0
+498,"Environmental Science and Protection Technicians, Including Health",0.0001296482526601885,0.01296482526601885,Environmental scientists and specialists including health,41.2,4.8,96.9,73856,0.5972208160575369
+499,Broadcast Announcers and Radio Disc Jockeys,0.0001296089960405771,0.012960899604057712,Broadcast announcers and radio disc jockeys,33.4,7.5,(X),60047,1.0000000000000002
+500,Tutors,0.0001295423285637791,0.012954232856377909,Tutors,68.1,6.2,135.4,36227,1.0
+501,"Arbitrators, Mediators, and Conciliators",0.0001294979766962306,0.01294979766962306,Molders and molding machine setters operators and tenders metal and plastic,13.9,3.3,(X),36238,0.043881189047234766
+502,Transportation Inspectors,0.0001290724773714724,0.01290724773714724,Transportation inspectors,14.1,3.4,(X),50419,1.0
+503,Security and Fire Alarm Systems Installers,0.0001288198527576094,0.012881985275760939,Security and fire alarm systems installers,3.1,1.5,(X),42956,1.0
+504,Occupational Health and Safety Technicians,0.00012879589786913,0.012879589786913,Occupational health and safety specialists and technicians,33.2,3.0,89.9,68057,0.9210292400851027
+505,Biochemists and Biophysicists,0.0001282931855737581,0.01282931855737581,Molders and molding machine setters operators and tenders metal and plastic,13.9,3.3,(X),36238,0.05351612466019237
+506,Lawyers,0.0001282896028964606,0.012828960289646061,Lawyers,38.6,0.9,83,134805,1.0
+507,Adapted Physical Education Specialists,0.0001281653106604795,0.012816531066047951,Physical therapists,57.8,1.7,88.4,82476,0.37907695019726523
+508,Occupational Therapy Aides,0.00012775432159016,0.012775432159015998,Occupational therapy assistants and aides,79.0,4.2,(X),41946,0.9116196333640443
+509,Electrical and Electronic Equipment Assemblers,0.0001276945633125874,0.012769456331258741,Electrical and electronic engineering technologists and technicians,10.0,2.4,(X),49612,0.5571276010194204
+510,Materials Scientists,0.000127687727654201,0.0127687727654201,Chemists and materials scientists,38.2,2.7,77.2,70382,0.7285520579403222
+511,Chemical Technicians,0.0001271835021272223,0.012718350212722229,Chemical technicians,33.9,4.1,90.1,55475,1.0
+512,Clinical Data Managers,0.0001270611275264508,0.01270611275264508,Data entry keyers,75.1,1.7,90.3,38204,0.37414477778268707
+513,"Painters, Construction and Maintenance",0.0001269899484408003,0.01269899484408003,Painters and paperhangers,7.3,1.0,78.7,31832,0.4621866106604174
+514,"Secondary School Teachers, Except Special and Career/Technical Education",0.0001269266439518207,0.01269266439518207,Secondary school teachers,56.2,0.9,92.5,61448,0.5998504909083405
+515,Medical and Health Services Managers,0.0001266353858031511,0.012663538580315109,Medical and health services managers,72.1,0.8,85.7,78812,1.0
+516,Executive Secretaries and Executive Administrative Assistants,0.0001264195299135315,0.01264195299135315,Executive secretaries and executive administrative assistants,94.3,0.8,105.7,66750,1.0000000000000002
+517,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.0001262777633036364,0.012627776330363641,Construction laborers,3.5,0.3,87.1,35888,0.2845290895289777
+518,"Laborers and Freight, Stock, and Material Movers, Hand",0.0001262565290370044,0.01262565290370044,Laborers and freight stock and material movers hand,22.1,0.6,85.7,32812,1.0
+519,Athletic Trainers,0.00012622074574978,0.012622074574978001,Animal trainers,58.0,4.7,76.7,31347,0.48472059481185026
+520,"Claims Adjusters, Examiners, and Investigators",0.0001261395171941495,0.012613951719414951,Claims adjusters appraisers examiners and investigators,60.3,1.8,77.9,56033,0.8876531925365195
+521,Recreation Workers,0.0001260663323521819,0.01260663323521819,Recreation workers,68.3,2.8,82.4,35189,1.0
+522,School Psychologists,0.0001259006771580884,0.01259006771580884,School psychologists,86.8,3.0,(X),80587,1.0
+523,Probation Officers and Correctional Treatment Specialists,0.0001258961947884722,0.01258961947884722,Probation officers and correctional treatment specialists,57.8,3.2,91.8,58035,1.0
+524,"Special Education Teachers, Middle School",0.0001258305739144805,0.012583057391448051,Special education teachers,85.3,1.2,95.8,58527,0.7220151405859051
+525,Anesthesiologist Assistants,0.0001255908599663965,0.01255908599663965,Medical assistants,91.2,0.7,91.7,36930,0.35219974010980926
+526,"Rock Splitters, Quarry",0.000125549564799147,0.0125549564799147,Total,43.5,0.1,82,51400,0.0
+527,Fallers,0.0001254946209913861,0.012549462099138611,Total,43.5,0.1,82,51400,0.0
+528,Solar Energy Systems Engineers,0.0001253909459844455,0.01253909459844455,Solar photovoltaic installers,2.2,2.6,-,-,0.32627195433759004
+529,Bioinformatics Technicians,0.0001253146116951494,0.012531461169514941,Dietetic technicians and ophthalmic medical technicians,79.3,4.2,(X),34290,0.2627629127089599
+530,Surgical Technologists,0.0001251605648541018,0.01251605648541018,Surgical technologists,75.3,3.0,84.5,50748,1.0000000000000002
+531,Foresters,0.000124850651191055,0.0124850651191055,Conservation scientists and foresters,33.9,5.5,85,59710,0.6537237079315087
+532,Geothermal Production Managers,0.0001246919296490378,0.01246919296490378,Industrial production managers,23.4,1.4,89.5,81724,0.5446651852105462
+533,Physical Therapist Assistants,0.0001244658010226921,0.01244658010226921,Physical therapist assistants and aides,63.8,3.5,98.1,50768,0.8630870054743307
+534,"Special Education Teachers, Secondary School",0.0001242917970038141,0.012429179700381411,Secondary school teachers,56.2,0.9,92.5,61448,0.7697579383205437
+535,Diagnostic Medical Sonographers,0.000124260856541095,0.0124260856541095,Diagnostic medical sonographers,74.9,2.6,76.8,77120,1.0
+536,Industrial-Organizational Psychologists,0.0001242453481065678,0.01242453481065678,Other psychologists,71.1,2.3,84.3,89723,0.46932188034004735
+537,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",0.0001242259351678914,0.012422593516789138,Electrical and electronics engineers,8.2,0.8,91.2,103023,0.4749299150379065
+538,Media Programming Directors,0.0001241069266179772,0.01241069266179772,Producers and directors,38.0,2.2,94.4,78363,0.30621495397499626
+539,"Middle School Teachers, Except Special and Career/Technical Education",0.0001239736896323477,0.012397368963234769,Special education teachers,85.3,1.2,95.8,58527,0.5653591779732214
+540,Preventive Medicine Physicians,0.0001236831701617205,0.012368317016172048,Emergency medicine physicians,26.4,5.8,(X),"250,000+",0.5997158303784174
+541,Subway and Streetcar Operators,0.0001235341857564675,0.01235341857564675,Locomotive engineers and operators,2.6,1.7,(X),58599,0.14645933167301647
+542,Automotive and Watercraft Service Attendants,0.0001234552708329109,0.012345527083291091,Automotive service technicians and mechanics,1.6,0.3,91.9,43097,0.4907579929305686
+543,Construction Managers,0.000123124494798631,0.0123124494798631,Construction managers,8.4,0.5,89,75350,1.0
+544,Hydroelectric Plant Technicians,0.0001230442740295186,0.01230442740295186,Miscellaneous plant and system operators,6.6,2.2,(X),90059,0.2946803033577988
+545,Textile Bleaching and Dyeing Machine Operators and Tenders,0.0001226899400163443,0.012268994001634429,Textile machine setters operators and tenders,44.0,9.6,(X),31595,0.5927490903899886
+546,Geothermal Technicians,0.0001223046258849906,0.01223046258849906,Dietetic technicians and ophthalmic medical technicians,79.3,4.2,(X),34290,0.2627629127089599
+547,"Career/Technical Education Teachers, Postsecondary",0.0001222549797930293,0.012225497979302929,Postsecondary teachers,48.1,0.8,84.8,75212,0.5355993847268041
+548,Sewing Machine Operators,0.0001219565230838415,0.01219565230838415,Sewing machine operators,68.5,2.9,96.4,31883,1.0
+549,Security Guards,0.0001217001885919209,0.01217001885919209,Security guards and gambling surveillance officers,22.2,1.0,90,36032,0.6376582131903225
+550,Private Detectives and Investigators,0.0001212946261075739,0.01212946261075739,Private detectives and investigators,49.0,2.7,75.4,55552,1.0000000000000002
+551,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.0001209393737435384,0.01209393737435384,Forming machine setters operators and tenders metal and plastic,14.5,4.3,(X),43043,0.7133317526688008
+552,Civil Engineers,0.0001208180165079322,0.01208180165079322,Civil engineers,16.4,1.0,91.4,92430,1.0
+553,Veterinary Technologists and Technicians,0.0001207092882664844,0.01207092882664844,Veterinary technologists and technicians,89.5,1.7,87.9,36111,1.0
+554,Social Science Research Assistants,0.0001202617688689483,0.012026176886894831,Social science research assistants,55.2,9.0,(X),48654,1.0
+555,Chemists,0.000120261754440762,0.0120261754440762,Chemists and materials scientists,38.2,2.7,77.2,70382,0.6659633417003938
+556,Nursing Assistants,0.0001201818733089732,0.01201818733089732,Nursing assistants,87.0,0.7,88,33341,1.0
+557,Mental Health Counselors,0.0001198277169941907,0.01198277169941907,Mental health counselors,75.5,2.5,95.4,56376,1.0000000000000002
+558,Conservation Scientists,0.0001196257438517953,0.011962574385179529,Conservation scientists and foresters,33.9,5.5,85,59710,0.7401869701840476
+559,Validation Engineers,0.0001193434910316674,0.011934349103166741,Sales engineers,9.7,2.0,(X),113766,0.30253970534307184
+560,Pharmacists,0.0001187401121041649,0.01187401121041649,Pharmacists,56.8,1.5,94,128132,1.0
+561,Art Therapists,0.0001186492259035292,0.01186492259035292,Physical therapists,57.8,1.7,88.4,82476,0.4074681288403012
+562,Historians,0.0001186257400541951,0.01186257400541951,Total,43.5,0.1,82,51400,0.0
+563,Petroleum Engineers,0.0001182428764157028,0.01182428764157028,Petroleum engineers,9.6,3.4,(X),153838,1.0
+564,Wind Energy Engineers,0.0001181811019208361,0.01181811019208361,Wind turbine service technicians,0.1,0.3,-,-,0.3652741712738691
+565,First-Line Supervisors of Production and Operating Workers,0.0001179764017795968,0.01179764017795968,Firstline supervisors of production and operating workers,21.2,0.9,73.8,48658,0.7622849554306959
+566,Music Therapists,0.0001173119310154169,0.01173119310154169,Music directors and composers,24.0,4.7,(X),53399,0.45393943378366375
+567,Financial Quantitative Analysts,0.0001171961364109932,0.01171961364109932,Financial and investment analysts,41.8,1.4,84.5,86475,0.5025135105896421
+568,Energy Auditors,0.0001168353214325547,0.01168353214325547,Accountants and auditors,58.0,0.8,81.4,74083,0.5073007288889578
+569,Acute Care Nurses,0.0001163318109492258,0.01163318109492258,Registered nurses,86.2,0.4,91.4,77582,0.34724342831929605
+570,"Farmers, Ranchers, and Other Agricultural Managers",0.0001162606514360049,0.01162606514360049,Farmers ranchers and other agricultural managers,13.2,0.7,71.6,37170,1.0
+571,"Kindergarten Teachers, Except Special Education",0.0001161572463474887,0.01161572463474887,Special education teachers,85.3,1.2,95.8,58527,0.7360716800751969
+572,Logistics Engineers,0.0001158053333023323,0.01158053333023323,Sales engineers,9.7,2.0,(X),113766,0.3154945226266798
+573,Loss Prevention Managers,0.0001152896395032019,0.01152896395032019,Firstline supervisors of firefighting and prevention workers,3.7,1.5,(X),100436,0.2897665441035392
+574,Physical Therapists,0.0001150847258767339,0.01150847258767339,Physical therapists,57.8,1.7,88.4,82476,1.0
+575,Computer Hardware Engineers,0.0001150787805045108,0.01150787805045108,Computer hardware engineers,13.0,2.5,(X),107098,1.0
+576,Solar Photovoltaic Installers,0.0001149769411974711,0.011497694119747109,Solar photovoltaic installers,2.2,2.6,-,-,1.0
+577,Nuclear Engineers,0.0001144266366431451,0.01144266366431451,Nuclear engineers,7.1,5.1,(X),86993,1.0000000000000002
+578,Agricultural Technicians,0.0001130189471808192,0.01130189471808192,Agricultural engineers,0.8,1.3,-,-,0.6661868989807903
+579,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.0001122491994461667,0.01122491994461667,Forming machine setters operators and tenders metal and plastic,14.5,4.3,(X),43043,0.6576795745285096
+580,"Camera Operators, Television, Video, and Film",0.000110813353307024,0.0110813353307024,Television video and film camera operators and editors,19.2,2.5,103.7,64202,0.9030239980041626
+581,"Meat, Poultry, and Fish Cutters and Trimmers",0.0001102617289986872,0.01102617289986872,Butchers and other meat poultry and fish processing workers,20.9,1.7,84,34280,0.6107936796728799
+582,Network and Computer Systems Administrators,0.0001096916043685101,0.01096916043685101,Network and computer systems administrators,16.8,1.3,91.6,78060,1.0000000000000002
+583,Operating Engineers and Other Construction Equipment Operators,0.0001096475559419396,0.01096475559419396,Construction equipment operators,2.6,0.5,85.7,46865,0.6594816906796502
+584,Physical Medicine and Rehabilitation Physicians,0.0001094870728486085,0.01094870728486085,Emergency medicine physicians,26.4,5.8,(X),"250,000+",0.5482138670753336
+585,Neurologists,0.0001092920297900248,0.01092920297900248,Total,43.5,0.1,82,51400,0.0
+586,Business Continuity Planners,0.0001088404377271077,0.01088404377271077,Business operations specialists all other,56.3,1.7,74.4,62437,0.2936918206098666
+587,Advertising and Promotions Managers,0.0001087949931441388,0.01087949931441388,Advertising and promotions managers,55.7,3.7,71.9,78248,1.0
+588,Computer Network Architects,0.0001086109318858006,0.01086109318858006,Computer network architects,9.9,1.7,95.8,101285,1.0
+589,"Education Administrators, Kindergarten through Secondary",0.0001081176151488408,0.01081176151488408,Education and childcare administrators,64.4,0.9,80.1,73150,0.41228141597897483
+590,Midwives,0.0001079474927464584,0.01079474927464584,Nurse midwives,100.0,3.5,-,127540,0.7435376765152704
+591,Instructional Coordinators,0.0001079095328667883,0.01079095328667883,Total,43.5,0.1,82,51400,0.0
+592,Mechanical Engineering Technologists and Technicians,0.000107542645439813,0.0107542645439813,Electrical and electronic engineering technologists and technicians,10.0,2.4,(X),49612,0.5742782975061688
+593,Air Traffic Controllers,0.0001073139809809153,0.01073139809809153,Air traffic controllers and airfield operations specialists,20.4,4.3,(X),102283,0.7487819208791132
+594,Water/Wastewater Engineers,0.0001070764444913858,0.01070764444913858,Water and wastewater treatment plant and system operators,3.8,1.0,(X),58317,0.5679452801033958
+595,Web Administrators,0.0001063051816371043,0.010630518163710431,Web developers,26.5,2.9,92.6,76955,0.5178986609219294
+596,Models,0.0001061582629953374,0.01061582629953374,Models demonstrators and product promoters,64.2,7.9,(X),40143,0.5012948675020722
+597,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.0001054177546169512,0.01054177546169512,Forming machine setters operators and tenders metal and plastic,14.5,4.3,(X),43043,0.7133317526688008
+598,"Credit Authorizers, Checkers, and Clerks",0.0001048403391358358,0.010484033913583579,Credit authorizers checkers and clerks,69.6,4.9,73.4,42936,1.0000000000000002
+599,Computer Systems Engineers/Architects,0.000104471291273359,0.0104471291273359,Computer systems analysts,40.1,1.2,89.1,82464,0.5982948085731168
+600,Document Management Specialists,0.0001043836258852613,0.01043836258852613,Project management specialists,45.1,1.0,87,88226,0.5132021607538426
+601,Postal Service Clerks,0.0001037190547074676,0.01037190547074676,Postal service clerks,52.9,2.6,84.2,52300,1.0000000000000002
+602,Flight Attendants,0.0001019067529580932,0.01019067529580932,Flight attendants,71.2,3.9,85.6,51583,1.0
+603,Counter and Rental Clerks,0.0001017636356590839,0.01017636356590839,Counter and rental clerks,36.4,4.9,86.7,36658,1.0000000000000002
+604,Baggage Porters and Bellhops,0.0001015382864787067,0.01015382864787067,Baggage porters bellhops and concierges,25.8,3.5,81.3,34545,0.8680844600060165
+605,Obstetricians and Gynecologists,0.0001012717762251577,0.010127177622515771,Molders and molding machine setters operators and tenders metal and plastic,13.9,3.3,(X),36238,0.05351612466019237
+606,Natural Sciences Managers,0.000101036393414381,0.0101036393414381,Natural sciences managers,64.1,4.5,86.4,77602,1.0000000000000002
+607,Automotive Engineers,0.0001007358271501701,0.01007358271501701,Automotive service technicians and mechanics,1.6,0.3,91.9,43097,0.49047350248330984
+608,Butchers and Meat Cutters,0.0001007111390873069,0.010071113908730691,Butchers and other meat poultry and fish processing workers,20.9,1.7,84,34280,0.5270012496008369
+609,Passenger Attendants,0.0001005117372299001,0.01005117372299001,Passenger attendants,56.4,7.8,(X),30808,1.0
+610,Telecommunications Engineering Specialists,0.0001001745904161793,0.01001745904161793,Telecommunications line installers and repairers,3.2,1.3,(X),57167,0.41436701047828495
+611,"Court, Municipal, and License Clerks",9.997367174307595e-05,0.009997367174307594,Court municipal and license clerks,82.9,2.3,82.5,43050,1.0000000000000002
+612,Physician Assistants,9.985125321350845e-05,0.009985125321350844,Physician assistants,64.0,2.3,85.5,115573,1.0
+613,Industrial Machinery Mechanics,9.917531051678431e-05,0.009917531051678431,Industrial and refractory machinery mechanics,4.1,0.7,82.3,51370,0.80741804186752
+614,Industrial Engineers,9.834407619214762e-05,0.009834407619214763,Industrial engineers including health and safety,23.6,1.5,92.2,86967,0.5640185464282423
+615,"Medical Scientists, Except Epidemiologists",9.761730526022755e-05,0.009761730526022755,Medical scientists,56.8,2.5,92.6,81833,0.6443687213588188
+616,Economists,9.73995896793169e-05,0.00973995896793169,Economists,39.3,4.6,83.5,119646,1.0
+617,Community Health Workers,9.736983134664769e-05,0.009736983134664768,Social and community service managers,70.7,1.1,85.8,62101,0.43672352193848735
+618,Orthoptists,9.712550529777591e-05,0.009712550529777592,Total,43.5,0.1,82,51400,0.0
+619,Helpers--Production Workers,9.652525969531887e-05,0.009652525969531887,Other production workers,28.7,0.9,78.5,35137,0.6455765332412973
+620,"Educational, Guidance, and Career Counselors and Advisors",9.596439325986265e-05,0.009596439325986266,Educational guidance and career counselors and advisors,76.0,1.5,97.4,58479,1.0
+621,Biofuels/Biodiesel Technology and Product Development Managers,9.589338291734083e-05,0.009589338291734082,Training and development managers,59.0,3.3,85.1,78068,0.3562883599204365
+622,Crossing Guards and Flaggers,9.562368980490985e-05,0.009562368980490985,Crossing guards and flaggers,32.3,7.4,(X),32354,1.0000000000000004
+623,"Meter Readers, Utilities",9.55039300114619e-05,0.00955039300114619,Meter readers utilities,10.3,4.0,(X),36174,1.0
+624,Telephone Operators,9.517071412243856e-05,0.009517071412243856,Telephone operators,61.1,8.9,(X),35736,1.0000000000000002
+625,Mathematicians,9.513101665252499e-05,0.009513101665252498,Mathematicians,24.8,12.4,(X),119472,1.0
+626,"Eligibility Interviewers, Government Programs",9.510902408295046e-05,0.009510902408295047,Eligibility interviewers government programs,80.1,2.4,79.7,48354,1.0000000000000002
+627,"Administrative Law Judges, Adjudicators, and Hearing Officers",9.434172008486692e-05,0.009434172008486692,Judicial law clerks,78.5,5.3,(X),57254,0.24987704654811824
+628,"Cooks, Private Household",9.43297682834292e-05,0.00943297682834292,Cooks,38.1,1.0,86.2,26278,0.5174900367786466
+629,"Morticians, Undertakers, and Funeral Arrangers",9.428491149844697e-05,0.009428491149844698,Morticians undertakers and funeral arrangers,34.2,4.4,75.7,52754,1.0000000000000002
+630,First-Line Supervisors of Retail Sales Workers,9.379240134337817e-05,0.009379240134337817,FirstLine supervisors of retail sales workers,43.1,0.6,75.6,43654,0.727012350125811
+631,Industrial Truck and Tractor Operators,9.370014002563303e-05,0.009370014002563303,Industrial truck and tractor operators,9.2,0.7,91.5,37411,1.0000000000000004
+632,Farm Labor Contractors,9.321190734532209e-05,0.00932119073453221,Buyers and purchasing agents farm products,28.9,9.4,(X),60689,0.21312821128854934
+633,Plasterers and Stucco Masons,9.216670724630835e-05,0.009216670724630834,Plasterers and stucco masons,0.4,0.6,-,-,1.0000000000000002
+634,Actuaries,9.151892420470037e-05,0.009151892420470037,Actuaries,30.5,3.4,92.7,122497,1.0
+635,Telemarketers,9.149359115575927e-05,0.009149359115575927,Telemarketers,64.9,8.4,(X),33773,1.0
+636,"Forestry and Conservation Science Teachers, Postsecondary",9.133338225708155e-05,0.009133338225708155,Postsecondary teachers,48.1,0.8,84.8,75212,0.4977743593690669
+637,Payroll and Timekeeping Clerks,9.098185875159605e-05,0.009098185875159606,Payroll and timekeeping clerks,86.4,1.8,95.4,51433,1.0000000000000002
+638,Shoe Machine Operators and Tenders,9.098068608315733e-05,0.009098068608315732,Shoe and leather workers,39.5,9.1,(X),26817,0.4839976202059857
+639,Concierges,9.093483661671809e-05,0.009093483661671809,Baggage porters bellhops and concierges,25.8,3.5,81.3,34545,0.4964165290318837
+640,"Biological Science Teachers, Postsecondary",9.050803703415381e-05,0.009050803703415381,Postsecondary teachers,48.1,0.8,84.8,75212,0.5894773784794903
+641,Genetic Counselors,8.993792301815512e-05,0.008993792301815512,Counselors all other,66.3,2.6,89.8,50474,0.3974028878368588
+642,Insurance Sales Agents,8.988070914965751e-05,0.008988070914965752,Insurance sales agents,50.5,1.4,65.7,50297,1.0
+643,Fitness and Wellness Coordinators,8.951054238905099e-05,0.008951054238905099,Exercise trainers and group fitness instructors,46.3,3.2,95.9,40103,0.25729298152523883
+644,Soil and Plant Scientists,8.947104158994676e-05,0.008947104158994676,Medical scientists,56.8,2.5,92.6,81833,0.3362924488085299
+645,Public Safety Telecommunicators,8.92779217992498e-05,0.00892779217992498,Public safety telecommunicators,64.5,3.0,88.5,47478,1.0
+646,General Internal Medicine Physicians,8.917888607687496e-05,0.008917888607687496,Emergency medicine physicians,26.4,5.8,(X),"250,000+",0.5312919675070524
+647,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",8.859968435770203e-05,0.008859968435770202,Hosts and hostesses restaurant lounge and coffee shop,75.2,4.8,84,25477,1.0
+648,First-Line Supervisors of Correctional Officers,8.7925282672499e-05,0.0087925282672499,Firstline supervisors of correctional officers,31.2,4.7,79.8,56946,0.7220858252333809
+649,Recycling Coordinators,8.791494628083186e-05,0.008791494628083187,Total,43.5,0.1,82,51400,0.0
+650,Massage Therapists,8.787869263850818e-05,0.008787869263850818,Massage therapists,73.8,4.0,89.6,37558,1.0
+651,Farm and Home Management Educators,8.766296683087666e-05,0.008766296683087666,Management analysts,43.2,1.0,85.4,90607,0.3714193007874973
+652,Psychiatric Aides,8.750353925015896e-05,0.008750353925015896,Orderlies and psychiatric aides,39.8,4.7,96.8,35344,0.7602648955200699
+653,Animal Caretakers,8.748906112657491e-05,0.008748906112657492,Animal caretakers,72.1,2.2,85.4,31277,1.0000000000000002
+654,First-Line Supervisors of Firefighting and Prevention Workers,8.748010101377858e-05,0.008748010101377858,Firstline supervisors of firefighting and prevention workers,3.7,1.5,(X),100436,0.7765090373759642
+655,"Pediatricians, General",8.743033271212362e-05,0.008743033271212362,General and operations managers,34.0,0.7,80.9,71358,0.38981118302165996
+656,"Business Teachers, Postsecondary",8.706203159332975e-05,0.008706203159332975,Postsecondary teachers,48.1,0.8,84.8,75212,0.7058871354930755
+657,Financial Managers,8.698639336491143e-05,0.008698639336491143,Financial managers,54.8,0.8,66.6,77072,1.0
+658,Park Naturalists,8.635450891444267e-05,0.008635450891444267,Total,43.5,0.1,82,51400,0.0
+659,"Architecture Teachers, Postsecondary",8.615877081366775e-05,0.008615877081366775,Postsecondary teachers,48.1,0.8,84.8,75212,0.6395063613048434
+660,Helpers--Roofers,8.565860187178551e-05,0.00856586018717855,Roofers,2.7,0.9,(X),26437,0.7739982853733887
+661,Talent Directors,8.504444843389228e-05,0.008504444843389228,Producers and directors,38.0,2.2,94.4,78363,0.3680465837080978
+662,"Social Work Teachers, Postsecondary",8.498996225741632e-05,0.008498996225741632,Postsecondary teachers,48.1,0.8,84.8,75212,0.5613111557008068
+663,Family Medicine Physicians,8.489464963581703e-05,0.008489464963581703,Emergency medicine physicians,26.4,5.8,(X),"250,000+",0.6444510323164199
+664,"Economics Teachers, Postsecondary",8.488188674361715e-05,0.008488188674361715,Postsecondary teachers,48.1,0.8,84.8,75212,0.6395063613048434
+665,Funeral Attendants,8.473775581036919e-05,0.00847377558103692,Embalmers crematory operators and funeral attendants,32.3,9.3,(X),31977,0.5936714336372277
+666,Home Health Aides,8.455637581690889e-05,0.008455637581690888,Home health aides,86.5,1.4,91.8,31744,1.0000000000000002
+667,"Ophthalmologists, Except Pediatric",8.424550692094633e-05,0.008424550692094633,Office machine operators except computer,54.6,6.7,(X),31554,0.15528484507271237
+668,Tour Guides and Escorts,8.410705667863573e-05,0.008410705667863573,Tour and travel guides,39.9,8.3,(X),39603,0.6815552389701773
+669,File Clerks,8.407404008152941e-05,0.00840740400815294,File clerks,74.8,3.0,97.7,41383,1.0000000000000002
+670,Market Research Analysts and Marketing Specialists,8.399537303621593e-05,0.008399537303621593,Market research analysts and marketing specialists,58.0,1.7,84.8,73866,1.0
+671,Robotics Engineers,8.391684601244455e-05,0.008391684601244455,Sales engineers,9.7,2.0,(X),113766,0.3154945226266798
+672,Archivists,8.378110176060925e-05,0.008378110176060924,Archivists curators and museum technicians,54.8,3.7,90.8,60163,0.5477585294269421
+673,Equal Opportunity Representatives and Officers,8.371230597475533e-05,0.008371230597475533,Police officers,13.9,0.9,83.1,64004,0.25694005373074535
+674,"Criminal Justice and Law Enforcement Teachers, Postsecondary",8.33029369491709e-05,0.00833029369491709,Postsecondary teachers,48.1,0.8,84.8,75212,0.4095245407440537
+675,Transit and Railroad Police,8.304998591001297e-05,0.008304998591001297,Police officers,13.9,0.9,83.1,64004,0.39966401156189896
+676,"Agricultural Sciences Teachers, Postsecondary",8.296550057403237e-05,0.008296550057403236,Postsecondary teachers,48.1,0.8,84.8,75212,0.5938603158947802
+677,Sales Engineers,8.26485263435549e-05,0.00826485263435549,Sales engineers,9.7,2.0,(X),113766,1.0
+678,Compliance Officers,8.254623220065003e-05,0.008254623220065004,Compliance officers,55.2,1.5,96.1,75146,0.9999999999999999
+679,Administrative Services Managers,8.250110885396336e-05,0.008250110885396336,Administrative services managers,71.9,3.4,74.8,64527,1.0000000000000002
+680,Medical Assistants,8.240598383642549e-05,0.008240598383642548,Medical assistants,91.2,0.7,91.7,36930,1.0000000000000002
+681,Epidemiologists,8.233301989874061e-05,0.008233301989874061,Total,43.5,0.1,82,51400,0.0
+682,Clinical Research Coordinators,8.215887113255886e-05,0.008215887113255887,Operations research analysts,49.7,2.1,87.3,84185,0.3381213947642023
+683,Sustainability Specialists,8.214004680941882e-05,0.008214004680941881,Other financial specialists,56.0,2.7,64.2,67224,0.2753175466484552
+684,"Compensation, Benefits, and Job Analysis Specialists",8.199528113066123e-05,0.008199528113066124,Compensation benefits and job analysis specialists,72.9,3.0,87,62674,1.0
+685,"Engineering Teachers, Postsecondary",8.197000594260432e-05,0.008197000594260432,Postsecondary teachers,48.1,0.8,84.8,75212,0.7535721714516509
+686,Healthcare Social Workers,8.196904842696285e-05,0.008196904842696286,Healthcare social workers,80.3,2.9,102.7,56811,1.0000000000000002
+687,Regulatory Affairs Managers,8.185275508334168e-05,0.008185275508334169,Sales managers,30.9,1.2,71.1,86475,0.22380904383517258
+688,First-Line Supervisors of Non-Retail Sales Workers,8.174141973466115e-05,0.008174141973466114,FirstLine supervisors of retail sales workers,43.1,0.6,75.6,43654,0.6365338158061279
+689,Speech-Language Pathology Assistants,8.161469142500404e-05,0.008161469142500403,Medical assistants,91.2,0.7,91.7,36930,0.2377375075114277
+690,"Law Teachers, Postsecondary",8.158691518107265e-05,0.008158691518107265,Postsecondary teachers,48.1,0.8,84.8,75212,0.6973114174263435
+691,Gambling Dealers,8.150025784469221e-05,0.008150025784469222,Gambling services workers,39.6,3.6,87.3,42957,0.39949909934243555
+692,First-Line Supervisors of Food Preparation and Serving Workers,8.142711684118098e-05,0.008142711684118098,Firstline supervisors of food preparation and serving workers,57.7,1.8,80,31326,0.8012134664358554
+693,Gambling Change Persons and Booth Cashiers,8.141312350503616e-05,0.008141312350503615,Cashiers,68.2,0.9,87,26362,0.4344184448581771
+694,"Education Teachers, Postsecondary",8.11826907288566e-05,0.00811826907288566,Postsecondary teachers,48.1,0.8,84.8,75212,0.7778162989217225
+695,Training and Development Specialists,8.095607960949886e-05,0.008095607960949885,Training and development specialists,53.6,2.3,86.1,64361,1.0000000000000002
+696,Team Assemblers,8.087534576664852e-05,0.008087534576664852,Other assemblers and fabricators,34.6,0.9,87.6,37117,0.36204100451899257
+697,"Bus Drivers, Transit and Intercity",8.081962980863034e-05,0.008081962980863033,Bus drivers transit and intercity,29.6,1.9,74.9,40121,1.0000000000000002
+698,Environmental Economists,8.063546974376021e-05,0.00806354697437602,Economists,39.3,4.6,83.5,119646,0.7655315855046125
+699,"Wholesale and Retail Buyers, Except Farm Products",8.056544799888217e-05,0.008056544799888217,Wholesale and retail buyers except farm products,48.7,2.2,99.3,48925,0.9999999999999998
+700,Mental Health and Substance Abuse Social Workers,8.047155733922418e-05,0.008047155733922418,Mental health and substance abuse social workers,86.0,3.7,(X),63399,1.0
+701,First-Line Supervisors of Office and Administrative Support Workers,8.042395440924489e-05,0.008042395440924489,FirstLine supervisors of office and administrative support workers,66.1,0.9,79.5,53106,0.7896675462367093
+702,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",8.038688463181475e-05,0.008038688463181476,Mining and geological engineers including mining safety engineers,8.2,4.7,(X),96420,0.6505664925488693
+703,Human Resources Managers,8.038604451517719e-05,0.008038604451517719,Human resources managers,75.3,1.5,84.3,92335,1.0000000000000002
+704,Health Education Specialists,8.037451753863186e-05,0.008037451753863186,Environmental scientists and specialists including health,41.2,4.8,96.9,73856,0.45108390678343757
+705,"Property, Real Estate, and Community Association Managers",8.03304698316156e-05,0.00803304698316156,Property real estate and community association managers,53.2,1.3,78.4,57521,1.0
+706,Environmental Engineers,8.022255207896355e-05,0.008022255207896355,Environmental engineers,31.8,4.7,85.1,87249,1.0
+707,"Recreation and Fitness Studies Teachers, Postsecondary",8.01851001990457e-05,0.008018510019904569,Postsecondary teachers,48.1,0.8,84.8,75212,0.4691589648163736
+708,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",8.015886579922508e-05,0.008015886579922507,Postsecondary teachers,48.1,0.8,84.8,75212,0.3861822594963191
+709,"Human Resources Assistants, Except Payroll and Timekeeping",8.011217275567756e-05,0.008011217275567755,Human resources assistants except payroll and timekeeping,79.2,2.9,79.3,56287,1.0
+710,Fish and Game Wardens,8.008510119453562e-05,0.008008510119453562,Fish and game wardens,9.3,5.5,(X),62990,1.0000000000000002
+711,Sports Medicine Physicians,7.991044413484515e-05,0.007991044413484515,Emergency medicine physicians,26.4,5.8,(X),"250,000+",0.6492902233777331
+712,Social and Community Service Managers,7.97918426469424e-05,0.007979184264694239,Social and community service managers,70.7,1.1,85.8,62101,1.0000000000000002
+713,"Judges, Magistrate Judges, and Magistrates",7.969628470410944e-05,0.007969628470410944,Judges magistrates and other judicial workers,53.5,4.1,68.4,100993,0.6457782121288229
+714,Veterinary Assistants and Laboratory Animal Caretakers,7.96900978363225e-05,0.00796900978363225,Veterinary assistants and laboratory animal caretakers,83.9,3.2,84.1,31684,1.0000000000000002
+715,Dermatologists,7.959601967204404e-05,0.007959601967204404,Total,43.5,0.1,82,51400,0.0
+716,Compensation and Benefits Managers,7.954052061981173e-05,0.007954052061981173,Compensation and benefits managers,79.4,4.1,(X),104067,1.0000000000000002
+717,Police and Sheriff's Patrol Officers,7.939405961100429e-05,0.007939405961100428,Police officers,13.9,0.9,83.1,64004,0.6054470785680361
+718,"Food Servers, Nonrestaurant",7.912826222038113e-05,0.007912826222038113,Food servers nonrestaurant,60.2,3.8,100.3,29753,1.0000000000000002
+719,"Environmental Science Teachers, Postsecondary",7.895912351342514e-05,0.007895912351342514,Postsecondary teachers,48.1,0.8,84.8,75212,0.6197427468444543
+720,"Sociology Teachers, Postsecondary",7.893096464715732e-05,0.007893096464715732,Postsecondary teachers,48.1,0.8,84.8,75212,0.6395063613048435
+721,Video Game Designers,7.890120621588411e-05,0.007890120621588411,Other designers,39.2,1.3,86.5,70319,0.40781435154457035
+722,"Family and Consumer Sciences Teachers, Postsecondary",7.880702731962639e-05,0.007880702731962638,Postsecondary teachers,48.1,0.8,84.8,75212,0.46707990089373874
+723,Wind Energy Operations Managers,7.838239031630225e-05,0.007838239031630225,General and operations managers,34.0,0.7,80.9,71358,0.47446901273839803
+724,First-Line Supervisors of Personal Service Workers,7.83368202421631e-05,0.00783368202421631,Supervisors of personal care and service workers,50.7,5.4,84.6,46389,0.6897049639604091
+725,Compliance Managers,7.825382687621444e-05,0.007825382687621445,Compliance officers,55.2,1.5,96.1,75146,0.6747180627870847
+726,"Tax Examiners and Collectors, and Revenue Agents",7.79522895770191e-05,0.00779522895770191,Tax examiners and collectors and revenue agents,63.6,3.7,73.3,56072,1.0
+727,"Anthropology and Archeology Teachers, Postsecondary",7.785582137111649e-05,0.0077855821371116485,Postsecondary teachers,48.1,0.8,84.8,75212,0.5021772064533873
+728,Nurse Midwives,7.771778894824507e-05,0.007771778894824507,Nurse midwives,100.0,3.5,-,127540,1.0
+729,"Child, Family, and School Social Workers",7.743667518118335e-05,0.007743667518118335,Child family and school social workers,83.3,2.7,95.1,50657,1.0000000000000002
+730,Dining Room and Cafeteria Attendants and Bartender Helpers,7.732235281930627e-05,0.007732235281930627,Dining room and cafeteria attendants and bartender helpers,52.1,4.3,83.5,23785,1.0
+731,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",7.717159944244415e-05,0.007717159944244415,Laborers and freight stock and material movers hand,22.1,0.6,85.7,32812,0.5969025744178327
+732,Emergency Management Directors,7.712162937855598e-05,0.007712162937855599,Emergency management directors,36.5,7.6,(X),75270,1.0000000000000002
+733,Rehabilitation Counselors,7.706147680400074e-05,0.007706147680400074,Rehabilitation counselors,67.5,6.0,(X),56611,1.0
+734,"Computer Science Teachers, Postsecondary",7.70381519639126e-05,0.007703815196391259,Postsecondary teachers,48.1,0.8,84.8,75212,0.6488930234806456
+735,Database Administrators,7.701968642465184e-05,0.0077019686424651835,Database administrators and architects,28.8,2.3,68.1,78027,0.833568119530627
+736,Correspondence Clerks,7.673395000585438e-05,0.0076733950005854375,Correspondence clerks,68.7,13.5,(X),41658,1.0000000000000002
+737,Refuse and Recyclable Material Collectors,7.663278780672729e-05,0.0076632787806727295,Refuse and recyclable material collectors,10.3,2.3,(X),28104,1.0
+738,Occupational Therapy Assistants,7.663043953368998e-05,0.007663043953368998,Occupational therapy assistants and aides,79.0,4.2,(X),41946,0.8644191490145346
+739,Budget Analysts,7.662846855533635e-05,0.0076628468555336345,Budget analysts,63.5,3.6,87,82126,1.0
+740,Brownfield Redevelopment Specialists and Site Managers,7.660862885609493e-05,0.007660862885609493,Sales managers,30.9,1.2,71.1,86475,0.16814993884171972
+741,"Physics Teachers, Postsecondary",7.655217741732644e-05,0.007655217741732645,Postsecondary teachers,48.1,0.8,84.8,75212,0.6395063613048434
+742,Residential Advisors,7.623707269818124e-05,0.007623707269818124,Residential advisors,57.4,5.2,95.7,35429,1.0
+743,Biofuels Production Managers,7.598566083531531e-05,0.007598566083531532,Industrial production managers,23.4,1.4,89.5,81724,0.5560763051005524
+744,"Umpires, Referees, and Other Sports Officials",7.566745883038333e-05,0.007566745883038333,Umpires referees and other sports officials,27.2,11.7,(X),17119,1.0000000000000002
+745,Radio Frequency Identification Device Specialists,7.562526518204545e-05,0.007562526518204545,Disc jockeys except radio,7.6,6.2,(X),40802,0.21818706286415787
+746,First-Line Supervisors of Gambling Services Workers,7.542796111051573e-05,0.0075427961110515725,Gambling services workers,39.6,3.6,87.3,42957,0.6723489316418974
+747,"Political Science Teachers, Postsecondary",7.484885270838818e-05,0.007484885270838818,Postsecondary teachers,48.1,0.8,84.8,75212,0.5720685680057755
+748,"Directors, Religious Activities and Education",7.47779468316167e-05,0.00747779468316167,Directors religious activities and education,55.5,3.3,81.5,48760,1.0
+749,Lodging Managers,7.455152671735716e-05,0.007455152671735716,Lodging managers,46.8,3.0,80.1,52213,1.0
+750,"Communications Teachers, Postsecondary",7.454292638444853e-05,0.007454292638444853,Postsecondary teachers,48.1,0.8,84.8,75212,0.6601431955225214
+751,Set and Exhibit Designers,7.451575578522347e-05,0.0074515755785223466,Other designers,39.2,1.3,86.5,70319,0.3667632574274333
+752,Veterinarians,7.450814113432657e-05,0.0074508141134326565,Veterinarians,63.1,2.8,86,115521,1.0
+753,"History Teachers, Postsecondary",7.442752283892139e-05,0.007442752283892139,Postsecondary teachers,48.1,0.8,84.8,75212,0.6395063613048434
+754,Quality Control Analysts,7.433470405190218e-05,0.007433470405190218,Software quality assurance analysts and testers,47.4,3.4,91.6,82827,0.45753554974887023
+755,"Electronics Engineers, Except Computer",7.403991221249773e-05,0.007403991221249773,Electrical and electronics engineers,8.2,0.8,91.2,103023,0.5783526599896606
+756,Dietitians and Nutritionists,7.331475625868339e-05,0.0073314756258683385,Dietitians and nutritionists,88.3,2.2,105.9,63446,1.0000000000000002
+757,Mechatronics Engineers,7.323486913779354e-05,0.007323486913779354,Sales engineers,9.7,2.0,(X),113766,0.3154945226266798
+758,Biofuels Processing Technicians,7.284440264468044e-05,0.0072844402644680435,Food processing workers all other,31.1,2.4,83.1,37864,0.3238752324958309
+759,Order Clerks,7.274268567718344e-05,0.007274268567718344,Order clerks,52.7,4.1,94.8,40105,1.0000000000000002
+760,"Education and Childcare Administrators, Preschool and Daycare",7.257936765382515e-05,0.007257936765382515,Education and childcare administrators,64.4,0.9,80.1,73150,0.7274252138196455
+761,Dietetic Technicians,7.254277482447776e-05,0.007254277482447775,Dietetic technicians and ophthalmic medical technicians,79.3,4.2,(X),34290,0.74062195343358
+762,Sales Managers,7.247093686976513e-05,0.0072470936869765135,Sales managers,30.9,1.2,71.1,86475,1.0
+763,Treasurers and Controllers,7.226600883419415e-05,0.007226600883419415,Air traffic controllers and airfield operations specialists,20.4,4.3,(X),102283,0.30798094104236257
+764,"Office Machine Operators, Except Computer",7.226098747301556e-05,0.007226098747301556,Office machine operators except computer,54.6,6.7,(X),31554,1.0
+765,Legal Secretaries and Administrative Assistants,7.223565262769675e-05,0.0072235652627696744,Legal secretaries and administrative assistants,95.3,1.9,(X),54249,1.0
+766,Critical Care Nurses,7.213455701787797e-05,0.007213455701787798,Registered nurses,86.2,0.4,91.4,77582,0.34724342831929605
+767,"Library Science Teachers, Postsecondary",7.209602143660014e-05,0.007209602143660014,Postsecondary teachers,48.1,0.8,84.8,75212,0.601071769568978
+768,Fire-Prevention and Protection Engineers,7.208560671343309e-05,0.007208560671343308,Fire inspectors,10.3,3.1,(X),72702,0.3768484723396279
+769,Computer User Support Specialists,7.194746177755338e-05,0.0071947461777553375,Computer support specialists,24.6,1.0,94.3,63051,0.7635706557788954
+770,Regulatory Affairs Specialists,7.193130851719359e-05,0.007193130851719359,Other financial specialists,56.0,2.7,64.2,67224,0.20930660617231225
+771,Photonics Engineers,7.188498378026151e-05,0.007188498378026151,Sales engineers,9.7,2.0,(X),113766,0.3154945226266798
+772,"Agents and Business Managers of Artists, Performers, and Athletes",7.1692778678123e-05,0.0071692778678123,Agents and business managers of artists performers and athletes,44.9,5.5,89.1,77522,1.0000000000000002
+773,Orthodontists,7.129771909298743e-05,0.007129771909298743,Total,43.5,0.1,82,51400,0.0
+774,Financial Examiners,7.122745257887713e-05,0.007122745257887713,Financial examiners,46.3,6.7,65.7,63210,1.0
+775,Environmental Engineering Technologists and Technicians,7.104632209598045e-05,0.007104632209598044,Electrical and electronic engineering technologists and technicians,10.0,2.4,(X),49612,0.5836263707436651
+776,Transportation Planners,7.103020345420599e-05,0.007103020345420598,Other transportation workers,22.7,3.7,77.9,48113,0.46807678341991077
+777,Wind Energy Development Managers,7.100485719450032e-05,0.007100485719450032,Training and development managers,59.0,3.3,85.1,78068,0.47318304614107165
+778,Hydroelectric Production Managers,7.089257330796017e-05,0.007089257330796017,Industrial production managers,23.4,1.4,89.5,81724,0.5446651852105462
+779,"Art, Drama, and Music Teachers, Postsecondary",7.075735880917793e-05,0.007075735880917792,Postsecondary teachers,48.1,0.8,84.8,75212,0.4550149891240606
+780,Nurse Practitioners,7.069358688057275e-05,0.007069358688057276,Nurse practitioners,86.9,1.2,90.3,114981,1.0
+781,Solar Energy Installation Managers,7.051210579917407e-05,0.007051210579917407,Other installation maintenance and repair workers,4.8,1.1,85.1,39800,0.3253942655022262
+782,Quality Control Systems Managers,7.047297634547213e-05,0.0070472976345472135,Computer and information systems managers,27.1,0.9,86.4,113908,0.39323445601605034
+783,Wind Turbine Service Technicians,7.038448030811432e-05,0.0070384480308114325,Wind turbine service technicians,0.1,0.3,-,-,1.0
+784,Clinical Nurse Specialists,7.032201843574831e-05,0.007032201843574832,Nurse midwives,100.0,3.5,-,127540,0.4294119146824399
+785,Molecular and Cellular Biologists,6.983845622121415e-05,0.006983845622121414,Molders and molding machine setters operators and tenders metal and plastic,13.9,3.3,(X),36238,0.04603315817664098
+786,Gambling and Sports Book Writers and Runners,6.974754956414381e-05,0.0069747549564143805,Writers and authors,55.5,2.1,95.2,67291,0.30561387961704173
+787,General and Operations Managers,6.97152276292539e-05,0.0069715227629253895,General and operations managers,34.0,0.7,80.9,71358,1.0000000000000002
+788,Agricultural Inspectors,6.942273049918904e-05,0.006942273049918904,Agricultural inspectors,32.4,7.2,(X),48915,1.0000000000000002
+789,"Chemistry Teachers, Postsecondary",6.939591893456907e-05,0.006939591893456908,Postsecondary teachers,48.1,0.8,84.8,75212,0.6395063613048434
+790,Real Estate Sales Agents,6.92339481260679e-05,0.006923394812606789,Real estate brokers and sales agents,51.4,1.1,81.1,68174,0.8503186959106762
+791,Architectural and Engineering Managers,6.86436550527463e-05,0.00686436550527463,Architectural and engineering managers,11.8,1.1,95.2,151802,1.0
+792,Spa Managers,6.854677626048856e-05,0.006854677626048857,Sales managers,30.9,1.2,71.1,86475,0.2851425599976537
+793,Logisticians,6.842706725318355e-05,0.0068427067253183545,Logisticians,37.4,2.5,89.7,57006,1.0
+794,Landscape Architects,6.836333328456181e-05,0.006836333328456181,Landscape architects,28.1,5.3,80,68008,1.0000000000000002
+795,Electrical Engineers,6.822661954253207e-05,0.006822661954253207,Electrical and electronics engineers,8.2,0.8,91.2,103023,0.7439977368466143
+796,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",6.746488252751133e-05,0.0067464882527511335,Atmospheric and space scientists,14.8,4.6,(X),83784,0.5361060984141869
+797,Substance Abuse and Behavioral Disorder Counselors,6.734948668052945e-05,0.006734948668052945,Substance abuse and behavioral disorder counselors,72.3,2.4,104.1,53313,1.0000000000000002
+798,Labor Relations Specialists,6.719506030836928e-05,0.006719506030836929,Public relations specialists,63.8,2.2,84.4,76835,0.5762409924873538
+799,Bioinformatics Scientists,6.716475450950405e-05,0.006716475450950405,Medical scientists,56.8,2.5,92.6,81833,0.4184731440104337
+800,Computer and Information Research Scientists,6.690708566629864e-05,0.006690708566629864,Computer and information research scientists,24.8,4.4,(X),123310,1.0
+801,"Securities, Commodities, and Financial Services Sales Agents",6.659773462215116e-05,0.006659773462215116,Securities commodities and financial services sales agents,26.5,1.9,55.1,75096,1.0000000000000002
+802,Allergists and Immunologists,6.65377756245788e-05,0.006653777562457879,Molders and molding machine setters operators and tenders metal and plastic,13.9,3.3,(X),36238,0.05351612466019237
+803,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",6.62934210612557e-05,0.00662934210612557,Ambulance drivers and attendants except emergency medical technicians,31.5,14.1,(X),31395,1.0000000000000002
+804,"Preschool Teachers, Except Special Education",6.60915241983169e-05,0.00660915241983169,Special education teachers,85.3,1.2,95.8,58527,0.7503392100206908
+805,Athletes and Sports Competitors,6.590774559352075e-05,0.006590774559352075,Athletes and sports competitors,12.4,4.3,(X),79397,1.0
+806,Facilities Managers,6.572773442572067e-05,0.006572773442572066,Facilities managers,19.9,2.0,80.1,63293,1.0
+807,Personal Financial Advisors,6.553334086134961e-05,0.006553334086134961,Personal financial advisors,30.5,1.4,63.1,83251,1.0
+808,First-Line Supervisors of Police and Detectives,6.546937973227371e-05,0.006546937973227371,Firstline supervisors of police and detectives,15.8,1.8,75.5,76515,0.7422068650937869
+809,Recreational Therapists,6.520621877436818e-05,0.006520621877436818,Recreational therapists,78.3,6.7,(X),44525,1.0000000000000002
+810,Public Relations Specialists,6.517287030870776e-05,0.006517287030870776,Public relations specialists,63.8,2.2,84.4,76835,1.0
+811,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",6.514330329843797e-05,0.006514330329843797,Firstline supervisors of farming fishing and forestry workers,13.8,3.1,(X),45011,0.8239452340677466
+812,Ophthalmic Medical Technicians,6.482150593426678e-05,0.006482150593426678,Dietetic technicians and ophthalmic medical technicians,79.3,4.2,(X),34290,0.7912846148944255
+813,"Excavating and Loading Machine and Dragline Operators, Surface Mining",6.450379485449153e-05,0.006450379485449153,Excavating and loading machine and dragline operators surface mining,3.7,3.5,(X),54232,1.0000000000000002
+814,Musicians and Singers,6.445085082616569e-05,0.006445085082616569,Musicians and singers,24.5,4.9,76.8,38804,1.0000000000000002
+815,Retail Loss Prevention Specialists,6.426776648432805e-05,0.006426776648432804,Retail salespersons,37.4,0.7,71.7,34094,0.32261980800888224
+816,Environmental Compliance Inspectors,6.386063830314085e-05,0.006386063830314086,Compliance officers,55.2,1.5,96.1,75146,0.5038456063881805
+817,Nuclear Power Reactor Operators,6.380641201065971e-05,0.006380641201065971,Nuclear technicians,20.3,9.1,(X),92280,0.4336812174716321
+818,Management Analysts,6.374714721263463e-05,0.006374714721263463,Management analysts,43.2,1.0,85.4,90607,1.0
+819,First-Line Supervisors of Housekeeping and Janitorial Workers,6.339890971358222e-05,0.006339890971358222,Firstline supervisors of housekeeping and janitorial workers,43.2,2.3,75.1,38773,0.7787822158186533
+820,Supply Chain Managers,6.33650439462857e-05,0.00633650439462857,Sales managers,30.9,1.2,71.1,86475,0.21329751329891386
+821,Transportation Engineers,6.331486119191896e-05,0.006331486119191897,Other transportation workers,22.7,3.7,77.9,48113,0.5669435504003072
+822,"Fraud Examiners, Investigators and Analysts",6.266849155622642e-05,0.006266849155622642,Claims adjusters appraisers examiners and investigators,60.3,1.8,77.9,56033,0.40553814040478636
+823,Gambling Managers,6.258409611456076e-05,0.006258409611456076,Gambling services workers,39.6,3.6,87.3,42957,0.5415221075926412
+824,Dredge Operators,6.252499636606466e-05,0.006252499636606466,Conveyor dredge and hoist and winch operators,4.1,2.2,(X),28992,0.5251199653359134
+825,Zoologists and Wildlife Biologists,6.223252642738889e-05,0.0062232526427388885,Molders and molding machine setters operators and tenders metal and plastic,13.9,3.3,(X),36238,0.04519251908997942
+826,Registered Nurses,6.160828062155321e-05,0.006160828062155321,Registered nurses,86.2,0.4,91.4,77582,1.0000000000000002
+827,"Makeup Artists, Theatrical and Performance",6.158785775231784e-05,0.006158785775231784,Artists and related workers,41.0,2.2,68.5,42772,0.3111749972250457
+828,Motion Picture Projectionists,6.148749876504473e-05,0.006148749876504473,Total,43.5,0.1,82,51400,0.0
+829,"Transportation, Storage, and Distribution Managers",6.145672025548346e-05,0.006145672025548346,Transportation storage and distribution managers,21.3,1.3,94.7,61821,1.0
+830,Government Property Inspectors and Investigators,6.106373587947383e-05,0.0061063735879473835,Property appraisers and assessors,34.1,3.0,77.7,62466,0.31858051244270646
+831,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,6.071777451728375e-05,0.006071777451728375,Supervisors of transportation and material moving workers,24.9,1.3,71.9,42902,0.6203533259534459
+832,"Buyers and Purchasing Agents, Farm Products",5.995666767009718e-05,0.005995666767009718,Buyers and purchasing agents farm products,28.9,9.4,(X),60689,1.0000000000000002
+833,Web Developers,5.972620565254094e-05,0.005972620565254094,Web developers,26.5,2.9,92.6,76955,1.0
+834,Funeral Home Managers,5.915372548787939e-05,0.005915372548787939,Funeral home managers,49.4,10.2,(X),60988,1.0000000000000002
+835,"Meeting, Convention, and Event Planners",5.882151615899261e-05,0.005882151615899261,Meeting convention and event planners,75.7,2.4,97.5,60240,1.0
+836,Information Technology Project Managers,5.856293608054907e-05,0.005856293608054907,Project management specialists,45.1,1.0,87,88226,0.4001869006279011
+837,Purchasing Managers,5.843106665106251e-05,0.005843106665106251,Purchasing managers,50.0,1.9,84.9,81442,1.0000000000000002
+838,Chief Executives,5.840374446191628e-05,0.005840374446191628,Chief executives,28.6,0.7,77.8,136126,1.0
+839,Marine Engineers and Naval Architects,5.830097485983066e-05,0.005830097485983066,Marine engineers and naval architects,6.7,3.7,(X),82378,1.0000000000000002
+840,Paralegals and Legal Assistants,5.720083979417414e-05,0.005720083979417413,Paralegals and legal assistants,85.5,1.2,103,57420,1.0
+841,"Mining and Geological Engineers, Including Mining Safety Engineers",5.692406474375894e-05,0.005692406474375893,Mining and geological engineers including mining safety engineers,8.2,4.7,(X),96420,1.0
+842,Animal Breeders,5.634597583647039e-05,0.0056345975836470386,Animal breeders,31.7,9.4,(X),36541,1.0
+843,Art Directors,5.524672474150437e-05,0.005524672474150437,Producers and directors,38.0,2.2,94.4,78363,0.3904318735765561
+844,Aerospace Engineers,5.51394486627447e-05,0.00551394486627447,Aerospace engineers,13.8,1.6,89.6,106551,1.0
+845,Childcare Workers,5.512695437874235e-05,0.005512695437874235,Childcare workers,95.2,0.6,73.9,26820,1.0
+846,Nannies,5.506437837852015e-05,0.0055064378378520155,Total,43.5,0.1,82,51400,0.0
+847,Chefs and Head Cooks,5.370359297464602e-05,0.005370359297464602,Chefs and head cooks,20.1,1.3,85.4,36114,1.0000000000000002
+848,Chemical Plant and System Operators,5.358115518550801e-05,0.005358115518550801,Miscellaneous plant and system operators,6.6,2.2,(X),90059,0.6974624520001792
+849,Investment Fund Managers,5.210202925348233e-05,0.005210202925348233,Financial and investment analysts,41.8,1.4,84.5,86475,0.43797685123208246
+850,Customs and Border Protection Officers,5.165159925286673e-05,0.005165159925286673,Police officers,13.9,0.9,83.1,64004,0.2529287898552318
+851,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",5.13345036139539e-05,0.00513345036139539,Purchasing agents except wholesale retail and farm products,52.6,1.7,92.5,61882,1.0000000000000002
+852,Industrial Production Managers,5.100200572076071e-05,0.005100200572076071,Industrial production managers,23.4,1.4,89.5,81724,1.0
+853,Costume Attendants,5.095724668615548e-05,0.005095724668615548,Flight attendants,71.2,3.9,85.6,51583,0.35049132856020393
+854,Forest Fire Inspectors and Prevention Specialists,5.018501120539963e-05,0.005018501120539963,Fire inspectors,10.3,3.1,(X),72702,0.6201250469310702
+855,Packaging and Filling Machine Operators and Tenders,4.989949150998066e-05,0.004989949150998066,Packaging and filling machine operators and tenders,52.8,2.0,82.6,33571,1.0
+856,Technical Writers,4.923632437023405e-05,0.004923632437023405,Technical writers,56.1,3.8,93.9,82147,1.0
+857,Fundraisers,4.85433497070355e-05,0.00485433497070355,Fundraisers,72.9,2.5,84.6,77105,1.0
+858,Bartenders,4.673069208741627e-05,0.004673069208741627,Bartenders,49.3,2.2,85.2,34599,1.0
+859,Cost Estimators,4.477661457089578e-05,0.004477661457089578,Cost estimators,16.0,1.8,76.9,62419,1.0000000000000002
+860,Dancers,4.435141216426947e-05,0.004435141216426948,Dancers and choreographers,71.2,10.2,(X),52434,0.697078617559136
+861,Hospitalists,4.430665185726761e-05,0.0044306651857267615,Total,43.5,0.1,82,51400,0.0
+862,Animal Control Workers,4.219331388984435e-05,0.004219331388984435,Animal control workers,37.8,10.8,(X),47627,1.0
+863,Driver/Sales Workers,4.177995029501687e-05,0.004177995029501687,Sales managers,30.9,1.2,71.1,86475,0.4211760326641466
+864,Chief Sustainability Officers,4.056846133481386e-05,0.004056846133481386,Chief executives,28.6,0.7,77.8,136126,0.42360244691425264
+865,"Health Specialties Teachers, Postsecondary",3.960467646283509e-05,0.003960467646283509,Postsecondary teachers,48.1,0.8,84.8,75212,0.566087017437534
+866,"Philosophy and Religion Teachers, Postsecondary",3.885796209194748e-05,0.0038857962091947483,Postsecondary teachers,48.1,0.8,84.8,75212,0.5021772064533873
+867,"Foreign Language and Literature Teachers, Postsecondary",3.854939371423298e-05,0.0038549393714232983,Postsecondary teachers,48.1,0.8,84.8,75212,0.4530741172950137
+868,"Mathematical Science Teachers, Postsecondary",3.824522971750451e-05,0.003824522971750451,Postsecondary teachers,48.1,0.8,84.8,75212,0.5584814545957899
+869,Clergy,3.795190889916188e-05,0.0037951908899161884,Clergy,15.1,1.0,95.8,50724,1.0
+870,Judicial Law Clerks,3.752212659581116e-05,0.0037522126595811163,Judicial law clerks,78.5,5.3,(X),57254,1.0
+871,"Graders and Sorters, Agricultural Products",3.706684159331586e-05,0.0037066841593315857,Graders and sorters agricultural products,65.4,5.7,72.8,30267,1.0
+872,Waiters and Waitresses,3.59477000994937e-05,0.0035947700099493696,Waiters and waitresses,63.3,1.2,83.5,27070,1.0000000000000002
+873,Helpers--Carpenters,3.23968637008575e-05,0.0032396863700857497,Carpenters,1.9,0.3,69.8,32484,0.7547206746496193
+874,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",3.118171576401221e-05,0.0031181715764012213,Plasterers and stucco masons,0.4,0.6,-,-,0.7286212924125914
+875,Slaughterers and Meat Packers,2.530017875521619e-05,0.002530017875521619,Packers and packagers hand,55.8,1.5,93,30831,0.3467552796001642

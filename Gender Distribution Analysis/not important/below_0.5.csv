@@ -1,0 +1,498 @@
+,Combined Occupation,Best Match in Exposure Scores,Similarity Score
+26,Postmasters and mail superintendents,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.3773887770369559
+30,Personal service managers all other,Food Service Managers,0.4559704320039509
+31,Managers all other,Sales Managers,0.3696097589298694
+43,Project management specialists,Document Management Specialists,0.46431064302481045
+48,Business operations specialists all other,Airfield Operations Specialists,0.4741048259618431
+53,Financial and investment analysts,Investment Fund Managers,0.45459915575256216
+65,Software developers,Web Developers,0.4837231443921335
+68,Web and digital interface designers,Web Administrators,0.3531602668650403
+95,Engineers all other,Sales Engineers,0.39211122589104425
+105,Life scientists all other,Animal Scientists,0.3212147287554923
+111,Physical scientists all other,Physical Therapists,0.4632431824163994
+119,Miscellaneous social scientists and related workers,Healthcare Social Workers,0.37848647472368674
+126,Other life physical and social science technicians,Food Science Technicians,0.4458131367477503
+137,Social workers all other,Healthcare Social Workers,0.48639868886247145
+143,Religious workers all other,"Directors, Religious Activities and Education",0.3745869973352715
+149,Legal support workers all other,Paralegals and Legal Assistants,0.3476606946283765
+161,Other educational instruction and library workers,Library Technicians,0.38692021989553205
+162,Artists and related workers,Craft Artists,0.4313291677916558
+187,Media and communication workers all other,Media Technical Directors/Managers,0.30577552494896343
+199,Surgeons,Oral and Maxillofacial Surgeons,0.4902598206633145
+210,Therapists all other,Physical Therapists,0.45992982661270304
+217,Healthcare diagnosing or treating practitioners all other,Healthcare Social Workers,0.3003813879322077
+232,Medical records specialists,Police Identification and Records Officers,0.3782086225236512
+234,Miscellaneous health technologists and technicians,Veterinary Technologists and Technicians,0.47999589794897535
+252,Firstline supervisors of security workers,Security Guards,0.3824983996566702
+253,Firstline supervisors of protective service workers all other,First-Line Supervisors of Personal Service Workers,0.3817116091337499
+267,School bus monitors,School Psychologists,0.3293755674784446
+288,Other grounds maintenance workers,"Maintenance Workers, Machinery",0.40268687081442917
+300,Other personal appearance workers,Personal Financial Advisors,0.30732936819011875
+309,FirstLine supervisors of nonretail sales workers,First-Line Supervisors of Retail Sales Workers,0.42501142704450084
+318,Sales representatives of services except advertising insurance financial services and travel,"Securities, Commodities, and Financial Services Sales Agents",0.4203369981707594
+325,Sales and related workers all other,Sales Managers,0.39624120503679106
+329,Communications equipment operators all other,"Communications Teachers, Postsecondary",0.4335092800916924
+337,Financial clerks all other,Financial Managers,0.49231840009766253
+354,Information and record clerks all other,Receptionists and Information Clerks,0.4307634529206974
+409,Helpers construction trades,First-Line Supervisors of Construction Trades and Extraction Workers,0.42993882598313016
+417,Miscellaneous construction and related workers,Construction Managers,0.45494861804421866
+442,Miscellaneous vehicle and mobile equipment mechanics installers and repairers,Audiovisual Equipment Installers and Repairers,0.41063338430608787
+452,Precision instrument and equipment repairers,Medical Equipment Repairers,0.40286766022048026
+472,Food processing workers all other,Food Preparation Workers,0.3955368367522605
+488,Laundry and drycleaning workers,Laundry and Dry-Cleaning Workers,0.4130892641169059
+495,Other textile apparel and furnishings workers,Fabric and Apparel Patternmakers,0.32144020192456
+506,Cutting workers,"Textile Cutting Machine Setters, Operators, and Tenders",0.49195887690754364
+529,Driversales workers and truck drivers,Light Truck Drivers,0.48842645152936603
+530,Motor vehicle operators all other,Recreational Vehicle Service Technicians,0.32483393675122396
+533,Other rail transportation workers,Rail Car Repairers,0.4631457118035026
+535,Ship and boat captains and operators,Ship Engineers,0.41297679848379154
+538,Transportation service attendants,Transportation Engineers,0.4759170792793558
+552,Other material moving workers,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,0.4807513296007664
+573,Gaming managers,Sales Managers,0.3392873923474356
+577,Postmasters and mail superintendents,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.3773887770369559
+581,Managers all other,Sales Managers,0.3696097589298694
+597,Business operations specialists all other,Airfield Operations Specialists,0.4741048259618431
+609,Financial specialists all other,Financial Managers,0.4781371863912042
+614,Software developers applications and systems software,Software Quality Assurance Analysts and Testers,0.3467228158548382
+641,Engineers all other,Sales Engineers,0.39211122589104425
+649,Life scientists all other,Animal Scientists,0.3212147287554923
+654,Physical scientists all other,Physical Therapists,0.4632431824163994
+666,Miscellaneous life physical and social science technicians,Food Science Technicians,0.43216125105844466
+674,Religious workers all other,"Directors, Religious Activities and Education",0.3745869973352715
+679,Miscellaneous legal support workers,Paralegals and Legal Assistants,0.35858257478176275
+689,Teacher assistants,Medical Assistants,0.34343876984154315
+690,Other education training and library workers,Library Technicians,0.44978704971725136
+691,Artists and related workers,Craft Artists,0.4313291677916558
+695,Athletes coaches umpires and related workers,Coaches and Scouts,0.37496353109746194
+698,Announcers,Broadcast Announcers and Radio Disc Jockeys,0.4546294286709297
+704,Miscellaneous media and communication workers,Media Technical Directors/Managers,0.3138030303635681
+713,Physicians and surgeons,"Physicians, Pathologists",0.4530831751408542
+729,Health diagnosing and treating practitioners all other,Nurse Practitioners,0.34181459686298626
+732,Diagnostic related technologists and technicians,Veterinary Technologists and Technicians,0.428687467335048
+733,Emergency medical technicians and paramedics,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0.4818217635081018
+734,Health practitioner support technologists and technicians,Veterinary Technologists and Technicians,0.3678727810894935
+736,Medical records and health information technicians,Medical and Health Services Managers,0.4304301856020409
+738,Miscellaneous health technologists and technicians,Veterinary Technologists and Technicians,0.47999589794897535
+752,Firstline supervisors of fire fighting and prevention workers,Fire-Prevention and Protection Engineers,0.45118502655288695
+753,Firstline supervisors of protective service workers all other,First-Line Supervisors of Personal Service Workers,0.3817116091337499
+774,Counter attendants cafeteria food concession and coffee shop,Fast Food and Counter Workers,0.3549317596188084
+786,Grounds maintenance workers,"Maintenance Workers, Machinery",0.43089861008280533
+787,Firstline supervisors of gaming workers,First-Line Supervisors of Personal Service Workers,0.33832739928403077
+791,Gaming services workers,Administrative Services Managers,0.4063889046906599
+806,Firstline supervisors of nonretail sales workers,First-Line Supervisors of Retail Sales Workers,0.42501142704450084
+815,Sales representatives services all other,Solar Sales Representatives and Assessors,0.4266971964127923
+822,Sales and related workers all other,Sales Managers,0.39624120503679106
+826,Communications equipment operators all other,"Communications Teachers, Postsecondary",0.4335092800916924
+834,Financial clerks all other,Financial Managers,0.49231840009766253
+851,Information and record clerks all other,Receptionists and Information Clerks,0.4307634529206974
+904,Helpers construction trades,First-Line Supervisors of Construction Trades and Extraction Workers,0.42993882598313016
+937,Miscellaneous vehicle and mobile equipment mechanics installers and repairers,Audiovisual Equipment Installers and Repairers,0.41063338430608787
+947,Precision instrument and equipment repairers,Medical Equipment Repairers,0.40286766022048026
+961,Miscellaneous assemblers and fabricators,Engine and Other Machine Assemblers,0.3571967585158705
+967,Food processing workers all other,Food Preparation Workers,0.3955368367522605
+991,Laundry and drycleaning workers,Laundry and Dry-Cleaning Workers,0.4130892641169059
+1015,Cutting workers,"Textile Cutting Machine Setters, Operators, and Tenders",0.49195887690754364
+1039,Driversales workers and truck drivers,Light Truck Drivers,0.48842645152936603
+1040,Motor vehicle operators all other,Recreational Vehicle Service Technicians,0.32483393675122396
+1046,Ship and boat captains and operators,Ship Engineers,0.41297679848379154
+1065,Mine shuttle car operators,Rail Car Repairers,0.3463624816612242
+1067,Material moving workers all other,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,0.44346289082667845
+1080,Farm ranch and other agricultural managers,"Farmworkers, Farm, Ranch, and Aquacultural Animals",0.4635517869110897
+1087,Gaming managers,Sales Managers,0.3392873923474356
+1091,Postmasters and mail superintendents,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.3773887770369559
+1094,Managers all other,Sales Managers,0.3696097589298694
+1118,Financial specialists all other,Financial Managers,0.4781371863912042
+1121,Computer software engineers,Computer Hardware Engineers,0.4479928028246259
+1125,Network systems and data communications analysts,Network and Computer Systems Administrators,0.4625499631857076
+1147,Engineers all other,Sales Engineers,0.39211122589104425
+1159,Physical scientists all other,Physical Therapists,0.4632431824163994
+1165,Miscellaneous social scientists and related workers,Healthcare Social Workers,0.37848647472368674
+1171,Other life physical and social science technicians,Food Science Technicians,0.4458131367477503
+1177,Religious workers all other,"Directors, Religious Activities and Education",0.3745869973352715
+1181,Miscellaneous legal support workers,Paralegals and Legal Assistants,0.35858257478176275
+1191,Teacher assistants,Medical Assistants,0.34343876984154315
+1192,Other education training and library workers,Library Technicians,0.44978704971725136
+1193,Artists and related workers,Craft Artists,0.4313291677916558
+1197,Athletes coaches umpires and related workers,Coaches and Scouts,0.37496353109746194
+1200,Announcers,Broadcast Announcers and Radio Disc Jockeys,0.4546294286709297
+1206,Miscellaneous media and communication workers,Media Technical Directors/Managers,0.3138030303635681
+1215,Physicians and surgeons,"Physicians, Pathologists",0.4530831751408542
+1226,Therapists all other,Physical Therapists,0.45992982661270304
+1228,Health diagnosing and treating practitioners all other,Nurse Practitioners,0.34181459686298626
+1231,Diagnostic related technologists and technicians,Veterinary Technologists and Technicians,0.428687467335048
+1232,Emergency medical technicians and paramedics,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0.4818217635081018
+1234,Medical records and health information technicians,Medical and Health Services Managers,0.4304301856020409
+1236,Miscellaneous health technologists and technicians,Veterinary Technologists and Technicians,0.47999589794897535
+1242,Firstline supervisorsmanagers of correctional officers,First-Line Supervisors of Correctional Officers,0.49497990184290586
+1244,Firstline supervisorsmanagers of fire fighting and prevention workers,Fire-Prevention and Protection Engineers,0.42525821786619233
+1245,Supervisors protective service workers all other,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",0.4172180783649953
+1246,Fire fighters,Fire Inspectors and Investigators,0.329316640240849
+1265,Counter attendants cafeteria food concession and coffee shop,Fast Food and Counter Workers,0.3549317596188084
+1277,Grounds maintenance workers,"Maintenance Workers, Machinery",0.43089861008280533
+1278,Firstline supervisorsmanagers of personal service workers,First-Line Supervisors of Personal Service Workers,0.46925690374709983
+1281,Gaming services workers,Administrative Services Managers,0.4063889046906599
+1290,Child care workers,"Child, Family, and School Social Workers",0.48478138351174566
+1295,Firstline supervisorsmanagers of retail sales workers,First-Line Supervisors of Retail Sales Workers,0.492682527587472
+1304,Sales representatives services all other,Solar Sales Representatives and Assessors,0.4266971964127923
+1311,Sales and related workers all other,Sales Managers,0.39624120503679106
+1315,Communications equipment operators all other,"Communications Teachers, Postsecondary",0.4335092800916924
+1339,Information and record clerks all other,Receptionists and Information Clerks,0.4307634529206974
+1368,Fishers and related fishing workers,Fishing and Hunting Workers,0.4151881306224899
+1392,Helpers construction trades,First-Line Supervisors of Construction Trades and Extraction Workers,0.42993882598313016
+1400,Miscellaneous construction and related workers,Construction Managers,0.45494861804421866
+1408,Firstline supervisorsmanagers of mechanics installers and repairers,"First-Line Supervisors of Mechanics, Installers, and Repairers",0.494955856814933
+1425,Miscellaneous vehicle and mobile equipment mechanics installers and repairers,Audiovisual Equipment Installers and Repairers,0.41063338430608787
+1435,Precision instrument and equipment repairers,Medical Equipment Repairers,0.40286766022048026
+1449,Miscellaneous assemblers and fabricators,Engine and Other Machine Assemblers,0.3571967585158705
+1475,Job printers,"Compensation, Benefits, and Job Analysis Specialists",0.30575179207410685
+1478,Laundry and drycleaning workers,Laundry and Dry-Cleaning Workers,0.4130892641169059
+1491,Textile apparel and furnishings workers all other,Fabric and Apparel Patternmakers,0.30470446191651074
+1503,Cutting workers,"Textile Cutting Machine Setters, Operators, and Tenders",0.49195887690754364
+1513,Cementing and gluing machine operators and tenders,Shoe Machine Operators and Tenders,0.3345320551451999
+1526,Driversales workers and truck drivers,Light Truck Drivers,0.48842645152936603
+1527,Motor vehicle operators all other,Recreational Vehicle Service Technicians,0.32483393675122396
+1533,Ship and boat captains and operators,Ship Engineers,0.41297679848379154
+1537,Service station attendants,Automotive and Watercraft Service Attendants,0.3733840133608312
+1551,Shuttle car operators,Rail Car Repairers,0.4329445731859574
+1553,Material moving workers all other,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,0.44346289082667845
+1574,Gaming managers,Sales Managers,0.3392873923474356
+1578,Postmasters and mail superintendents,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.3773887770369559
+1582,Managers all other,Sales Managers,0.3696097589298694
+1598,Business operations specialists all other,Airfield Operations Specialists,0.4741048259618431
+1610,Financial specialists all other,Financial Managers,0.4781371863912042
+1615,Software developers applications and systems software,Software Quality Assurance Analysts and Testers,0.3467228158548382
+1642,Engineers all other,Sales Engineers,0.39211122589104425
+1650,Life scientists all other,Animal Scientists,0.3212147287554923
+1655,Physical scientists all other,Physical Therapists,0.4632431824163994
+1667,Miscellaneous life physical and social science technicians,Food Science Technicians,0.43216125105844466
+1675,Religious workers all other,"Directors, Religious Activities and Education",0.3745869973352715
+1680,Miscellaneous legal support workers,Paralegals and Legal Assistants,0.35858257478176275
+1690,Teacher assistants,Medical Assistants,0.34343876984154315
+1691,Other education training and library workers,Library Technicians,0.44978704971725136
+1692,Artists and related workers,Craft Artists,0.4313291677916558
+1696,Athletes coaches umpires and related workers,Coaches and Scouts,0.37496353109746194
+1699,Announcers,Broadcast Announcers and Radio Disc Jockeys,0.4546294286709297
+1705,Miscellaneous media and communication workers,Media Technical Directors/Managers,0.3138030303635681
+1714,Physicians and surgeons,"Physicians, Pathologists",0.4530831751408542
+1730,Health diagnosing and treating practitioners all other,Nurse Practitioners,0.34181459686298626
+1733,Diagnostic related technologists and technicians,Veterinary Technologists and Technicians,0.428687467335048
+1734,Emergency medical technicians and paramedics,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0.4818217635081018
+1735,Health practitioner support technologists and technicians,Veterinary Technologists and Technicians,0.3678727810894935
+1737,Medical records and health information technicians,Medical and Health Services Managers,0.4304301856020409
+1739,Miscellaneous health technologists and technicians,Veterinary Technologists and Technicians,0.47999589794897535
+1753,Firstline supervisors of fire fighting and prevention workers,Fire-Prevention and Protection Engineers,0.45118502655288695
+1754,Firstline supervisors of protective service workers all other,First-Line Supervisors of Personal Service Workers,0.3817116091337499
+1775,Counter attendants cafeteria food concession and coffee shop,Fast Food and Counter Workers,0.3549317596188084
+1787,Grounds maintenance workers,"Maintenance Workers, Machinery",0.43089861008280533
+1788,Firstline supervisors of gaming workers,First-Line Supervisors of Personal Service Workers,0.33832739928403077
+1792,Gaming services workers,Administrative Services Managers,0.4063889046906599
+1807,Firstline supervisors of nonretail sales workers,First-Line Supervisors of Retail Sales Workers,0.42501142704450084
+1816,Sales representatives services all other,Solar Sales Representatives and Assessors,0.4266971964127923
+1823,Sales and related workers all other,Sales Managers,0.39624120503679106
+1827,Communications equipment operators all other,"Communications Teachers, Postsecondary",0.4335092800916924
+1835,Financial clerks all other,Financial Managers,0.49231840009766253
+1852,Information and record clerks all other,Receptionists and Information Clerks,0.4307634529206974
+1905,Helpers construction trades,First-Line Supervisors of Construction Trades and Extraction Workers,0.42993882598313016
+1938,Miscellaneous vehicle and mobile equipment mechanics installers and repairers,Audiovisual Equipment Installers and Repairers,0.41063338430608787
+1948,Precision instrument and equipment repairers,Medical Equipment Repairers,0.40286766022048026
+1962,Miscellaneous assemblers and fabricators,Engine and Other Machine Assemblers,0.3571967585158705
+1968,Food processing workers all other,Food Preparation Workers,0.3955368367522605
+1992,Laundry and drycleaning workers,Laundry and Dry-Cleaning Workers,0.4130892641169059
+2016,Cutting workers,"Textile Cutting Machine Setters, Operators, and Tenders",0.49195887690754364
+2040,Driversales workers and truck drivers,Light Truck Drivers,0.48842645152936603
+2041,Motor vehicle operators all other,Recreational Vehicle Service Technicians,0.32483393675122396
+2047,Ship and boat captains and operators,Ship Engineers,0.41297679848379154
+2066,Mine shuttle car operators,Rail Car Repairers,0.3463624816612242
+2068,Material moving workers all other,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,0.44346289082667845
+2095,Postmasters and mail superintendents,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.3773887770369559
+2099,Personal service managers all other,Food Service Managers,0.4559704320039509
+2100,Managers all other,Sales Managers,0.3696097589298694
+2112,Project management specialists,Document Management Specialists,0.46431064302481045
+2117,Business operations specialists all other,Airfield Operations Specialists,0.4741048259618431
+2122,Financial and investment analysts,Investment Fund Managers,0.45459915575256216
+2134,Software developers,Web Developers,0.4837231443921335
+2137,Web and digital interface designers,Web Administrators,0.3531602668650403
+2164,Engineers all other,Sales Engineers,0.39211122589104425
+2174,Life scientists all other,Animal Scientists,0.3212147287554923
+2180,Physical scientists all other,Physical Therapists,0.4632431824163994
+2188,Miscellaneous social scientists and related workers,Healthcare Social Workers,0.37848647472368674
+2195,Other life physical and social science technicians,Food Science Technicians,0.4458131367477503
+2206,Social workers all other,Healthcare Social Workers,0.48639868886247145
+2212,Religious workers all other,"Directors, Religious Activities and Education",0.3745869973352715
+2218,Legal support workers all other,Paralegals and Legal Assistants,0.3476606946283765
+2230,Other educational instruction and library workers,Library Technicians,0.38692021989553205
+2231,Artists and related workers,Craft Artists,0.4313291677916558
+2256,Media and communication workers all other,Media Technical Directors/Managers,0.30577552494896343
+2268,Surgeons,Oral and Maxillofacial Surgeons,0.4902598206633145
+2279,Therapists all other,Physical Therapists,0.45992982661270304
+2286,Healthcare diagnosing or treating practitioners all other,Healthcare Social Workers,0.3003813879322077
+2301,Medical records specialists,Police Identification and Records Officers,0.3782086225236512
+2303,Miscellaneous health technologists and technicians,Veterinary Technologists and Technicians,0.47999589794897535
+2321,Firstline supervisors of security workers,Security Guards,0.3824983996566702
+2322,Firstline supervisors of protective service workers all other,First-Line Supervisors of Personal Service Workers,0.3817116091337499
+2336,School bus monitors,School Psychologists,0.3293755674784446
+2357,Other grounds maintenance workers,"Maintenance Workers, Machinery",0.40268687081442917
+2369,Other personal appearance workers,Personal Financial Advisors,0.30732936819011875
+2378,FirstLine supervisors of nonretail sales workers,First-Line Supervisors of Retail Sales Workers,0.42501142704450084
+2387,Sales representatives of services except advertising insurance financial services and travel,"Securities, Commodities, and Financial Services Sales Agents",0.4203369981707594
+2394,Sales and related workers all other,Sales Managers,0.39624120503679106
+2398,Communications equipment operators all other,"Communications Teachers, Postsecondary",0.4335092800916924
+2406,Financial clerks all other,Financial Managers,0.49231840009766253
+2423,Information and record clerks all other,Receptionists and Information Clerks,0.4307634529206974
+2478,Helpers construction trades,First-Line Supervisors of Construction Trades and Extraction Workers,0.42993882598313016
+2486,Miscellaneous construction and related workers,Construction Managers,0.45494861804421866
+2511,Miscellaneous vehicle and mobile equipment mechanics installers and repairers,Audiovisual Equipment Installers and Repairers,0.41063338430608787
+2521,Precision instrument and equipment repairers,Medical Equipment Repairers,0.40286766022048026
+2541,Food processing workers all other,Food Preparation Workers,0.3955368367522605
+2557,Laundry and drycleaning workers,Laundry and Dry-Cleaning Workers,0.4130892641169059
+2564,Other textile apparel and furnishings workers,Fabric and Apparel Patternmakers,0.32144020192456
+2575,Cutting workers,"Textile Cutting Machine Setters, Operators, and Tenders",0.49195887690754364
+2598,Driversales workers and truck drivers,Light Truck Drivers,0.48842645152936603
+2599,Motor vehicle operators all other,Recreational Vehicle Service Technicians,0.32483393675122396
+2602,Other rail transportation workers,Rail Car Repairers,0.4631457118035026
+2604,Ship and boat captains and operators,Ship Engineers,0.41297679848379154
+2607,Transportation service attendants,Transportation Engineers,0.4759170792793558
+2621,Other material moving workers,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,0.4807513296007664
+2642,Gaming managers,Sales Managers,0.3392873923474356
+2646,Postmasters and mail superintendents,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.3773887770369559
+2650,Managers all other,Sales Managers,0.3696097589298694
+2666,Business operations specialists all other,Airfield Operations Specialists,0.4741048259618431
+2678,Financial specialists all other,Financial Managers,0.4781371863912042
+2683,Software developers applications and systems software,Software Quality Assurance Analysts and Testers,0.3467228158548382
+2710,Engineers all other,Sales Engineers,0.39211122589104425
+2718,Life scientists all other,Animal Scientists,0.3212147287554923
+2723,Physical scientists all other,Physical Therapists,0.4632431824163994
+2735,Miscellaneous life physical and social science technicians,Food Science Technicians,0.43216125105844466
+2743,Religious workers all other,"Directors, Religious Activities and Education",0.3745869973352715
+2748,Miscellaneous legal support workers,Paralegals and Legal Assistants,0.35858257478176275
+2758,Teacher assistants,Medical Assistants,0.34343876984154315
+2759,Other education training and library workers,Library Technicians,0.44978704971725136
+2760,Artists and related workers,Craft Artists,0.4313291677916558
+2764,Athletes coaches umpires and related workers,Coaches and Scouts,0.37496353109746194
+2767,Announcers,Broadcast Announcers and Radio Disc Jockeys,0.4546294286709297
+2773,Miscellaneous media and communication workers,Media Technical Directors/Managers,0.3138030303635681
+2782,Physicians and surgeons,"Physicians, Pathologists",0.4530831751408542
+2798,Health diagnosing and treating practitioners all other,Nurse Practitioners,0.34181459686298626
+2801,Diagnostic related technologists and technicians,Veterinary Technologists and Technicians,0.428687467335048
+2802,Emergency medical technicians and paramedics,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0.4818217635081018
+2803,Health practitioner support technologists and technicians,Veterinary Technologists and Technicians,0.3678727810894935
+2805,Medical records and health information technicians,Medical and Health Services Managers,0.4304301856020409
+2807,Miscellaneous health technologists and technicians,Veterinary Technologists and Technicians,0.47999589794897535
+2821,Firstline supervisors of fire fighting and prevention workers,Fire-Prevention and Protection Engineers,0.45118502655288695
+2822,Firstline supervisors of protective service workers all other,First-Line Supervisors of Personal Service Workers,0.3817116091337499
+2843,Counter attendants cafeteria food concession and coffee shop,Fast Food and Counter Workers,0.3549317596188084
+2855,Grounds maintenance workers,"Maintenance Workers, Machinery",0.43089861008280533
+2856,Firstline supervisors of gaming workers,First-Line Supervisors of Personal Service Workers,0.33832739928403077
+2860,Gaming services workers,Administrative Services Managers,0.4063889046906599
+2875,Firstline supervisors of nonretail sales workers,First-Line Supervisors of Retail Sales Workers,0.42501142704450084
+2884,Sales representatives services all other,Solar Sales Representatives and Assessors,0.4266971964127923
+2891,Sales and related workers all other,Sales Managers,0.39624120503679106
+2895,Communications equipment operators all other,"Communications Teachers, Postsecondary",0.4335092800916924
+2903,Financial clerks all other,Financial Managers,0.49231840009766253
+2920,Information and record clerks all other,Receptionists and Information Clerks,0.4307634529206974
+2973,Helpers construction trades,First-Line Supervisors of Construction Trades and Extraction Workers,0.42993882598313016
+3006,Miscellaneous vehicle and mobile equipment mechanics installers and repairers,Audiovisual Equipment Installers and Repairers,0.41063338430608787
+3016,Precision instrument and equipment repairers,Medical Equipment Repairers,0.40286766022048026
+3030,Miscellaneous assemblers and fabricators,Engine and Other Machine Assemblers,0.3571967585158705
+3036,Food processing workers all other,Food Preparation Workers,0.3955368367522605
+3060,Laundry and drycleaning workers,Laundry and Dry-Cleaning Workers,0.4130892641169059
+3084,Cutting workers,"Textile Cutting Machine Setters, Operators, and Tenders",0.49195887690754364
+3108,Driversales workers and truck drivers,Light Truck Drivers,0.48842645152936603
+3109,Motor vehicle operators all other,Recreational Vehicle Service Technicians,0.32483393675122396
+3115,Ship and boat captains and operators,Ship Engineers,0.41297679848379154
+3134,Mine shuttle car operators,Rail Car Repairers,0.3463624816612242
+3136,Material moving workers all other,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,0.44346289082667845
+3163,Postmasters and mail superintendents,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.3773887770369559
+3167,Personal service managers all other,Food Service Managers,0.4559704320039509
+3168,Managers all other,Sales Managers,0.3696097589298694
+3180,Project management specialists,Document Management Specialists,0.46431064302481045
+3185,Business operations specialists all other,Airfield Operations Specialists,0.4741048259618431
+3190,Financial and investment analysts,Investment Fund Managers,0.45459915575256216
+3202,Software developers,Web Developers,0.4837231443921335
+3205,Web and digital interface designers,Web Administrators,0.3531602668650403
+3232,Engineers all other,Sales Engineers,0.39211122589104425
+3242,Life scientists all other,Animal Scientists,0.3212147287554923
+3248,Physical scientists all other,Physical Therapists,0.4632431824163994
+3256,Miscellaneous social scientists and related workers,Healthcare Social Workers,0.37848647472368674
+3263,Other life physical and social science technicians,Food Science Technicians,0.4458131367477503
+3274,Social workers all other,Healthcare Social Workers,0.48639868886247145
+3280,Religious workers all other,"Directors, Religious Activities and Education",0.3745869973352715
+3286,Legal support workers all other,Paralegals and Legal Assistants,0.3476606946283765
+3298,Other educational instruction and library workers,Library Technicians,0.38692021989553205
+3299,Artists and related workers,Craft Artists,0.4313291677916558
+3324,Media and communication workers all other,Media Technical Directors/Managers,0.30577552494896343
+3336,Surgeons,Oral and Maxillofacial Surgeons,0.4902598206633145
+3347,Therapists all other,Physical Therapists,0.45992982661270304
+3354,Healthcare diagnosing or treating practitioners all other,Healthcare Social Workers,0.3003813879322077
+3369,Medical records specialists,Police Identification and Records Officers,0.3782086225236512
+3371,Miscellaneous health technologists and technicians,Veterinary Technologists and Technicians,0.47999589794897535
+3389,Firstline supervisors of security workers,Security Guards,0.3824983996566702
+3390,Firstline supervisors of protective service workers all other,First-Line Supervisors of Personal Service Workers,0.3817116091337499
+3404,School bus monitors,School Psychologists,0.3293755674784446
+3425,Other grounds maintenance workers,"Maintenance Workers, Machinery",0.40268687081442917
+3437,Other personal appearance workers,Personal Financial Advisors,0.30732936819011875
+3446,FirstLine supervisors of nonretail sales workers,First-Line Supervisors of Retail Sales Workers,0.42501142704450084
+3455,Sales representatives of services except advertising insurance financial services and travel,"Securities, Commodities, and Financial Services Sales Agents",0.4203369981707594
+3462,Sales and related workers all other,Sales Managers,0.39624120503679106
+3466,Communications equipment operators all other,"Communications Teachers, Postsecondary",0.4335092800916924
+3474,Financial clerks all other,Financial Managers,0.49231840009766253
+3491,Information and record clerks all other,Receptionists and Information Clerks,0.4307634529206974
+3546,Helpers construction trades,First-Line Supervisors of Construction Trades and Extraction Workers,0.42993882598313016
+3554,Miscellaneous construction and related workers,Construction Managers,0.45494861804421866
+3579,Miscellaneous vehicle and mobile equipment mechanics installers and repairers,Audiovisual Equipment Installers and Repairers,0.41063338430608787
+3589,Precision instrument and equipment repairers,Medical Equipment Repairers,0.40286766022048026
+3609,Food processing workers all other,Food Preparation Workers,0.3955368367522605
+3625,Laundry and drycleaning workers,Laundry and Dry-Cleaning Workers,0.4130892641169059
+3632,Other textile apparel and furnishings workers,Fabric and Apparel Patternmakers,0.32144020192456
+3643,Cutting workers,"Textile Cutting Machine Setters, Operators, and Tenders",0.49195887690754364
+3666,Driversales workers and truck drivers,Light Truck Drivers,0.48842645152936603
+3667,Motor vehicle operators all other,Recreational Vehicle Service Technicians,0.32483393675122396
+3670,Other rail transportation workers,Rail Car Repairers,0.4631457118035026
+3672,Ship and boat captains and operators,Ship Engineers,0.41297679848379154
+3675,Transportation service attendants,Transportation Engineers,0.4759170792793558
+3689,Other material moving workers,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,0.4807513296007664
+3716,Postmasters and mail superintendents,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.3773887770369559
+3720,Personal service managers all other,Food Service Managers,0.4559704320039509
+3721,Managers all other,Sales Managers,0.3696097589298694
+3733,Project management specialists,Document Management Specialists,0.46431064302481045
+3738,Business operations specialists all other,Airfield Operations Specialists,0.4741048259618431
+3743,Financial and investment analysts,Investment Fund Managers,0.45459915575256216
+3755,Software developers,Web Developers,0.4837231443921335
+3758,Web and digital interface designers,Web Administrators,0.3531602668650403
+3785,Engineers all other,Sales Engineers,0.39211122589104425
+3795,Life scientists all other,Animal Scientists,0.3212147287554923
+3801,Physical scientists all other,Physical Therapists,0.4632431824163994
+3809,Miscellaneous social scientists and related workers,Healthcare Social Workers,0.37848647472368674
+3816,Other life physical and social science technicians,Food Science Technicians,0.4458131367477503
+3827,Social workers all other,Healthcare Social Workers,0.48639868886247145
+3833,Religious workers all other,"Directors, Religious Activities and Education",0.3745869973352715
+3839,Legal support workers all other,Paralegals and Legal Assistants,0.3476606946283765
+3851,Other educational instruction and library workers,Library Technicians,0.38692021989553205
+3852,Artists and related workers,Craft Artists,0.4313291677916558
+3877,Media and communication workers all other,Media Technical Directors/Managers,0.30577552494896343
+3889,Surgeons,Oral and Maxillofacial Surgeons,0.4902598206633145
+3900,Therapists all other,Physical Therapists,0.45992982661270304
+3907,Healthcare diagnosing or treating practitioners all other,Healthcare Social Workers,0.3003813879322077
+3922,Medical records specialists,Police Identification and Records Officers,0.3782086225236512
+3924,Miscellaneous health technologists and technicians,Veterinary Technologists and Technicians,0.47999589794897535
+3942,Firstline supervisors of security workers,Security Guards,0.3824983996566702
+3943,Firstline supervisors of protective service workers all other,First-Line Supervisors of Personal Service Workers,0.3817116091337499
+3957,School bus monitors,School Psychologists,0.3293755674784446
+3978,Other grounds maintenance workers,"Maintenance Workers, Machinery",0.40268687081442917
+3990,Other personal appearance workers,Personal Financial Advisors,0.30732936819011875
+3999,FirstLine supervisors of nonretail sales workers,First-Line Supervisors of Retail Sales Workers,0.42501142704450084
+4008,Sales representatives of services except advertising insurance financial services and travel,"Securities, Commodities, and Financial Services Sales Agents",0.4203369981707594
+4015,Sales and related workers all other,Sales Managers,0.39624120503679106
+4019,Communications equipment operators all other,"Communications Teachers, Postsecondary",0.4335092800916924
+4027,Financial clerks all other,Financial Managers,0.49231840009766253
+4044,Information and record clerks all other,Receptionists and Information Clerks,0.4307634529206974
+4099,Helpers construction trades,First-Line Supervisors of Construction Trades and Extraction Workers,0.42993882598313016
+4107,Miscellaneous construction and related workers,Construction Managers,0.45494861804421866
+4132,Miscellaneous vehicle and mobile equipment mechanics installers and repairers,Audiovisual Equipment Installers and Repairers,0.41063338430608787
+4142,Precision instrument and equipment repairers,Medical Equipment Repairers,0.40286766022048026
+4162,Food processing workers all other,Food Preparation Workers,0.3955368367522605
+4178,Laundry and drycleaning workers,Laundry and Dry-Cleaning Workers,0.4130892641169059
+4185,Other textile apparel and furnishings workers,Fabric and Apparel Patternmakers,0.32144020192456
+4196,Cutting workers,"Textile Cutting Machine Setters, Operators, and Tenders",0.49195887690754364
+4219,Driversales workers and truck drivers,Light Truck Drivers,0.48842645152936603
+4220,Motor vehicle operators all other,Recreational Vehicle Service Technicians,0.32483393675122396
+4223,Other rail transportation workers,Rail Car Repairers,0.4631457118035026
+4225,Ship and boat captains and operators,Ship Engineers,0.41297679848379154
+4228,Transportation service attendants,Transportation Engineers,0.4759170792793558
+4242,Other material moving workers,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,0.4807513296007664
+4263,Gaming managers,Sales Managers,0.3392873923474356
+4267,Postmasters and mail superintendents,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.3773887770369559
+4271,Managers all other,Sales Managers,0.3696097589298694
+4287,Business operations specialists all other,Airfield Operations Specialists,0.4741048259618431
+4299,Financial specialists all other,Financial Managers,0.4781371863912042
+4304,Software developers applications and systems software,Software Quality Assurance Analysts and Testers,0.3467228158548382
+4331,Engineers all other,Sales Engineers,0.39211122589104425
+4339,Life scientists all other,Animal Scientists,0.3212147287554923
+4344,Physical scientists all other,Physical Therapists,0.4632431824163994
+4356,Miscellaneous life physical and social science technicians,Food Science Technicians,0.43216125105844466
+4364,Religious workers all other,"Directors, Religious Activities and Education",0.3745869973352715
+4369,Miscellaneous legal support workers,Paralegals and Legal Assistants,0.35858257478176275
+4379,Teacher assistants,Medical Assistants,0.34343876984154315
+4380,Other education training and library workers,Library Technicians,0.44978704971725136
+4381,Artists and related workers,Craft Artists,0.4313291677916558
+4385,Athletes coaches umpires and related workers,Coaches and Scouts,0.37496353109746194
+4388,Announcers,Broadcast Announcers and Radio Disc Jockeys,0.4546294286709297
+4394,Miscellaneous media and communication workers,Media Technical Directors/Managers,0.3138030303635681
+4403,Physicians and surgeons,"Physicians, Pathologists",0.4530831751408542
+4419,Health diagnosing and treating practitioners all other,Nurse Practitioners,0.34181459686298626
+4422,Diagnostic related technologists and technicians,Veterinary Technologists and Technicians,0.428687467335048
+4423,Emergency medical technicians and paramedics,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0.4818217635081018
+4424,Health practitioner support technologists and technicians,Veterinary Technologists and Technicians,0.3678727810894935
+4426,Medical records and health information technicians,Medical and Health Services Managers,0.4304301856020409
+4428,Miscellaneous health technologists and technicians,Veterinary Technologists and Technicians,0.47999589794897535
+4442,Firstline supervisors of fire fighting and prevention workers,Fire-Prevention and Protection Engineers,0.45118502655288695
+4443,Firstline supervisors of protective service workers all other,First-Line Supervisors of Personal Service Workers,0.3817116091337499
+4464,Counter attendants cafeteria food concession and coffee shop,Fast Food and Counter Workers,0.3549317596188084
+4476,Grounds maintenance workers,"Maintenance Workers, Machinery",0.43089861008280533
+4477,Firstline supervisors of gaming workers,First-Line Supervisors of Personal Service Workers,0.33832739928403077
+4481,Gaming services workers,Administrative Services Managers,0.4063889046906599
+4496,Firstline supervisors of nonretail sales workers,First-Line Supervisors of Retail Sales Workers,0.42501142704450084
+4505,Sales representatives services all other,Solar Sales Representatives and Assessors,0.4266971964127923
+4512,Sales and related workers all other,Sales Managers,0.39624120503679106
+4516,Communications equipment operators all other,"Communications Teachers, Postsecondary",0.4335092800916924
+4524,Financial clerks all other,Financial Managers,0.49231840009766253
+4541,Information and record clerks all other,Receptionists and Information Clerks,0.4307634529206974
+4594,Helpers construction trades,First-Line Supervisors of Construction Trades and Extraction Workers,0.42993882598313016
+4627,Miscellaneous vehicle and mobile equipment mechanics installers and repairers,Audiovisual Equipment Installers and Repairers,0.41063338430608787
+4637,Precision instrument and equipment repairers,Medical Equipment Repairers,0.40286766022048026
+4651,Miscellaneous assemblers and fabricators,Engine and Other Machine Assemblers,0.3571967585158705
+4657,Food processing workers all other,Food Preparation Workers,0.3955368367522605
+4681,Laundry and drycleaning workers,Laundry and Dry-Cleaning Workers,0.4130892641169059
+4705,Cutting workers,"Textile Cutting Machine Setters, Operators, and Tenders",0.49195887690754364
+4729,Driversales workers and truck drivers,Light Truck Drivers,0.48842645152936603
+4730,Motor vehicle operators all other,Recreational Vehicle Service Technicians,0.32483393675122396
+4736,Ship and boat captains and operators,Ship Engineers,0.41297679848379154
+4755,Mine shuttle car operators,Rail Car Repairers,0.3463624816612242
+4757,Material moving workers all other,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,0.44346289082667845
+4778,Gaming managers,Sales Managers,0.3392873923474356
+4782,Postmasters and mail superintendents,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.3773887770369559
+4786,Managers all other,Sales Managers,0.3696097589298694
+4802,Business operations specialists all other,Airfield Operations Specialists,0.4741048259618431
+4814,Financial specialists all other,Financial Managers,0.4781371863912042
+4819,Software developers applications and systems software,Software Quality Assurance Analysts and Testers,0.3467228158548382
+4846,Engineers all other,Sales Engineers,0.39211122589104425
+4854,Life scientists all other,Animal Scientists,0.3212147287554923
+4859,Physical scientists all other,Physical Therapists,0.4632431824163994
+4871,Miscellaneous life physical and social science technicians,Food Science Technicians,0.43216125105844466
+4879,Religious workers all other,"Directors, Religious Activities and Education",0.3745869973352715
+4884,Miscellaneous legal support workers,Paralegals and Legal Assistants,0.35858257478176275
+4894,Teacher assistants,Medical Assistants,0.34343876984154315
+4895,Other education training and library workers,Library Technicians,0.44978704971725136
+4896,Artists and related workers,Craft Artists,0.4313291677916558
+4900,Athletes coaches umpires and related workers,Coaches and Scouts,0.37496353109746194
+4903,Announcers,Broadcast Announcers and Radio Disc Jockeys,0.4546294286709297
+4909,Miscellaneous media and communication workers,Media Technical Directors/Managers,0.3138030303635681
+4918,Physicians and surgeons,"Physicians, Pathologists",0.4530831751408542
+4934,Health diagnosing and treating practitioners all other,Nurse Practitioners,0.34181459686298626
+4937,Diagnostic related technologists and technicians,Veterinary Technologists and Technicians,0.428687467335048
+4938,Emergency medical technicians and paramedics,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0.4818217635081018
+4939,Health practitioner support technologists and technicians,Veterinary Technologists and Technicians,0.3678727810894935
+4941,Medical records and health information technicians,Medical and Health Services Managers,0.4304301856020409
+4943,Miscellaneous health technologists and technicians,Veterinary Technologists and Technicians,0.47999589794897535
+4957,Firstline supervisors of fire fighting and prevention workers,Fire-Prevention and Protection Engineers,0.45118502655288695
+4958,Firstline supervisors of protective service workers all other,First-Line Supervisors of Personal Service Workers,0.3817116091337499
+4979,Counter attendants cafeteria food concession and coffee shop,Fast Food and Counter Workers,0.3549317596188084
+4991,Grounds maintenance workers,"Maintenance Workers, Machinery",0.43089861008280533
+4992,Firstline supervisors of gaming workers,First-Line Supervisors of Personal Service Workers,0.33832739928403077
+4996,Gaming services workers,Administrative Services Managers,0.4063889046906599
+5011,Firstline supervisors of nonretail sales workers,First-Line Supervisors of Retail Sales Workers,0.42501142704450084
+5020,Sales representatives services all other,Solar Sales Representatives and Assessors,0.4266971964127923
+5027,Sales and related workers all other,Sales Managers,0.39624120503679106
+5031,Communications equipment operators all other,"Communications Teachers, Postsecondary",0.4335092800916924
+5039,Financial clerks all other,Financial Managers,0.49231840009766253
+5056,Information and record clerks all other,Receptionists and Information Clerks,0.4307634529206974
+5109,Helpers construction trades,First-Line Supervisors of Construction Trades and Extraction Workers,0.42993882598313016
+5142,Miscellaneous vehicle and mobile equipment mechanics installers and repairers,Audiovisual Equipment Installers and Repairers,0.41063338430608787
+5152,Precision instrument and equipment repairers,Medical Equipment Repairers,0.40286766022048026
+5166,Miscellaneous assemblers and fabricators,Engine and Other Machine Assemblers,0.3571967585158705
+5172,Food processing workers all other,Food Preparation Workers,0.3955368367522605
+5196,Laundry and drycleaning workers,Laundry and Dry-Cleaning Workers,0.4130892641169059
+5220,Cutting workers,"Textile Cutting Machine Setters, Operators, and Tenders",0.49195887690754364
+5244,Driversales workers and truck drivers,Light Truck Drivers,0.48842645152936603
+5245,Motor vehicle operators all other,Recreational Vehicle Service Technicians,0.32483393675122396
+5251,Ship and boat captains and operators,Ship Engineers,0.41297679848379154
