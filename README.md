@@ -58,21 +58,5 @@ Due to GitHub's file size limit, the following files could not be uploaded to th
 
 ---
 
-## Technologies Used
-
-- **Languages:**
-  - Python
-- **Libraries:**
-  - Pandas
-  - NumPy
-  - Matplotlib/Seaborn (for data visualization)
-  - Word Embedding
-- **Tools:**
-  - Jupyter Notebook
-  - GitHub for version control
-  
-
----
-
 ## Paper Current Status
 The finalized paper is still under editing and will soon be available.
