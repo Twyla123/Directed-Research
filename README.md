@@ -15,13 +15,6 @@ This research project investigates how artificial intelligence (AI) impacts wome
 
 - **Gender Distribution and Risk Evaluation:**
   - Analyzed gender distribution in high-risk occupations identified through AI exposure scores.
-
-### Skills Developed:
-- Advanced data extraction, cleaning, and analysis techniques.
-- Application of analytical frameworks to explore critical social issues.
-- Project management, breaking down abstract research questions into systematic coding and analytical steps.
-- Insights into the intersection of technology, workforce composition, and social equity.
-
 ---
 
 ## Folder Structure
